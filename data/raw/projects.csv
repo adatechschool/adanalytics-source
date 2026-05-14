@@ -1,0 +1,96 @@
+project_id,name,org_id,owner_id,status,created_at,ended_at,budget_eur
+prj_0001,V2 réservation,org_004,usr_0011,active,2025-01-09T02:31:44,,
+prj_0002,Outil support client,org_003,usr_0201,active,2024-09-22T12:43:47,,
+prj_0003,Migration compta,org_004,usr_0209,planning,2024-10-15T18:59:13,,12605.3
+prj_0004,API auth,org_016,usr_0071,active,2024-11-09T12:02:12,,
+prj_0005,Dashboard RH,org_011,usr_0004,active,2025-01-23T18:49:26,,49079.99
+prj_0006,POC e-commerce,org_013,usr_0180,planning,2024-12-19T15:17:26,,18761.51
+prj_0007,Outil newsletter,org_010,usr_0101,active,2024-12-04T05:02:48,,38744.36
+prj_0008,Refonte compta,org_007,usr_0115,archived,2024-12-05T04:44:53,,
+prj_0009,MVP compta,org_018,usr_0216,completed,2024-09-04T17:25:48,2025-01-02T03:38:12,
+prj_0010,API facturation,org_017,usr_0170,completed,2025-03-11T02:02:29,2025-02-09T02:02:29,
+prj_0011,Système gestion projet,org_017,usr_0134,active,2025-02-26T01:08:18,,32042.18
+prj_0012,V2 facturation,org_013,usr_0202,active,2024-09-25T04:31:06,,
+prj_0013,MVP billing,org_011,usr_0129,active,2025-01-05T16:53:06,,
+prj_0014,Refonte CRM,org_007,usr_0222,active,2024-10-13T07:42:01,,20622.37
+prj_0015,Outil logistique,org_018,usr_0204,active,2024-11-20T15:18:35,,4975.83
+prj_0016,Migration e-commerce,org_010,usr_0168,active,2024-09-16T15:54:03,,48435.8
+prj_0017,POC support client,org_013,usr_0214,planning,2024-12-26T01:23:50,,22883.96
+prj_0018,Refonte CRM,org_018,usr_0138,planning,2024-10-10T13:50:43,,49137.08
+prj_0019,Pipeline gestion projet,org_005,usr_0113,active,2025-01-23T13:31:33,,
+prj_0020,Pipeline billing,org_003,usr_0017,completed,2024-11-16T19:10:00,2024-10-19T19:10:00,16911.72
+prj_0021,Module auth,org_002,usr_0096,completed,2024-11-05T05:46:22,2024-11-10T23:10:12,21619.87
+prj_0022,POC billing,org_012,usr_0023,archived,2024-12-16T19:00:57,,
+prj_0023,Plateforme reporting,org_008,usr_0235,planning,2025-02-08T00:02:44,,
+prj_0024,Pipeline compta,org_005,usr_0173,on_hold,2024-12-06T18:13:31,,18276.05
+prj_0025,MVP onboarding,org_018,usr_0065,active,2025-03-15T02:38:40,,
+prj_0026,API reporting,org_008,usr_0208,active,2024-12-19T02:28:56,,49980.48
+prj_0027,POC RH,org_006,usr_0190,completed,2024-12-03T15:42:25,2025-03-25T10:37:35,39970.84
+prj_0028,Refonte analytics,org_012,usr_0226,active,2024-11-07T11:06:48,,35032.51
+prj_0029,Module monitoring,org_001,usr_0066,completed,2024-10-26T04:29:21,2025-01-29T18:25:55,9190.06
+prj_0030,API reporting,org_002,usr_0110,planning,2024-11-24T23:26:49,,10472.49
+prj_0031,API compta,org_005,usr_0055,active,2025-01-04T16:03:58,,7511.81
+prj_0032,Dashboard newsletter,org_004,usr_0221,completed,2025-01-20T17:01:11,2025-03-18T14:32:15,
+prj_0033,Pipeline reporting,org_010,usr_0058,completed,2025-02-17T15:54:30,2025-03-16T22:39:33,46477.84
+prj_0034,V2 logistique,org_012,usr_0119,completed,2024-11-08T02:23:44,2024-12-12T14:34:34,47465.01
+prj_0035,Refonte e-commerce,org_013,usr_0202,archived,2024-09-13T13:49:44,,11434.31
+prj_0036,Système gestion projet,org_004,usr_0044,active,2025-01-07T14:42:48,,8810.43
+prj_0037,API réservation,org_003,usr_0198,active,2025-02-21T10:53:33,,17848.82
+prj_0038,Outil auth,org_004,usr_0011,on_hold,2025-01-28T21:11:40,,24907.56
+prj_0039,Outil analytics,org_013,usr_0146,active,2024-10-10T09:22:57,,
+prj_0040,Dashboard gestion projet,org_002,usr_0132,active,2024-12-11T09:53:11,,8464.77
+prj_0041,Module reporting,org_003,usr_0029,completed,2025-01-10T05:55:39,2025-03-14T17:00:28,
+prj_0042,Migration monitoring,org_014,usr_0067,active,2025-01-07T14:01:30,,46315.89
+prj_0043,Migration CRM,org_018,usr_0053,planning,2024-12-25T11:58:29,,42072.8
+prj_0044,Dashboard logistique,org_005,usr_0022,completed,2025-02-14T01:34:35,2025-03-09T09:11:58,
+prj_0045,Dashboard reporting,org_001,usr_0199,completed,2024-12-23T07:52:47,2025-03-10T12:12:42,44796.44
+prj_0046,Refonte newsletter,org_009,usr_0097,archived,2025-01-29T12:00:52,,22565.88
+prj_0047,POC RH,org_009,usr_0061,active,2024-11-27T20:43:51,,5286.78
+prj_0048,Plateforme RH,org_012,usr_0103,completed,2024-11-28T08:34:21,2025-02-17T15:32:21,34509.86
+prj_0049,POC gestion projet,org_016,usr_0156,active,2025-03-04T23:05:10,,2219.06
+prj_0050,Outil support client,org_017,usr_0047,archived,2024-10-17T17:06:29,,
+prj_0051,V2 gestion projet,org_007,usr_0028,on_hold,2024-09-17T13:46:05,,49864.83
+prj_0052,Système gestion projet,org_005,usr_0089,planning,2025-01-03T04:16:52,,27826.68
+prj_0053,Système auth,org_009,usr_0160,active,2024-09-05T19:14:20,,
+prj_0054,POC newsletter,org_004,usr_0166,archived,2024-10-10T05:17:56,,
+prj_0055,Refonte réservation,org_016,usr_0219,active,2024-09-15T13:12:19,,34200.24
+prj_0056,Système analytics,org_013,usr_0228,planning,2025-01-07T17:44:55,,13794.93
+prj_0057,POC réservation,org_012,usr_0210,completed,2024-12-27T16:40:36,2025-03-04T04:29:51,
+prj_0058,POC auth,org_008,usr_0230,completed,2025-01-03T14:42:34,2024-12-19T14:42:34,
+prj_0059,API support client,org_014,usr_0205,planning,2025-01-24T05:05:44,,20467.56
+prj_0060,Migration monitoring,org_017,usr_0005,completed,2024-11-07T11:20:58,2025-02-04T02:33:15,
+prj_0061,Outil onboarding,org_012,usr_0086,completed,2025-01-22T01:17:19,2025-01-25T00:30:21,
+prj_0062,Module newsletter,org_016,usr_0073,active,2025-03-04T07:25:39,,13303.67
+prj_0063,Refonte monitoring,org_003,usr_0218,archived,2024-09-20T06:46:52,,34045.91
+prj_0064,Pipeline compta,org_009,usr_0097,active,2024-09-08T18:54:05,,
+prj_0065,POC logistique,org_006,usr_0024,completed,2024-11-26T21:41:16,2025-01-19T09:02:41,19135.53
+prj_0066,POC onboarding,org_012,usr_0080,active,2025-03-01T05:56:26,,
+prj_0067,POC CRM,org_012,usr_0119,active,2024-12-19T18:44:22,,14185.92
+prj_0068,Migration facturation,org_011,usr_0054,active,2024-12-26T00:56:06,,
+prj_0069,Pipeline e-commerce,org_002,usr_0171,completed,2025-02-04T22:28:13,2025-03-25T05:25:58,13341.6
+prj_0070,MVP analytics,org_014,usr_0039,completed,2024-11-13T18:08:15,2025-02-14T03:13:27,33757.49
+prj_0071,POC CRM,org_017,usr_0064,active,2024-11-10T08:18:30,,36396.74
+prj_0072,Pipeline gestion projet,org_018,usr_0030,active,2025-01-09T08:19:16,,
+prj_0073,POC logistique,org_010,usr_0104,active,2025-01-23T08:19:52,,
+prj_0074,Outil monitoring,org_002,usr_0171,active,2024-09-28T15:46:43,,19392.63
+prj_0075,Migration e-commerce,org_010,usr_0058,active,2024-10-24T08:20:13,,45377.74
+prj_0076,Dashboard reporting,org_015,usr_0210,active,2024-11-10T01:02:48,,16014.0
+prj_0077,Refonte support client,org_002,usr_0071,active,2024-11-21T07:35:06,,4858.05
+prj_0078,Outil onboarding,org_014,usr_0176,planning,2025-02-14T14:48:25,,36667.62
+prj_0079,API compta,org_001,usr_0232,completed,2024-11-14T00:18:13,2025-03-28T16:21:47,15948.57
+prj_0080,Refonte gestion projet,org_004,usr_0166,completed,2024-12-28T21:11:58,2025-01-26T02:52:38,26254.28
+prj_0081,Outil newsletter,org_017,usr_0047,completed,2025-01-12T02:30:05,2025-02-20T06:28:19,
+prj_0082,Système compta,org_008,usr_0050,active,2024-11-22T00:26:08,,
+prj_0083,V2 réservation,org_012,usr_0207,completed,2024-09-15T12:15:08,2024-10-04T03:16:31,32851.6
+prj_0084,Outil onboarding,org_001,usr_0030,active,2025-02-09T20:37:47,,
+prj_0085,POC auth,org_005,usr_0173,completed,2024-09-04T14:43:28,2024-12-18T11:05:37,35185.95
+prj_0086,Système CRM,org_014,usr_0067,active,2025-03-18T16:18:56,,25138.08
+prj_0087,MVP auth,org_007,usr_0222,active,2024-11-18T07:43:49,,
+prj_0088,Migration compta,org_016,usr_0219,planning,2025-01-07T09:26:56,,
+prj_0089,Refonte gestion projet,org_004,usr_0209,completed,2025-03-11T21:23:00,2025-02-15T21:23:00,
+prj_0090,POC billing,org_009,usr_0068,planning,2024-12-24T23:07:36,,43769.95
+prj_0091,V2 CRM,org_010,usr_0162,planning,2024-12-31T10:38:29,,2771.51
+prj_0092,MVP billing,org_005,usr_0055,on_hold,2025-01-06T15:20:27,,
+prj_0093,Dashboard onboarding,org_003,usr_0198,active,2024-11-11T00:27:59,,41867.56
+prj_0094,Refonte RH,org_016,usr_0073,on_hold,2024-10-14T21:45:48,,5633.8
+prj_0095,Module onboarding,org_016,usr_0217,completed,2024-11-10T09:28:15,2025-03-23T07:18:17,36500.29

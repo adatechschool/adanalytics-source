@@ -1,0 +1,1851 @@
+task_id,project_id,title,status,priority,estimated_hours,actual_hours,created_at,completed_at
+tsk_00001,prj_0017,Designer tests unitaires,blocked,low,16.8,,2025-02-10T23:03:15,
+tsk_00002,prj_0074,Reviewer migration,done,critical,3.2,3.3,2025-02-16T04:48:28,2025-03-18T05:06:30
+tsk_00003,prj_0083,Valid...,todo,high,5.6,,2025-02-11T23:33:44,
+tsk_00004,prj_0022,Refactor dockerfile backend,done,medium,5.5,11.7,2024-12-31T07:54:47,2025-01-31T13:25:55
+tsk_00005,prj_0058,,done,medium,0,12.7,2025-01-12T03:48:38,2025-01-31T17:51:06
+tsk_00006,prj_0078,Spécifier modal de confirmation,done,high,,11.2,2025-03-16T16:04:16,2025-03-24T22:37:59
+tsk_00007,prj_0029,Valider documentation,in_progress,high,16.1,,2025-01-22T10:25:34,
+tsk_00008,prj_0044,Documenter maquettes Figma,done,critical,17.3,27.0,2025-03-03T07:20:35,2025-03-05T12:40:42
+tsk_00009,prj_0014,Designer modal de confirmation,done,low,9999,10.5,2024-12-01T16:46:27,2025-01-05T11:53:33
+tsk_00010,prj_0087,Estimer logs structurés,todo,high,9999,,2025-03-12T15:47:20,
+tsk_00011,prj_0007,Estimer wireframes,blocked,high,23.8,,2025-03-21T15:16:05,
+tsk_00012,prj_0050,Spécifier composant Header,done,high,2.6,23.0,2025-02-22T09:22:54,2025-03-28T00:13:14
+tsk_00013,prj_0018,Optimiser wireframes,in_review,high,9.1,,2024-11-06T09:48:38,
+tsk_00014,prj_0026,Refactor logs structurés,done,medium,1.9,15.4,2025-01-28T19:48:51,2025-02-06T10:58:51
+tsk_00015,prj_0072,Optimiser footer,done,critical,7.8,8.9,2025-02-24T23:39:50,2025-03-22T21:42:20
+tsk_00016,prj_0049,Documenter filtre de recherche,todo,low,,,2025-03-12T00:24:14,
+tsk_00017,prj_0008,Refactor tests unitaires,in_progress,medium,17.1,,2025-01-31T12:12:10,
+tsk_00018,prj_0050,Optimiser schéma BDD,done,high,3.9,11.9,2024-12-02T20:22:59,2024-12-21T08:57:32
+tsk_00019,prj_0007,Estimer pipeline CI,done,low,2.4,11.3,2024-12-06T17:28:08,2025-01-07T04:00:55
+tsk_00020,prj_0025,Corriger filtre de recherche,in_review,critical,,,2025-03-22T06:00:55,
+tsk_00021,prj_0006,,in_progress,medium,0.4,,2025-03-12T20:16:54,
+tsk_00022,prj_0042,Valider logs structurés,todo,critical,16.3,,2025-03-06T12:51:25,
+tsk_00023,prj_0029,Tester footer,done,high,2.2,7.0,2024-11-30T21:22:52,2024-12-17T20:27:54
+tsk_00024,prj_0080,Reviewer endpoint /users,in_review,medium,8.1,,2025-02-18T09:21:05,
+tsk_00025,prj_0006,Corriger composant Header,in_review,high,,,2025-02-19T22:57:55,
+tsk_00026,prj_0067,Estimer formulaire login,done,medium,24.8,15.7,2025-03-02T14:10:14,2025-03-18T03:21:43
+tsk_00027,prj_0001,Déployer logs structurés,todo,medium,17.4,,2025-03-10T23:23:19,
+tsk_00028,prj_0083,Estim...,done,low,9.6,2.1,2024-10-13T12:27:50,2024-10-17T01:48:14
+tsk_00029,prj_0034,Desig...,in_review,medium,17.3,,2025-01-26T06:06:07,
+tsk_00030,prj_0009,Spécifier système d'auth,done,low,5.6,3.1,2024-09-22T09:40:40,2024-10-21T20:22:41
+tsk_00031,prj_0004,Optimiser composant Header,todo,low,3.2,,2025-02-09T12:58:45,
+tsk_00032,prj_0094,Spécifier maquettes Figma,in_progress,critical,9.9,,2025-02-17T17:23:07,
+tsk_00033,prj_0040,Refactor modal de confirmation,done,high,2.0,4.7,2025-01-21T04:48:13,2025-02-15T01:58:14
+tsk_00034,prj_0024,Spécifier tests unitaires,done,high,,2.5,2025-03-26T22:00:02,2025-03-30T23:49:18
+tsk_00035,prj_0093,Tester logs structurés,done,medium,9.1,27.1,2025-03-03T18:14:17,2025-03-07T03:34:16
+tsk_00036,prj_0089,Refactor footer,todo,medium,16.6,,2025-03-26T01:41:13,
+tsk_00037,prj_0047,Estimer tests unitaires,done,medium,24.2,16.8,2024-12-23T22:38:28,2025-01-16T14:00:14
+tsk_00038,prj_0018,Reviewer page profil,todo,high,25.0,,2025-01-23T03:59:14,
+tsk_00039,prj_0052,Spécifier dockerfile backend,done,high,,19.8,2025-03-18T20:38:51,2025-03-30T07:40:04
+tsk_00040,prj_0051,Documenter export CSV,done,medium,,11.2,2024-12-13T07:08:12,2025-01-01T13:25:29
+tsk_00041,prj_0031,Reviewer filtre de recherche,cancelled,critical,9.1,,2025-03-28T00:00:25,
+tsk_00042,prj_0019,Estimer pipeline CI,blocked,low,,,2025-03-11T12:10:13,
+tsk_00043,prj_0027,,blocked,medium,9.1,,2025-03-14T05:13:37,
+tsk_00044,prj_0036,Valider filtre de recherche,done,medium,5.9,19.8,2025-03-29T16:06:24,2025-03-30T13:30:12
+tsk_00045,prj_0029,Refactor documentation,in_review,high,,,2025-02-03T10:57:21,
+tsk_00046,prj_0018,Reviewer dockerfile backend,todo,low,1.7,,2025-01-03T23:55:18,
+tsk_00047,prj_0054,Reviewer documentation,in_progress,low,0.6,,2025-03-16T17:38:14,
+tsk_00048,prj_0074,Implémenter intégration Stripe,todo,medium,5.0,,2025-01-21T16:19:07,
+tsk_00049,prj_0073,Reviewer schéma BDD,todo,high,3.9,,2025-03-26T06:05:58,
+tsk_00050,prj_0053,Tester envoi d'emails,done,high,0.6,20.7,2024-10-31T05:24:44,2024-12-05T09:09:03
+tsk_00051,prj_0050,Spécifier logs structurés,todo,low,,,2024-11-12T09:15:58,
+tsk_00052,prj_0061,Spécifier wireframes,done,high,25.2,4.3,2025-03-22T17:45:20,2025-03-30T17:49:03
+tsk_00053,prj_0056,Optimiser wireframes,in_review,high,3.0,,2025-02-27T10:11:59,
+tsk_00054,prj_0095,Documenter documentation,done,medium,0.5,8.9,2025-03-25T16:21:48,2025-03-26T04:34:12
+tsk_00055,prj_0001,Designer gestion des erreurs,done,medium,2.2,11.2,2025-03-06T05:20:11,2025-03-26T01:40:31
+tsk_00056,prj_0069,Reviewer composant Header,done,medium,2.9,5.8,2025-03-18T01:26:24,2025-03-29T18:29:52
+tsk_00057,prj_0091,Reviewer système d'auth,done,high,,28.5,2025-02-08T02:21:03,2025-03-14T01:06:27
+tsk_00058,prj_0066,Valider logs structurés,done,high,,0.7,2025-03-20T16:37:40,2025-03-28T09:50:24
+tsk_00059,prj_0019,Corriger dockerfile backend,blocked,medium,,,2025-03-10T08:35:36,
+tsk_00060,prj_0050,Optimiser envoi d'emails,done,medium,17.8,19.4,2025-01-03T12:14:54,2025-01-12T00:27:14
+tsk_00061,prj_0067,Spécifier wireframes,todo,high,15.5,,2025-02-13T07:37:35,
+tsk_00062,prj_0021,Refactor logs structurés,cancelled,high,2.3,,2024-11-22T02:29:22,
+tsk_00063,prj_0071,Valider API utilisateurs,done,medium,7.5,18.4,2025-01-04T14:08:43,2025-01-15T13:47:55
+tsk_00064,prj_0023,Spécifier schéma BDD,done,medium,8.1,28.7,2025-03-19T12:44:16,2025-03-25T18:14:36
+tsk_00065,prj_0057,Refactor tests unitaires,done,high,,1.3,2025-02-02T07:20:14,2025-03-16T03:40:01
+tsk_00066,prj_0009,Reviewer pipeline CI,done,critical,,15.7,2025-01-31T08:12:11,2025-02-17T11:35:24
+tsk_00067,prj_0034,Optimiser migration,in_progress,medium,8.2,,2024-12-26T07:21:35,
+tsk_00068,prj_0088,Optimiser pipeline CI,done,low,23.8,25.1,2025-01-25T20:34:16,2025-02-04T16:48:40
+tsk_00069,prj_0011,Implémenter maquettes Figma,cancelled,medium,9.7,,2025-03-30T20:30:59,
+tsk_00070,prj_0063,Documenter composant Header,cancelled,high,,,2024-10-25T19:01:32,
+tsk_00071,prj_0055,Refactor composant Header,blocked,low,8.7,,2025-03-20T07:28:17,
+tsk_00072,prj_0089,Valider système d'auth,todo,low,1.2,,2025-03-12T02:17:15,
+tsk_00073,prj_0079,Déployer footer,in_progress,medium,1.9,,2025-01-19T15:14:56,
+tsk_00074,prj_0074,Documenter pipeline CI,in_progress,low,15.9,,2025-02-08T20:49:33,
+tsk_00075,prj_0002,Reviewer wireframes,in_review,low,24.9,,2024-10-26T19:46:45,
+tsk_00076,prj_0051,Documenter documentation,done,low,24.1,10.4,2024-10-26T00:16:48,2024-12-01T03:47:38
+tsk_00077,prj_0003,Valider modal de confirmation,todo,high,2.4,,2025-01-03T17:55:54,
+tsk_00078,prj_0087,Corriger composant Header,done,high,5.1,26.1,2025-02-25T10:34:27,2025-03-04T11:20:04
+tsk_00079,prj_0074,Tester migration,done,low,5.5,21.5,2024-12-16T06:09:22,2024-12-30T09:36:39
+tsk_00080,prj_0047,Tester filtre de recherche,done,medium,0.5,20.0,2025-03-21T19:58:30,2025-03-24T16:18:54
+tsk_00081,prj_0051,Estimer maquettes Figma,todo,critical,0.7,,2024-10-27T13:53:04,
+tsk_00082,prj_0020,Documenter pipeline CI,done,high,1.7,4.2,2024-12-03T04:05:08,2025-01-02T13:59:18
+tsk_00083,prj_0042,Documenter maquettes Figma,in_review,high,8.6,,2025-02-22T19:32:45,
+tsk_00084,prj_0082,Spécifier schéma BDD,in_review,medium,2.4,,2025-03-11T12:47:37,
+tsk_00085,prj_0034,Tester API utilisateurs,in_progress,low,24.7,,2024-12-08T08:05:30,
+tsk_00086,prj_0002,Déployer endpoint /users,in_review,medium,0.9,,2025-02-18T05:56:20,
+tsk_00087,prj_0095,Documenter page profil,in_review,medium,25.2,,2025-03-15T20:00:22,
+tsk_00088,prj_0035,Documenter footer,done,medium,3.3,9.0,2025-01-02T03:12:34,2025-01-08T18:23:16
+tsk_00089,prj_0063,Spécifier endpoint /users,in_progress,low,15.5,,2024-10-26T17:56:36,
+tsk_00090,prj_0012,Designer schéma BDD,todo,low,0.8,,2024-10-24T10:45:18,
+tsk_00091,prj_0019,Spécifier documentation,in_progress,medium,0.3,,2025-01-29T00:06:16,
+tsk_00092,prj_0092,Déployer formulaire login,in_review,critical,,,2025-01-30T19:27:54,
+tsk_00093,prj_0086,Documenter migration,in_review,medium,0.6,,2025-03-23T17:44:41,
+tsk_00094,prj_0082,Reviewer modal de confirmation,todo,high,-2,,2025-01-19T01:00:19,
+tsk_00095,prj_0075,Implémenter intégration Stripe,in_review,low,0.6,,2024-11-16T13:56:40,
+tsk_00096,prj_0064,Reviewer formulaire login,done,medium,,16.3,2024-10-14T06:49:32,2024-11-17T07:55:55
+tsk_00097,prj_0063,Reviewer API utilisateurs,in_progress,medium,3.3,,2024-11-04T11:07:24,
+tsk_00098,prj_0033,Documenter maquettes Figma,done,medium,25.6,16.5,2025-02-19T13:54:56,2025-02-28T15:21:05
+tsk_00099,prj_0071,Documenter dockerfile backend,todo,low,16.0,,2024-12-11T11:33:46,
+tsk_00100,prj_0003,Déployer migration,done,high,24.9,24.7,2025-02-13T03:09:34,2025-03-11T07:05:21
+tsk_00101,prj_0079,Corriger système d'auth,in_progress,medium,23.6,,2025-01-07T23:46:50,
+tsk_00102,prj_0014,Reviewer composant Header,todo,low,2.1,,2025-01-15T13:41:23,
+tsk_00103,prj_0092,Reviewer documentation,todo,critical,2.9,,2025-01-13T12:29:20,
+tsk_00104,prj_0054,Valider dockerfile backend,in_progress,high,2.9,,2025-03-18T20:13:12,
+tsk_00105,prj_0013,Déployer modal de confirmation,done,medium,15.8,28.5,2025-01-15T12:45:23,2025-02-14T21:18:46
+tsk_00106,prj_0082,Reviewer footer,in_progress,medium,3.1,,2025-03-13T23:25:01,
+tsk_00107,prj_0069,Spécifier migration,blocked,high,3.0,,2025-03-19T22:45:48,
+tsk_00108,prj_0073,Optimiser dockerfile backend,in_progress,high,0,,2025-03-17T07:43:56,
+tsk_00109,prj_0037,Documenter endpoint /users,todo,low,9999,,2025-03-22T09:00:23,
+tsk_00110,prj_0036,Valider export CSV,done,medium,1.1,4.6,2025-03-02T08:50:31,2025-03-09T22:43:11
+tsk_00111,prj_0039,Déployer page profil,done,medium,25.8,14.9,2024-10-28T05:41:29,2024-11-05T15:08:14
+tsk_00112,prj_0077,Valider composant Header,in_progress,high,24.6,,2025-03-26T00:42:30,
+tsk_00113,prj_0016,Implémenter gestion des erreurs,done,high,2.8,16.0,2024-12-13T17:03:45,2024-12-28T12:09:39
+tsk_00114,prj_0029,Designer tests unitaires,todo,high,,,2024-11-24T22:26:28,
+tsk_00115,prj_0056,Refactor page profil,done,low,,12.3,2025-02-04T20:59:31,2025-03-03T11:38:08
+tsk_00116,prj_0065,Tester documentation,done,low,8.1,17.4,2025-02-19T06:33:47,2025-03-22T22:29:15
+tsk_00117,prj_0010,Valider page profil,done,medium,1.9,10.8,2025-03-17T13:08:50,2025-03-26T09:55:51
+tsk_00118,prj_0022,Estimer envoi d'emails,done,critical,23.7,6.4,2025-02-22T16:48:44,2025-03-06T00:50:50
+tsk_00119,prj_0095,Teste...,in_progress,medium,4.7,,2024-11-20T23:38:11,
+tsk_00120,prj_0043,Spécifier wireframes,done,low,,22.0,2025-01-14T19:00:08,2025-02-14T00:53:55
+tsk_00121,prj_0090,Reviewer wireframes,todo,medium,8.2,,2025-02-27T20:17:12,
+tsk_00122,prj_0060,Reviewer dockerfile backend,blocked,low,3.7,,2025-03-14T14:44:32,
+tsk_00123,prj_0084,Optimiser système d'auth,in_progress,medium,1.8,,2025-03-19T09:17:38,
+tsk_00124,prj_0059,Déployer wireframes,blocked,low,9999,,2025-03-19T15:35:31,
+tsk_00125,prj_0046,Spécifier dockerfile backend,done,low,9999,26.8,2025-03-05T00:06:19,2025-03-23T19:11:30
+tsk_00126,prj_0036,Reviewer export CSV,todo,high,17.2,,2025-01-29T12:21:32,
+tsk_00127,prj_0054,Documenter envoi d'emails,done,medium,2.7,19.7,2024-11-25T21:27:41,2024-12-05T22:21:03
+tsk_00128,prj_0040,Tester gestion des erreurs,blocked,medium,15.8,,2025-03-23T02:59:48,
+tsk_00129,prj_0041,Designer footer,done,high,24.0,26.9,2025-01-24T09:01:12,2025-03-05T06:22:05
+tsk_00130,prj_0017,Valider dockerfile backend,todo,critical,0.9,,2025-01-12T23:53:15,
+tsk_00131,prj_0089,Valider documentation,in_review,medium,0.9,,2025-03-30T19:39:54,
+tsk_00132,prj_0029,Documenter footer,in_review,critical,2.8,,2024-11-01T10:41:23,
+tsk_00133,prj_0057,Estimer pipeline CI,done,medium,9.8,22.2,2025-03-21T21:14:01,2025-03-29T06:18:21
+tsk_00134,prj_0074,Optimiser formulaire login,done,medium,8.5,26.4,2025-01-21T23:06:51,2025-03-03T02:39:02
+tsk_00135,prj_0095,Reviewer formulaire login,done,medium,4.2,9.5,2024-11-18T00:23:47,2024-12-30T22:47:39
+tsk_00136,prj_0007,Reviewer tests unitaires,blocked,medium,16.9,,2025-03-14T14:17:59,
+tsk_00137,prj_0051,Estimer intégration Stripe,in_progress,low,3.2,,2025-02-25T04:25:12,
+tsk_00138,prj_0092,Corriger système d'auth,todo,high,,,2025-03-24T23:17:17,
+tsk_00139,prj_0091,Valider filtre de recherche,done,critical,23.9,5.5,2025-02-06T17:37:47,2025-03-16T00:43:04
+tsk_00140,prj_0019,Documenter schéma BDD,done,low,,19.0,2025-02-09T22:18:56,2025-02-23T22:46:09
+tsk_00141,prj_0017,Documenter endpoint /users,in_progress,medium,-2,,2025-03-29T07:22:13,
+tsk_00142,prj_0031,Designer tests unitaires,done,medium,25.6,26.5,2025-01-25T17:25:07,2025-02-06T14:31:48
+tsk_00143,prj_0007,Implémenter export CSV,todo,medium,0.1,,2025-01-09T02:27:48,
+tsk_00144,prj_0054,Reviewer envoi d'emails,todo,medium,3.8,,2024-11-13T19:59:47,
+tsk_00145,prj_0012,Designer page profil,in_progress,medium,,,2025-02-21T10:02:37,
+tsk_00146,prj_0061,Refactor wireframes,todo,high,9.3,,2025-02-04T02:48:10,
+tsk_00147,prj_0081,Optimiser envoi d'emails,cancelled,medium,2.1,,2025-03-04T11:02:10,
+tsk_00148,prj_0074,Valider documentation,in_progress,low,8.1,,2025-01-27T16:18:24,
+tsk_00149,prj_0038,Reviewer système d'auth,todo,low,0.8,,2025-02-16T16:12:40,
+tsk_00150,prj_0072,Déployer schéma BDD,done,low,9999,15.4,2025-03-28T14:32:19,2025-03-29T12:24:16
+tsk_00151,prj_0043,Implémenter filtre de recherche,in_review,medium,5.5,,2025-01-27T15:24:17,
+tsk_00152,prj_0083,Spécifier migration,done,medium,16.3,2.2,2024-11-07T05:34:12,2024-12-13T06:44:37
+tsk_00153,prj_0069,Refactor page profil,in_progress,medium,,,2025-02-06T18:05:14,
+tsk_00154,prj_0049,Designer filtre de recherche,done,medium,-2,21.3,2025-03-30T21:33:34,2025-03-30T22:57:44
+tsk_00155,prj_0012,Documenter modal de confirmation,done,medium,4.8,23.7,2024-12-30T16:57:35,2025-01-17T20:57:09
+tsk_00156,prj_0062,Estimer wireframes,todo,medium,9.2,,2025-03-28T14:01:58,
+tsk_00157,prj_0017,Optimiser wireframes,done,medium,5.7,20.8,2025-01-14T23:31:04,2025-01-17T02:48:59
+tsk_00158,prj_0014,Implémenter intégration Stripe,done,high,3.4,10.0,2025-01-22T09:46:05,2025-02-01T14:15:21
+tsk_00159,prj_0086,Corriger endpoint /users,in_progress,low,,,2025-03-21T12:51:07,
+tsk_00160,prj_0070,Optimiser schéma BDD,done,medium,0.6,18.6,2025-01-20T18:44:18,2025-02-04T21:31:10
+tsk_00161,prj_0087,Designer composant Header,todo,low,16.6,,2024-11-28T02:52:20,
+tsk_00162,prj_0046,Reviewer maquettes Figma,in_progress,low,2.0,,2025-02-28T20:03:14,
+tsk_00163,prj_0090,Reviewer tests unitaires,todo,medium,,,2025-02-08T10:17:19,
+tsk_00164,prj_0079,Optimiser logs structurés,blocked,medium,1.2,,2025-01-03T02:54:59,
+tsk_00165,prj_0045,Refactor envoi d'emails,in_review,low,0.8,,2025-03-26T06:33:36,
+tsk_00166,prj_0084,Designer intégration Stripe,done,medium,2.5,5.2,2025-02-16T17:53:40,2025-03-15T08:18:04
+tsk_00167,prj_0076,Refactor maquettes Figma,done,medium,3.8,2.8,2025-02-01T18:20:39,2025-03-06T06:29:26
+tsk_00168,prj_0077,Estimer filtre de recherche,in_progress,low,9.4,,2025-02-19T04:53:40,
+tsk_00169,prj_0049,Corriger modal de confirmation,done,medium,,19.3,2025-03-20T20:32:39,2025-03-30T00:27:01
+tsk_00170,prj_0019,Designer envoi d'emails,todo,medium,9.5,,2025-03-28T17:29:27,
+tsk_00171,prj_0087,Optimiser API utilisateurs,blocked,critical,23.8,,2025-01-16T11:02:12,
+tsk_00172,prj_0038,Implémenter endpoint /users,in_progress,medium,23.6,,2025-02-03T22:37:17,
+tsk_00173,prj_0056,Optimiser composant Header,done,medium,5.6,20.0,2025-03-16T22:02:39,2025-03-22T01:05:11
+tsk_00174,prj_0047,Reviewer export CSV,todo,critical,,,2025-02-16T21:11:21,
+tsk_00175,prj_0093,Tester page profil,done,critical,5.1,14.0,2025-02-13T12:39:32,2025-03-27T06:48:34
+tsk_00176,prj_0059,Designer API utilisateurs,in_review,high,,,2025-03-14T16:07:06,
+tsk_00177,prj_0064,Spécifier intégration Stripe,done,medium,15.7,14.8,2024-12-09T17:34:15,2025-01-06T07:30:47
+tsk_00178,prj_0094,Documenter tests unitaires,done,high,15.7,7.7,2025-03-05T21:50:11,2025-03-10T04:53:01
+tsk_00179,prj_0082,,done,medium,4.4,15.6,2025-03-06T17:16:36,2025-03-28T18:15:55
+tsk_00180,prj_0038,Valider schéma BDD,todo,medium,,,2025-02-25T23:05:56,
+tsk_00181,prj_0061,Docum...,todo,low,2.1,,2025-03-19T04:27:17,
+tsk_00182,prj_0036,Documenter endpoint /users,todo,medium,16.6,,2025-02-01T02:02:04,
+tsk_00183,prj_0023,Tester wireframes,done,low,24.7,29.0,2025-03-05T08:48:29,2025-03-09T11:08:34
+tsk_00184,prj_0053,Reviewer filtre de recherche,in_progress,medium,25.5,,2025-02-01T14:36:50,
+tsk_00185,prj_0007,Estimer maquettes Figma,in_review,medium,9.7,,2025-01-05T18:07:16,
+tsk_00186,prj_0002,Reviewer migration,blocked,medium,,,2024-11-17T14:35:56,
+tsk_00187,prj_0069,Reviewer dockerfile backend,cancelled,medium,,,2025-03-11T06:56:58,
+tsk_00188,prj_0084,Déployer logs structurés,in_review,medium,1.3,,2025-03-19T20:05:02,
+tsk_00189,prj_0002,Designer système d'auth,todo,low,2.0,,2025-01-31T04:12:49,
+tsk_00190,prj_0004,Reviewer modal de confirmation,todo,critical,25.0,,2025-03-09T18:38:13,
+tsk_00191,prj_0049,Documenter schéma BDD,done,medium,17.8,13.9,2025-03-13T22:21:25,2025-03-29T10:28:24
+tsk_00192,prj_0042,Implémenter composant Header,todo,low,1.6,,2025-02-01T13:39:45,
+tsk_00193,prj_0063,Tester gestion des erreurs,blocked,medium,15.8,,2025-03-29T11:13:06,
+tsk_00194,prj_0057,Corriger intégration Stripe,in_progress,low,,,2025-03-07T03:40:48,
+tsk_00195,prj_0064,Implémenter logs structurés,done,low,24.7,27.2,2024-11-05T14:19:25,2024-11-21T14:36:15
+tsk_00196,prj_0056,Corriger maquettes Figma,done,high,2.3,24.6,2025-02-15T22:56:00,2025-03-21T09:58:51
+tsk_00197,prj_0039,Reviewer page profil,todo,critical,25.4,,2024-12-27T04:22:58,
+tsk_00198,prj_0083,Designer logs structurés,todo,low,2.7,,2024-12-03T09:28:20,
+tsk_00199,prj_0081,Déployer endpoint /users,done,low,4.8,12.0,2025-02-23T15:04:38,2025-03-19T09:04:28
+tsk_00200,prj_0058,Optimiser formulaire login,todo,low,17.7,,2025-01-05T04:58:00,
+tsk_00201,prj_0069,Corriger formulaire login,done,low,9999,14.4,2025-02-19T09:33:26,2025-02-20T07:46:02
+tsk_00202,prj_0084,Documenter système d'auth,todo,medium,0.3,,2025-02-22T12:48:16,
+tsk_00203,prj_0077,Designer migration,in_progress,high,16.9,,2025-03-20T20:37:18,
+tsk_00204,prj_0018,Implémenter intégration Stripe,done,high,7.9,4.7,2024-12-12T00:33:45,2024-12-25T07:40:17
+tsk_00205,prj_0032,Reviewer envoi d'emails,todo,low,0.4,,2025-03-18T05:08:41,
+tsk_00206,prj_0012,Designer documentation,done,high,2.0,8.5,2025-02-09T10:10:16,2025-03-12T11:37:19
+tsk_00207,prj_0005,Corriger gestion des erreurs,todo,medium,0.8,,2025-03-22T16:14:17,
+tsk_00208,prj_0068,Spécifier wireframes,todo,medium,0.8,,2025-03-30T21:01:26,
+tsk_00209,prj_0020,Estimer filtre de recherche,done,high,3.0,19.5,2025-03-29T20:38:02,2025-03-29T22:36:03
+tsk_00210,prj_0059,,todo,low,2.3,,2025-01-28T10:01:57,
+tsk_00211,prj_0076,Reviewer migration,in_progress,low,5.7,,2025-03-02T14:55:56,
+tsk_00212,prj_0049,Implémenter footer,todo,medium,1.6,,2025-03-15T16:10:36,
+tsk_00213,prj_0025,Refac...,in_progress,medium,2.1,,2025-03-30T10:49:24,
+tsk_00214,prj_0059,Documenter envoi d'emails,todo,medium,9.9,,2025-03-05T19:37:39,
+tsk_00215,prj_0030,Déployer intégration Stripe,in_review,medium,,,2024-12-11T18:26:47,
+tsk_00216,prj_0055,Déployer intégration Stripe,in_progress,medium,0.1,,2024-12-20T08:11:19,
+tsk_00217,prj_0061,Estimer système d'auth,todo,medium,9999,,2025-03-12T00:11:52,
+tsk_00218,prj_0053,Revie...,todo,medium,5.6,,2024-11-29T11:12:23,
+tsk_00219,prj_0075,Tester composant Header,cancelled,medium,2.2,,2024-10-29T02:06:43,
+tsk_00220,prj_0010,Implémenter schéma BDD,done,medium,1.6,16.5,2025-03-20T10:14:59,2025-03-27T20:39:13
+tsk_00221,prj_0043,Reviewer API utilisateurs,blocked,medium,2.4,,2025-03-06T22:25:17,
+tsk_00222,prj_0083,Tester migration,done,high,16.0,22.3,2024-10-11T12:47:33,2024-11-03T18:16:40
+tsk_00223,prj_0029,Reviewer footer,in_progress,medium,9.6,,2024-12-27T09:57:31,
+tsk_00224,prj_0061,Documenter tests unitaires,done,medium,5.7,6.1,2025-03-14T16:42:57,2025-03-16T06:56:48
+tsk_00225,prj_0037,Optimiser export CSV,todo,medium,2.5,,2025-02-25T04:32:33,
+tsk_00226,prj_0088,,blocked,medium,0,,2025-02-28T23:05:01,
+tsk_00227,prj_0067,Reviewer migration,in_review,medium,4.3,,2025-02-23T00:02:29,
+tsk_00228,prj_0017,Documenter pipeline CI,done,low,9.8,4.9,2025-03-23T06:32:44,2025-03-23T20:19:41
+tsk_00229,prj_0092,Optimiser logs structurés,in_progress,critical,,,2025-02-27T14:43:08,
+tsk_00230,prj_0041,,todo,medium,2.6,,2025-03-07T00:40:05,
+tsk_00231,prj_0021,Designer documentation,in_progress,critical,16.9,,2025-02-16T20:43:45,
+tsk_00232,prj_0065,Documenter intégration Stripe,done,medium,16.7,27.3,2025-01-30T05:34:02,2025-03-06T14:22:56
+tsk_00233,prj_0006,Implémenter composant Header,done,low,,3.2,2025-01-15T17:03:00,2025-02-02T01:26:37
+tsk_00234,prj_0083,Docum...,done,low,8.5,25.6,2024-11-30T07:10:46,2024-12-26T10:28:30
+tsk_00235,prj_0063,Implémenter logs structurés,done,medium,-2,13.1,2024-11-20T23:38:23,2025-01-01T10:23:36
+tsk_00236,prj_0045,Corriger modal de confirmation,cancelled,high,1.9,,2025-02-21T03:39:41,
+tsk_00237,prj_0094,Valider envoi d'emails,done,medium,9.4,29.7,2025-01-05T04:57:52,2025-01-28T05:55:43
+tsk_00238,prj_0012,Designer filtre de recherche,in_review,high,2.6,,2024-09-26T11:21:52,
+tsk_00239,prj_0038,Documenter intégration Stripe,done,high,3.9,7.1,2025-03-23T15:47:52,2025-03-29T06:47:16
+tsk_00240,prj_0082,Documenter footer,todo,medium,-2,,2025-02-21T18:38:13,
+tsk_00241,prj_0064,Estimer intégration Stripe,done,medium,9.3,14.5,2024-10-04T16:49:18,2024-11-06T23:58:04
+tsk_00242,prj_0003,Tester migration,in_progress,medium,2.5,,2025-03-28T22:16:39,
+tsk_00243,prj_0046,Corriger wireframes,in_progress,medium,1.9,,2025-02-03T05:31:42,
+tsk_00244,prj_0041,Optimiser API utilisateurs,done,medium,4.5,0.9,2025-03-17T18:00:59,2025-03-21T05:44:16
+tsk_00245,prj_0021,Déployer maquettes Figma,in_progress,medium,9.3,,2024-11-25T03:04:28,
+tsk_00246,prj_0015,Tester endpoint /users,in_review,low,8.8,,2025-02-09T16:17:03,
+tsk_00247,prj_0044,Corriger pipeline CI,done,low,,7.2,2025-02-22T10:12:44,2025-03-27T19:50:42
+tsk_00248,prj_0017,Corri...,in_review,high,0.8,,2025-01-02T16:33:36,
+tsk_00249,prj_0085,Documenter formulaire login,done,medium,1.0,23.6,2025-03-23T00:41:50,2025-03-24T04:48:21
+tsk_00250,prj_0045,Documenter intégration Stripe,todo,high,1.8,,2024-12-29T00:14:13,
+tsk_00251,prj_0009,Spécifier modal de confirmation,done,high,2.3,27.1,2024-10-13T05:09:42,2024-10-21T13:17:32
+tsk_00252,prj_0065,Estimer logs structurés,in_progress,medium,1.8,,2025-02-27T02:01:20,
+tsk_00253,prj_0053,Estimer système d'auth,done,medium,-2,21.3,2024-10-19T15:02:05,2024-11-06T03:55:19
+tsk_00254,prj_0064,Optimiser schéma BDD,in_review,medium,24.6,,2024-10-23T17:30:51,
+tsk_00255,prj_0009,Implémenter logs structurés,blocked,medium,0.3,,2025-03-08T11:03:32,
+tsk_00256,prj_0051,Optimiser filtre de recherche,done,critical,2.6,6.4,2025-02-20T03:51:25,2025-03-08T14:23:29
+tsk_00257,prj_0093,Valider intégration Stripe,in_progress,high,5.2,,2025-02-15T22:29:17,
+tsk_00258,prj_0052,Estimer système d'auth,done,low,,19.0,2025-02-19T05:19:28,2025-03-02T10:15:04
+tsk_00259,prj_0013,Reviewer endpoint /users,todo,low,9.1,,2025-03-18T08:04:47,
+tsk_00260,prj_0010,Estimer modal de confirmation,done,high,7.5,8.2,2025-03-27T03:08:55,2025-03-30T04:39:52
+tsk_00261,prj_0005,Estimer migration,done,low,3.7,1.5,2025-03-06T13:44:36,2025-03-08T07:39:51
+tsk_00262,prj_0022,Designer documentation,in_review,medium,8.9,,2025-03-22T05:28:36,
+tsk_00263,prj_0061,Designer dockerfile backend,done,medium,7.6,23.1,2025-03-17T15:26:19,2025-03-26T04:56:18
+tsk_00264,prj_0047,Reviewer migration,done,medium,,12.7,2025-02-03T14:36:52,2025-02-20T22:58:33
+tsk_00265,prj_0032,Corriger page profil,in_progress,medium,1.2,,2025-02-13T18:00:07,
+tsk_00266,prj_0055,Valider endpoint /users,in_progress,medium,24.7,,2025-02-26T02:49:07,
+tsk_00267,prj_0089,Reviewer migration,in_progress,medium,17.6,,2025-03-28T06:39:51,
+tsk_00268,prj_0010,Documenter intégration Stripe,in_progress,medium,24.9,,2025-03-24T02:11:14,
+tsk_00269,prj_0076,Spécifier documentation,in_progress,medium,,,2025-01-14T10:49:32,
+tsk_00270,prj_0039,Spécifier migration,done,medium,1.6,15.7,2025-01-16T09:10:23,2025-02-15T17:18:31
+tsk_00271,prj_0067,Optimiser tests unitaires,done,low,9.3,18.6,2025-01-25T00:04:26,2025-03-05T06:32:58
+tsk_00272,prj_0008,Déployer export CSV,in_progress,medium,25.6,,2025-03-16T14:42:02,
+tsk_00273,prj_0009,Documenter gestion des erreurs,done,medium,,12.5,2024-11-22T18:43:42,2024-12-04T05:50:22
+tsk_00274,prj_0025,Estimer documentation,in_progress,high,0,,2025-03-15T18:46:59,
+tsk_00275,prj_0035,Documenter logs structurés,todo,high,,,2024-11-05T13:27:16,
+tsk_00276,prj_0093,Corriger migration,done,low,1.0,28.7,2025-02-13T08:39:14,2025-03-29T01:53:58
+tsk_00277,prj_0093,Spécifier système d'auth,in_progress,medium,2.7,,2024-12-08T07:31:27,
+tsk_00278,prj_0012,Refactor migration,done,high,0.8,22.6,2024-11-10T10:02:12,2024-12-19T12:54:36
+tsk_00279,prj_0028,Valider formulaire login,in_review,medium,4.7,,2024-12-30T18:35:47,
+tsk_00280,prj_0032,Refactor documentation,done,critical,9999,19.5,2025-02-16T16:11:10,2025-02-17T16:44:21
+tsk_00281,prj_0085,Déployer dockerfile backend,done,high,24.1,11.2,2024-09-25T20:18:27,2024-10-29T20:35:06
+tsk_00282,prj_0057,Documenter schéma BDD,todo,critical,2.8,,2025-02-03T09:52:47,
+tsk_00283,prj_0081,Designer formulaire login,done,high,24.3,28.2,2025-02-11T21:35:40,2025-03-21T17:43:38
+tsk_00284,prj_0055,Spécifier page profil,done,medium,23.6,16.7,2024-10-24T12:57:35,2024-12-03T00:40:19
+tsk_00285,prj_0083,Tester endpoint /users,done,high,,17.5,2024-11-25T20:49:46,2024-12-11T02:20:30
+tsk_00286,prj_0032,Reviewer export CSV,done,high,2.2,13.8,2025-03-11T20:14:22,2025-03-19T14:18:10
+tsk_00287,prj_0042,Refactor filtre de recherche,in_progress,low,2.4,,2025-03-26T05:03:42,
+tsk_00288,prj_0072,Corriger tests unitaires,done,low,0.7,2.0,2025-03-13T04:11:20,2025-03-17T06:29:46
+tsk_00289,prj_0048,Optimiser wireframes,blocked,low,0.6,,2024-12-31T09:24:09,
+tsk_00290,prj_0027,Documenter schéma BDD,blocked,high,3.0,,2025-01-09T15:42:25,
+tsk_00291,prj_0037,Desig...,done,medium,9.2,7.4,2025-03-28T17:34:07,2025-03-29T12:37:56
+tsk_00292,prj_0059,Refactor composant Header,todo,low,1.7,,2025-02-01T12:52:52,
+tsk_00293,prj_0072,Estimer API utilisateurs,todo,critical,17.5,,2025-01-15T01:13:26,
+tsk_00294,prj_0001,Designer logs structurés,done,medium,5.8,1.7,2025-02-02T17:35:32,2025-03-01T21:31:38
+tsk_00295,prj_0060,Designer export CSV,todo,high,24.2,,2024-12-03T02:08:20,
+tsk_00296,prj_0047,Valider dockerfile backend,in_progress,high,5.4,,2025-02-19T09:04:37,
+tsk_00297,prj_0020,Estimer formulaire login,done,medium,3.8,1.6,2025-03-04T16:47:54,2025-03-13T14:10:24
+tsk_00298,prj_0064,Spécifier documentation,in_review,critical,1.7,,2024-09-24T15:06:27,
+tsk_00299,prj_0037,Documenter intégration Stripe,done,high,,29.9,2025-03-02T05:22:14,2025-03-30T13:15:09
+tsk_00300,prj_0074,Estimer logs structurés,in_review,low,1.0,,2024-11-02T17:17:25,
+tsk_00301,prj_0076,Corriger tests unitaires,done,low,3.9,19.0,2024-11-30T15:22:05,2024-12-22T16:22:51
+tsk_00302,prj_0084,Optimiser intégration Stripe,in_progress,high,23.6,,2025-03-25T20:26:02,
+tsk_00303,prj_0010,Designer dockerfile backend,cancelled,medium,24.0,,2025-03-24T08:46:58,
+tsk_00304,prj_0050,Reviewer export CSV,in_review,medium,3.8,,2025-03-18T01:48:23,
+tsk_00305,prj_0078,Refactor wireframes,in_progress,low,8.6,,2025-02-20T23:46:01,
+tsk_00306,prj_0055,Designer page profil,done,medium,4.8,20.5,2025-02-05T13:24:49,2025-02-28T01:27:33
+tsk_00307,prj_0083,Estimer schéma BDD,in_progress,medium,8.6,,2024-10-18T02:54:37,
+tsk_00308,prj_0073,Spécifier système d'auth,done,high,3.0,20.0,2025-01-27T23:32:45,2025-02-19T12:54:35
+tsk_00309,prj_0065,Tester filtre de recherche,todo,medium,3.0,,2024-11-30T01:30:19,
+tsk_00310,prj_0059,Refactor filtre de recherche,in_review,high,15.8,,2025-03-30T06:54:51,
+tsk_00311,prj_0069,Tester gestion des erreurs,todo,low,9.3,,2025-02-06T16:12:56,
+tsk_00312,prj_0039,Optimiser logs structurés,done,medium,,9.4,2025-02-07T11:47:54,2025-03-18T13:16:21
+tsk_00313,prj_0002,Déployer endpoint /users,todo,low,17.6,,2024-10-29T13:55:54,
+tsk_00314,prj_0069,Tester documentation,todo,high,5.9,,2025-02-23T11:19:59,
+tsk_00315,prj_0061,Déployer schéma BDD,done,medium,,10.3,2025-01-23T23:01:28,2025-01-26T10:21:11
+tsk_00316,prj_0092,Optimiser intégration Stripe,cancelled,high,4.8,,2025-02-17T13:28:46,
+tsk_00317,prj_0093,Estimer pipeline CI,blocked,high,0.7,,2025-03-09T18:14:27,
+tsk_00318,prj_0083,Valider gestion des erreurs,done,low,4.1,5.3,2025-02-24T12:15:18,2025-02-25T12:29:48
+tsk_00319,prj_0029,Valider logs structurés,blocked,medium,5.6,,2025-02-17T07:10:38,
+tsk_00320,prj_0087,Tester envoi d'emails,done,high,,20.2,2025-03-25T00:36:05,2025-03-25T13:09:14
+tsk_00321,prj_0026,Designer documentation,done,low,15.9,30.0,2025-01-18T10:57:31,2025-01-20T17:46:30
+tsk_00322,prj_0065,Corriger envoi d'emails,done,medium,1.9,8.1,2024-12-03T02:40:43,2024-12-26T17:20:06
+tsk_00323,prj_0072,Spécifier envoi d'emails,done,high,23.8,28.4,2025-02-04T07:37:15,2025-03-21T07:13:31
+tsk_00324,prj_0014,Corriger maquettes Figma,done,high,16.2,4.0,2025-03-14T02:27:52,2025-03-29T09:25:22
+tsk_00325,prj_0057,Corriger export CSV,done,high,25.4,4.1,2025-03-11T16:10:59,2025-03-15T00:26:28
+tsk_00326,prj_0032,Corriger dockerfile backend,in_progress,medium,2.4,,2025-03-07T16:44:07,
+tsk_00327,prj_0068,Designer footer,done,low,3.9,15.7,2025-02-04T23:37:08,2025-03-18T08:43:32
+tsk_00328,prj_0002,Corriger migration,done,critical,9999,13.3,2025-02-08T21:06:28,2025-02-16T20:33:35
+tsk_00329,prj_0020,Optimiser logs structurés,todo,medium,16.9,,2025-03-08T08:47:51,
+tsk_00330,prj_0039,Implémenter dockerfile backend,done,high,9.1,21.2,2025-02-27T12:03:14,2025-03-06T15:09:37
+tsk_00331,prj_0080,Reviewer composant Header,in_review,medium,,,2025-03-02T04:33:21,
+tsk_00332,prj_0069,Tester wireframes,in_review,high,,,2025-03-09T09:53:43,
+tsk_00333,prj_0071,Teste...,done,high,3.3,16.4,2025-01-09T23:30:36,2025-02-17T15:36:53
+tsk_00334,prj_0065,Documenter gestion des erreurs,done,high,,19.7,2024-12-18T08:23:03,2025-01-24T01:50:25
+tsk_00335,prj_0039,Déployer intégration Stripe,done,medium,2.2,20.1,2025-01-29T13:07:27,2025-03-01T00:29:57
+tsk_00336,prj_0092,Spécifier pipeline CI,done,high,16.6,24.8,2025-03-03T05:58:54,2025-03-12T14:19:29
+tsk_00337,prj_0053,Tester documentation,todo,medium,8.8,,2024-10-07T15:02:30,
+tsk_00338,prj_0051,Estimer documentation,done,medium,,4.8,2024-12-28T23:34:17,2025-01-05T21:17:49
+tsk_00339,prj_0092,Spécifier système d'auth,todo,high,,,2025-02-20T01:53:20,
+tsk_00340,prj_0021,Valider footer,in_progress,critical,0.9,,2025-02-21T19:01:33,
+tsk_00341,prj_0048,Tester export CSV,in_progress,low,2.0,,2025-01-26T05:52:00,
+tsk_00342,prj_0095,Corriger formulaire login,todo,medium,24.4,,2025-02-13T07:24:51,
+tsk_00343,prj_0093,Reviewer tests unitaires,todo,low,,,2025-03-08T15:16:41,
+tsk_00344,prj_0094,Valider footer,todo,medium,9999,,2024-12-17T01:22:51,
+tsk_00345,prj_0057,Tester endpoint /users,in_progress,low,1.6,,2025-03-09T03:28:39,
+tsk_00346,prj_0011,Implémenter intégration Stripe,cancelled,medium,9999,,2025-03-07T09:19:54,
+tsk_00347,prj_0069,Déployer pipeline CI,cancelled,medium,9.0,,2025-02-22T09:18:09,
+tsk_00348,prj_0052,Implémenter migration,todo,high,1.7,,2025-03-01T08:30:04,
+tsk_00349,prj_0013,Documenter page profil,todo,low,2.0,,2025-02-27T07:19:19,
+tsk_00350,prj_0092,Tester footer,in_progress,low,0.5,,2025-01-12T07:39:35,
+tsk_00351,prj_0077,Spécifier composant Header,in_progress,medium,1.2,,2025-03-15T02:40:42,
+tsk_00352,prj_0053,Spécifier intégration Stripe,blocked,low,2.9,,2024-12-05T13:51:28,
+tsk_00353,prj_0058,Tester API utilisateurs,done,medium,3.6,16.4,2025-01-11T18:13:48,2025-01-23T15:51:49
+tsk_00354,prj_0060,Implémenter formulaire login,in_progress,critical,6.0,,2025-03-08T00:09:37,
+tsk_00355,prj_0081,Implémenter filtre de recherche,done,medium,16.9,3.1,2025-02-01T18:15:16,2025-02-16T08:31:24
+tsk_00356,prj_0036,Refactor logs structurés,in_progress,medium,2.1,,2025-02-18T13:15:31,
+tsk_00357,prj_0042,Refactor endpoint /users,in_progress,critical,2.3,,2025-02-09T18:04:48,
+tsk_00358,prj_0087,Optimiser documentation,in_review,high,1.3,,2024-12-22T00:28:00,
+tsk_00359,prj_0086,Designer envoi d'emails,done,medium,3.8,24.5,2025-03-29T11:38:59,2025-03-30T15:36:37
+tsk_00360,prj_0057,Documenter logs structurés,in_progress,low,,,2024-12-28T14:29:41,
+tsk_00361,prj_0079,,in_progress,high,8.0,,2025-03-15T10:07:01,
+tsk_00362,prj_0026,Spécifier documentation,todo,medium,8.9,,2025-03-06T00:22:39,
+tsk_00363,prj_0009,Valider pipeline CI,done,low,17.2,6.2,2024-10-24T12:46:22,2024-11-06T20:23:16
+tsk_00364,prj_0079,Implémenter footer,done,high,4.2,25.7,2025-01-02T03:00:04,2025-01-04T15:25:32
+tsk_00365,prj_0088,Implémenter pipeline CI,in_review,medium,4.0,,2025-02-26T17:09:51,
+tsk_00366,prj_0011,Déployer footer,done,critical,0.1,5.4,2025-03-25T19:21:23,2025-03-27T00:01:43
+tsk_00367,prj_0056,Refactor dockerfile backend,todo,high,24.3,,2025-03-27T04:39:45,
+tsk_00368,prj_0031,Corriger gestion des erreurs,done,medium,15.7,27.5,2025-01-11T17:57:38,2025-01-14T16:39:57
+tsk_00369,prj_0017,Documenter envoi d'emails,blocked,medium,3.6,,2025-01-01T01:52:22,
+tsk_00370,prj_0052,Valider logs structurés,done,medium,3.1,24.0,2025-01-12T11:34:54,2025-02-04T00:25:28
+tsk_00371,prj_0087,Déployer système d'auth,in_review,medium,,,2024-11-23T08:46:08,
+tsk_00372,prj_0025,Refactor footer,todo,medium,0.2,,2025-03-29T00:33:52,
+tsk_00373,prj_0040,Refactor schéma BDD,done,medium,3.9,4.8,2025-03-06T01:05:09,2025-03-13T02:45:03
+tsk_00374,prj_0067,Spécifier formulaire login,todo,medium,23.7,,2025-01-16T20:37:33,
+tsk_00375,prj_0025,Valider migration,done,critical,5.7,18.7,2025-03-26T15:46:27,2025-03-28T16:39:29
+tsk_00376,prj_0006,Déployer pipeline CI,in_progress,low,24.3,,2025-03-25T22:29:42,
+tsk_00377,prj_0095,Implé...,in_progress,low,1.2,,2025-01-22T09:20:48,
+tsk_00378,prj_0025,Implémenter endpoint /users,done,high,8.1,26.6,2025-03-30T10:25:24,2025-03-30T14:24:32
+tsk_00379,prj_0026,Corriger endpoint /users,todo,medium,3.8,,2024-12-23T06:38:32,
+tsk_00380,prj_0040,Reviewer filtre de recherche,in_progress,high,15.7,,2025-03-09T23:56:58,
+tsk_00381,prj_0019,Designer API utilisateurs,done,low,,7.7,2025-02-05T06:17:58,2025-03-08T03:27:34
+tsk_00382,prj_0079,Tester migration,todo,medium,9.9,,2025-03-08T01:26:26,
+tsk_00383,prj_0063,Reviewer envoi d'emails,done,high,8.7,26.5,2024-10-30T21:53:55,2024-12-06T09:14:09
+tsk_00384,prj_0042,Optimiser documentation,in_progress,medium,15.6,,2025-03-17T18:14:23,
+tsk_00385,prj_0029,Déployer schéma BDD,in_review,low,2.9,,2024-12-04T14:32:24,
+tsk_00386,prj_0018,Refactor pipeline CI,todo,medium,4.6,,2025-03-05T12:39:40,
+tsk_00387,prj_0048,Tester tests unitaires,in_progress,medium,24.8,,2025-03-04T23:17:28,
+tsk_00388,prj_0070,Déployer système d'auth,todo,medium,16.3,,2025-03-18T17:47:03,
+tsk_00389,prj_0039,Documenter modal de confirmation,done,medium,,27.4,2025-03-04T02:19:08,2025-03-30T11:06:22
+tsk_00390,prj_0039,Designer composant Header,done,high,2.7,14.4,2024-12-04T02:52:35,2024-12-04T16:43:48
+tsk_00391,prj_0030,Déployer wireframes,done,low,3.6,21.8,2025-01-08T01:00:00,2025-01-30T19:07:11
+tsk_00392,prj_0055,Spécifier endpoint /users,in_progress,medium,,,2025-02-24T18:20:18,
+tsk_00393,prj_0095,Refactor migration,done,medium,3.0,12.4,2024-11-12T06:35:17,2024-12-18T19:27:40
+tsk_00394,prj_0073,Refactor intégration Stripe,blocked,low,4.0,,2025-01-26T11:23:00,
+tsk_00395,prj_0051,Corriger migration,done,low,0.6,9.5,2024-10-12T07:34:52,2024-11-24T18:01:59
+tsk_00396,prj_0089,Corriger composant Header,done,low,0.4,16.0,2025-03-26T12:52:05,2025-03-30T12:55:29
+tsk_00397,prj_0053,Spécifier footer,todo,low,2.7,,2025-02-04T16:36:15,
+tsk_00398,prj_0040,Tester envoi d'emails,done,medium,2.5,15.3,2025-03-05T08:05:15,2025-03-15T04:34:04
+tsk_00399,prj_0058,Déployer wireframes,done,medium,3.1,14.1,2025-01-09T19:46:13,2025-02-02T15:46:42
+tsk_00400,prj_0059,Documenter composant Header,done,high,4.6,12.7,2025-02-26T21:09:20,2025-03-07T09:11:32
+tsk_00401,prj_0085,Optimiser formulaire login,done,low,1.7,26.5,2024-11-14T20:32:57,2024-11-28T03:31:17
+tsk_00402,prj_0093,Spécifier système d'auth,blocked,medium,,,2024-12-23T04:56:50,
+tsk_00403,prj_0042,Spécifier formulaire login,in_review,medium,4.4,,2025-02-16T09:37:05,
+tsk_00404,prj_0052,Documenter système d'auth,todo,low,3.7,,2025-03-27T06:22:37,
+tsk_00405,prj_0071,Tester documentation,in_progress,critical,0,,2025-03-17T22:15:20,
+tsk_00406,prj_0023,,todo,high,1.0,,2025-03-08T13:27:08,
+tsk_00407,prj_0005,Implémenter gestion des erreurs,done,medium,,20.0,2025-03-30T07:47:26,2025-03-30T20:49:56
+tsk_00408,prj_0089,Implémenter composant Header,in_review,medium,0.0,,2025-03-19T08:59:42,
+tsk_00409,prj_0004,Reviewer page profil,in_progress,low,2.3,,2024-11-12T07:53:27,
+tsk_00410,prj_0006,Refactor maquettes Figma,done,high,0.9,12.2,2025-03-10T08:29:59,2025-03-23T12:03:51
+tsk_00411,prj_0023,Designer modal de confirmation,in_review,medium,1.6,,2025-02-09T10:59:07,
+tsk_00412,prj_0028,Corriger maquettes Figma,in_progress,medium,1.5,,2025-01-26T06:57:48,
+tsk_00413,prj_0081,Optimiser export CSV,in_review,critical,25.2,,2025-03-20T17:02:01,
+tsk_00414,prj_0009,Estimer composant Header,todo,high,0.6,,2025-01-12T20:50:13,
+tsk_00415,prj_0079,Déployer envoi d'emails,in_progress,high,4.0,,2024-12-08T02:26:50,
+tsk_00416,prj_0005,Estimer migration,blocked,medium,-2,,2025-02-15T21:33:11,
+tsk_00417,prj_0083,Optimiser migration,done,low,17.2,27.2,2025-01-05T12:50:55,2025-01-08T03:50:57
+tsk_00418,prj_0029,Tester tests unitaires,done,medium,2.8,2.6,2025-02-21T06:16:08,2025-03-17T03:04:25
+tsk_00419,prj_0017,Déployer pipeline CI,todo,medium,1.1,,2025-01-03T23:12:43,
+tsk_00420,prj_0023,Reviewer modal de confirmation,in_progress,medium,,,2025-03-04T04:11:10,
+tsk_00421,prj_0047,Designer wireframes,in_progress,medium,3.5,,2025-02-13T04:41:04,
+tsk_00422,prj_0049,Documenter envoi d'emails,done,high,4.9,8.1,2025-03-25T17:02:24,2025-03-26T18:37:41
+tsk_00423,prj_0062,,in_progress,high,2.7,,2025-03-07T19:14:35,
+tsk_00424,prj_0054,Estimer schéma BDD,cancelled,medium,0,,2024-12-25T20:29:59,
+tsk_00425,prj_0050,Documenter API utilisateurs,todo,high,16.5,,2025-02-04T13:02:06,
+tsk_00426,prj_0055,,in_progress,low,8.6,,2024-12-20T09:28:18,
+tsk_00427,prj_0088,Revie...,in_progress,medium,4.5,,2025-01-21T16:50:23,
+tsk_00428,prj_0076,Designer filtre de recherche,done,low,8.3,15.3,2024-11-25T15:29:49,2024-12-10T07:36:29
+tsk_00429,prj_0053,Refactor export CSV,todo,medium,2.5,,2024-10-10T07:35:57,
+tsk_00430,prj_0063,Designer wireframes,todo,high,2.3,,2024-09-20T14:08:16,
+tsk_00431,prj_0026,Estimer intégration Stripe,todo,critical,,,2025-03-23T13:36:09,
+tsk_00432,prj_0024,Designer tests unitaires,in_progress,high,1.7,,2025-01-13T00:28:24,
+tsk_00433,prj_0016,Déployer documentation,todo,low,,,2025-01-02T03:30:41,
+tsk_00434,prj_0035,Implémenter système d'auth,done,high,4.7,18.3,2024-09-16T09:11:10,2024-10-04T14:52:06
+tsk_00435,prj_0044,Refactor migration,in_review,medium,2.4,,2025-03-15T09:43:13,
+tsk_00436,prj_0043,Optimiser composant Header,todo,medium,,,2025-03-13T18:43:13,
+tsk_00437,prj_0078,Optimiser pipeline CI,done,medium,2.5,26.2,2025-02-20T13:59:22,2025-03-24T13:38:08
+tsk_00438,prj_0042,Optimiser migration,done,high,5.8,12.3,2025-01-09T04:46:35,2025-02-01T17:18:06
+tsk_00439,prj_0061,Optimiser composant Header,done,high,16.8,26.2,2025-03-26T23:19:46,2025-03-27T20:10:43
+tsk_00440,prj_0017,Reviewer maquettes Figma,done,medium,,13.7,2025-02-12T09:38:48,2025-03-27T22:02:18
+tsk_00441,prj_0085,Reviewer page profil,in_progress,low,,,2024-12-07T04:05:24,
+tsk_00442,prj_0042,Documenter logs structurés,done,low,3.7,20.1,2025-02-13T19:37:15,2025-02-19T19:02:25
+tsk_00443,prj_0089,Valider page profil,done,critical,24.9,22.4,2025-03-19T23:15:14,2025-03-28T16:13:27
+tsk_00444,prj_0056,Documenter page profil,in_progress,medium,1.4,,2025-03-27T05:34:04,
+tsk_00445,prj_0017,Optimiser endpoint /users,in_progress,medium,4.3,,2025-03-18T21:48:03,
+tsk_00446,prj_0047,Déployer système d'auth,done,medium,1.7,9.8,2024-12-22T09:21:56,2025-01-13T18:00:24
+tsk_00447,prj_0059,Reviewer formulaire login,done,low,5.1,4.1,2025-02-07T12:37:17,2025-03-12T22:53:54
+tsk_00448,prj_0028,Implémenter migration,in_progress,critical,2.3,,2025-02-11T14:05:58,
+tsk_00449,prj_0007,Documenter logs structurés,done,high,3.4,16.7,2025-01-07T23:20:29,2025-01-09T00:28:02
+tsk_00450,prj_0051,Optimiser modal de confirmation,done,medium,23.6,4.4,2024-10-15T11:12:32,2024-10-20T04:35:39
+tsk_00451,prj_0091,Tester tests unitaires,in_review,low,,,2025-01-29T23:11:06,
+tsk_00452,prj_0028,Optimiser intégration Stripe,done,low,23.9,4.9,2024-12-15T10:55:55,2025-01-26T03:04:34
+tsk_00453,prj_0008,Implémenter système d'auth,in_progress,medium,17.3,,2024-12-23T20:21:46,
+tsk_00454,prj_0032,Documenter envoi d'emails,todo,medium,25.2,,2025-01-24T00:13:43,
+tsk_00455,prj_0012,Designer dockerfile backend,in_review,high,,,2025-02-23T05:00:23,
+tsk_00456,prj_0015,Spéci...,todo,medium,3.2,,2024-12-06T16:25:33,
+tsk_00457,prj_0013,Reviewer footer,done,medium,1.5,2.4,2025-03-23T19:50:24,2025-03-27T18:34:11
+tsk_00458,prj_0090,Spécifier documentation,in_review,high,15.8,,2024-12-26T21:08:20,
+tsk_00459,prj_0027,Tester endpoint /users,todo,medium,,,2024-12-26T10:29:09,
+tsk_00460,prj_0017,,in_progress,low,3.9,,2025-02-19T21:25:59,
+tsk_00461,prj_0022,Déployer schéma BDD,cancelled,medium,8.6,,2025-03-08T22:34:40,
+tsk_00462,prj_0074,Refactor envoi d'emails,done,medium,,20.0,2025-01-01T21:24:28,2025-01-06T16:45:42
+tsk_00463,prj_0005,Déployer export CSV,todo,high,8.6,,2025-02-11T01:04:02,
+tsk_00464,prj_0071,Tester composant Header,in_progress,medium,1.8,,2024-12-29T20:32:32,
+tsk_00465,prj_0010,Optimiser gestion des erreurs,done,critical,23.9,19.6,2025-03-26T08:47:29,2025-03-30T08:31:12
+tsk_00466,prj_0056,Corriger dockerfile backend,todo,medium,15.7,,2025-02-13T12:44:50,
+tsk_00467,prj_0043,Déplo...,in_progress,high,5.9,,2025-03-11T01:00:41,
+tsk_00468,prj_0016,Valider documentation,done,high,0.4,26.0,2024-11-23T21:50:09,2024-12-21T16:26:53
+tsk_00469,prj_0050,Spécifier maquettes Figma,in_progress,high,1.7,,2024-11-21T19:06:10,
+tsk_00470,prj_0092,Valider dockerfile backend,done,low,16.6,21.4,2025-01-21T17:39:42,2025-02-08T16:55:06
+tsk_00471,prj_0057,Documenter footer,done,medium,2.5,24.5,2025-01-31T01:33:35,2025-03-16T21:52:43
+tsk_00472,prj_0041,Déployer page profil,done,low,2.4,8.9,2025-01-18T23:58:13,2025-02-24T02:06:18
+tsk_00473,prj_0055,Reviewer maquettes Figma,in_review,medium,15.5,,2024-11-07T12:48:35,
+tsk_00474,prj_0055,Spécifier logs structurés,in_progress,high,24.8,,2025-01-27T13:24:12,
+tsk_00475,prj_0029,Spécifier API utilisateurs,todo,high,0.8,,2024-11-29T03:10:56,
+tsk_00476,prj_0087,Corriger schéma BDD,done,high,3.8,0.6,2025-01-05T19:43:14,2025-01-16T03:57:37
+tsk_00477,prj_0083,Estimer formulaire login,blocked,high,0.9,,2024-09-29T06:28:32,
+tsk_00478,prj_0093,Designer documentation,in_review,low,3.5,,2024-12-17T04:01:27,
+tsk_00479,prj_0085,Documenter API utilisateurs,in_progress,medium,5.1,,2024-12-10T18:08:57,
+tsk_00480,prj_0057,Implémenter API utilisateurs,todo,high,,,2025-01-12T09:46:40,
+tsk_00481,prj_0037,Refactor formulaire login,todo,medium,1.8,,2025-02-23T09:47:40,
+tsk_00482,prj_0063,Tester migration,done,medium,3.8,15.3,2025-01-05T02:32:35,2025-01-24T12:25:56
+tsk_00483,prj_0014,Spécifier endpoint /users,todo,low,9.3,,2025-03-16T06:00:37,
+tsk_00484,prj_0056,Designer pipeline CI,in_progress,medium,2.2,,2025-02-23T08:40:45,
+tsk_00485,prj_0090,Estimer système d'auth,done,medium,1.1,6.1,2025-01-17T23:30:14,2025-01-26T18:36:12
+tsk_00486,prj_0017,Teste...,todo,critical,4.5,,2025-02-03T00:27:17,
+tsk_00487,prj_0040,Implémenter wireframes,in_progress,medium,,,2025-01-25T08:25:02,
+tsk_00488,prj_0047,Déployer migration,blocked,high,,,2025-01-21T08:12:58,
+tsk_00489,prj_0085,Valider système d'auth,in_progress,medium,0.2,,2025-01-07T12:37:22,
+tsk_00490,prj_0002,Refactor API utilisateurs,done,high,2.0,17.9,2025-02-02T03:33:39,2025-03-11T22:56:17
+tsk_00491,prj_0050,Optimiser envoi d'emails,done,low,5.8,26.6,2024-11-03T15:38:05,2024-12-17T22:23:51
+tsk_00492,prj_0010,Estimer modal de confirmation,done,medium,25.6,6.2,2025-03-24T08:26:48,2025-03-25T21:40:49
+tsk_00493,prj_0072,Optimiser système d'auth,done,medium,2.0,16.0,2025-02-12T01:40:51,2025-03-04T09:51:21
+tsk_00494,prj_0090,Valider formulaire login,todo,low,16.8,,2025-03-28T21:32:04,
+tsk_00495,prj_0066,Designer maquettes Figma,todo,high,1.9,,2025-03-04T21:18:18,
+tsk_00496,prj_0076,Spécifier tests unitaires,todo,critical,3.3,,2025-03-25T08:00:19,
+tsk_00497,prj_0071,Déplo...,todo,low,,,2024-12-03T11:22:13,
+tsk_00498,prj_0036,Reviewer pipeline CI,in_progress,high,,,2025-01-20T12:33:32,
+tsk_00499,prj_0084,Refactor page profil,done,critical,4.0,21.8,2025-03-15T14:16:28,2025-03-22T00:05:16
+tsk_00500,prj_0081,,done,low,1.8,29.4,2025-01-13T02:45:15,2025-02-14T00:35:04
+tsk_00501,prj_0089,Reviewer gestion des erreurs,blocked,medium,2.0,,2025-03-21T03:54:12,
+tsk_00502,prj_0051,Designer API utilisateurs,in_review,high,25.7,,2024-11-17T00:27:06,
+tsk_00503,prj_0025,Revie...,done,high,0.7,26.6,2025-03-28T22:29:39,2025-03-29T10:21:27
+tsk_00504,prj_0010,Designer système d'auth,in_progress,high,0,,2025-03-21T10:26:04,
+tsk_00505,prj_0049,Reviewer formulaire login,todo,high,7.5,,2025-03-23T14:28:03,
+tsk_00506,prj_0002,Refactor page profil,done,medium,3.9,26.8,2025-03-27T11:33:05,2025-03-30T21:31:21
+tsk_00507,prj_0008,Corriger endpoint /users,done,medium,2.3,3.5,2025-03-20T17:45:53,2025-03-24T08:11:45
+tsk_00508,prj_0004,Reviewer schéma BDD,in_review,low,25.8,,2024-12-23T12:25:09,
+tsk_00509,prj_0063,Documenter API utilisateurs,cancelled,low,2.2,,2024-10-23T04:59:00,
+tsk_00510,prj_0078,Valider filtre de recherche,todo,medium,24.2,,2025-02-21T22:51:16,
+tsk_00511,prj_0014,Documenter page profil,blocked,medium,1.3,,2024-12-04T23:05:11,
+tsk_00512,prj_0050,Estimer page profil,done,high,,8.7,2025-01-12T10:51:34,2025-02-16T17:32:07
+tsk_00513,prj_0017,Estimer footer,done,medium,17.8,23.9,2025-01-12T17:11:25,2025-02-10T22:16:18
+tsk_00514,prj_0050,Estimer maquettes Figma,done,medium,17.5,17.6,2025-01-07T00:12:12,2025-01-11T01:37:30
+tsk_00515,prj_0029,Déployer endpoint /users,todo,medium,,,2025-03-11T17:08:29,
+tsk_00516,prj_0015,Tester schéma BDD,blocked,medium,4.1,,2024-12-02T04:57:37,
+tsk_00517,prj_0029,,done,low,1.2,11.5,2024-11-06T00:50:31,2024-11-26T15:39:48
+tsk_00518,prj_0077,Corriger pipeline CI,todo,medium,1.7,,2024-12-22T00:43:31,
+tsk_00519,prj_0018,Estimer footer,done,critical,1.5,9.0,2025-03-04T20:16:37,2025-03-05T11:40:01
+tsk_00520,prj_0023,Designer logs structurés,todo,medium,8.8,,2025-03-28T20:48:32,
+tsk_00521,prj_0091,Corriger wireframes,in_review,low,0.5,,2025-01-22T12:19:24,
+tsk_00522,prj_0024,Optimiser tests unitaires,done,low,16.6,24.9,2025-03-25T08:43:32,2025-03-27T19:43:21
+tsk_00523,prj_0035,Refactor endpoint /users,todo,medium,,,2024-10-25T16:11:54,
+tsk_00524,prj_0028,Déployer maquettes Figma,todo,high,8.9,,2025-03-03T09:51:04,
+tsk_00525,prj_0073,Documenter endpoint /users,todo,medium,3.4,,2025-03-11T07:40:59,
+tsk_00526,prj_0093,Corriger migration,cancelled,high,,,2025-01-19T02:47:18,
+tsk_00527,prj_0020,Valider formulaire login,done,medium,2.7,2.8,2024-11-21T09:32:53,2024-12-13T21:06:21
+tsk_00528,prj_0088,Spécifier wireframes,todo,high,5.5,,2025-03-11T21:53:32,
+tsk_00529,prj_0044,Designer formulaire login,in_progress,high,9.0,,2025-02-28T04:25:53,
+tsk_00530,prj_0020,Implémenter export CSV,done,medium,1.1,29.1,2025-03-06T21:06:58,2025-03-27T22:29:27
+tsk_00531,prj_0022,Refactor API utilisateurs,todo,medium,5.9,,2025-02-12T04:38:59,
+tsk_00532,prj_0057,Valid...,blocked,critical,25.0,,2025-02-28T19:58:01,
+tsk_00533,prj_0088,Valider migration,in_review,medium,15.6,,2025-01-19T22:00:14,
+tsk_00534,prj_0083,Spécifier endpoint /users,done,low,5.7,5.2,2024-10-07T16:04:39,2024-10-25T21:56:29
+tsk_00535,prj_0086,Spécifier tests unitaires,in_progress,medium,,,2025-03-20T22:47:06,
+tsk_00536,prj_0051,Refactor migration,todo,medium,2.6,,2025-03-04T18:41:12,
+tsk_00537,prj_0070,Déployer migration,blocked,low,24.4,,2024-12-13T23:56:37,
+tsk_00538,prj_0056,Implémenter logs structurés,in_progress,low,2.5,,2025-02-22T16:52:22,
+tsk_00539,prj_0039,Spécifier modal de confirmation,done,high,24.2,3.2,2025-03-29T01:28:23,2025-03-29T05:23:11
+tsk_00540,prj_0026,Spécifier filtre de recherche,blocked,medium,23.5,,2025-02-24T22:13:39,
+tsk_00541,prj_0077,Valider export CSV,todo,medium,17.3,,2024-12-29T20:56:29,
+tsk_00542,prj_0002,Estimer migration,done,critical,25.6,8.3,2024-10-21T18:08:23,2024-11-10T11:36:52
+tsk_00543,prj_0082,Implémenter modal de confirmation,done,medium,2.0,16.6,2025-02-17T06:27:31,2025-03-23T01:52:37
+tsk_00544,prj_0025,Refactor endpoint /users,cancelled,medium,5.1,,2025-03-29T02:40:33,
+tsk_00545,prj_0059,Spécifier footer,in_review,medium,,,2025-03-05T09:54:38,
+tsk_00546,prj_0023,Valider filtre de recherche,in_review,low,5.1,,2025-03-24T13:10:55,
+tsk_00547,prj_0090,Corriger page profil,blocked,high,3.8,,2025-02-23T04:42:31,
+tsk_00548,prj_0080,Spécifier intégration Stripe,done,medium,0.5,6.8,2025-03-28T21:47:57,2025-03-30T04:25:45
+tsk_00549,prj_0061,Estimer footer,in_progress,high,3.5,,2025-02-03T03:15:22,
+tsk_00550,prj_0065,,in_progress,medium,0,,2025-01-20T23:22:48,
+tsk_00551,prj_0020,Optimiser envoi d'emails,done,medium,2.0,29.8,2025-01-28T12:01:25,2025-02-25T06:40:13
+tsk_00552,prj_0051,Tester gestion des erreurs,done,medium,1.8,27.2,2024-10-07T14:32:15,2024-10-27T04:12:18
+tsk_00553,prj_0017,Designer gestion des erreurs,todo,medium,0.2,,2025-02-13T00:24:04,
+tsk_00554,prj_0056,Implémenter envoi d'emails,done,medium,,17.4,2025-01-08T20:38:03,2025-01-12T16:24:38
+tsk_00555,prj_0094,Refactor filtre de recherche,cancelled,medium,2.3,,2024-11-09T06:09:40,
+tsk_00556,prj_0049,Teste...,done,medium,1.2,3.8,2025-03-17T14:34:01,2025-03-20T02:48:46
+tsk_00557,prj_0024,Déployer composant Header,todo,high,15.7,,2024-12-24T18:35:53,
+tsk_00558,prj_0088,,in_progress,medium,9.6,,2025-02-17T03:54:12,
+tsk_00559,prj_0016,Valider envoi d'emails,cancelled,medium,2.0,,2025-01-27T19:07:32,
+tsk_00560,prj_0069,Déployer API utilisateurs,done,high,,4.6,2025-02-07T04:09:11,2025-02-23T01:45:52
+tsk_00561,prj_0089,Corriger API utilisateurs,in_progress,medium,4.8,,2025-03-14T23:07:18,
+tsk_00562,prj_0052,Optimiser dockerfile backend,in_progress,low,2.5,,2025-01-21T22:07:48,
+tsk_00563,prj_0093,Valider dockerfile backend,in_review,medium,8.4,,2025-02-13T17:55:38,
+tsk_00564,prj_0081,Spécifier dockerfile backend,in_review,high,8.4,,2025-01-18T08:15:09,
+tsk_00565,prj_0004,Tester API utilisateurs,todo,medium,1.8,,2024-12-01T18:20:39,
+tsk_00566,prj_0041,Estimer intégration Stripe,todo,medium,8.0,,2025-03-18T01:45:54,
+tsk_00567,prj_0028,Reviewer page profil,done,high,0.6,22.8,2024-11-27T10:45:22,2024-12-30T13:29:50
+tsk_00568,prj_0064,Corriger système d'auth,todo,medium,0.7,,2025-03-21T10:39:55,
+tsk_00569,prj_0083,Designer formulaire login,blocked,medium,,,2024-09-17T07:33:55,
+tsk_00570,prj_0083,Designer schéma BDD,todo,low,2.7,,2024-09-21T19:55:15,
+tsk_00571,prj_0007,Estimer gestion des erreurs,in_progress,critical,0.6,,2025-02-18T14:05:08,
+tsk_00572,prj_0002,Optimiser footer,todo,medium,25.8,,2024-10-19T11:16:44,
+tsk_00573,prj_0001,Implémenter système d'auth,done,medium,3.2,10.2,2025-03-16T22:14:50,2025-03-23T07:52:45
+tsk_00574,prj_0018,Tester intégration Stripe,in_review,low,1.3,,2025-01-31T20:56:03,
+tsk_00575,prj_0031,Documenter migration,in_review,medium,,,2025-03-01T18:38:06,
+tsk_00576,prj_0038,Déployer logs structurés,in_progress,high,3.7,,2025-02-05T22:07:08,
+tsk_00577,prj_0002,Déployer documentation,in_progress,high,24.3,,2025-01-30T17:28:52,
+tsk_00578,prj_0040,Corriger export CSV,done,high,0.7,26.1,2025-03-09T13:46:55,2025-03-20T13:20:33
+tsk_00579,prj_0055,Valider gestion des erreurs,done,critical,1.2,22.5,2024-11-18T07:37:33,2024-11-23T12:29:30
+tsk_00580,prj_0061,Corriger maquettes Figma,done,medium,4.2,12.2,2025-03-27T07:35:37,2025-03-28T05:31:45
+tsk_00581,prj_0013,Designer modal de confirmation,done,high,1.7,8.6,2025-01-10T11:22:35,2025-02-08T07:29:37
+tsk_00582,prj_0083,Implémenter formulaire login,cancelled,low,9.2,,2024-12-21T04:34:50,
+tsk_00583,prj_0052,Optimiser dockerfile backend,in_review,low,17.0,,2025-02-10T05:29:35,
+tsk_00584,prj_0094,Optimiser envoi d'emails,todo,medium,3.2,,2024-10-15T12:14:32,
+tsk_00585,prj_0022,Implémenter logs structurés,in_progress,medium,0.4,,2025-01-22T04:06:14,
+tsk_00586,prj_0002,Implémenter documentation,in_progress,medium,,,2025-01-15T20:59:39,
+tsk_00587,prj_0003,Déployer wireframes,done,medium,4.7,3.3,2025-02-02T22:38:29,2025-03-12T13:52:50
+tsk_00588,prj_0045,Estimer endpoint /users,done,medium,25.0,26.8,2025-02-11T07:10:07,2025-02-27T12:00:09
+tsk_00589,prj_0015,Implémenter export CSV,done,high,9999,29.8,2025-01-12T01:18:33,2025-02-13T01:31:38
+tsk_00590,prj_0095,Optimiser page profil,cancelled,medium,17.2,,2025-03-25T12:09:43,
+tsk_00591,prj_0058,Reviewer API utilisateurs,done,medium,8.8,28.4,2025-03-29T16:09:13,2025-03-30T07:20:48
+tsk_00592,prj_0044,Estimer intégration Stripe,done,medium,,3.8,2025-03-26T13:27:24,2025-03-28T07:27:33
+tsk_00593,prj_0088,Documenter envoi d'emails,in_review,low,1.5,,2025-01-21T16:17:21,
+tsk_00594,prj_0006,Implémenter documentation,in_progress,medium,-2,,2025-01-30T20:05:59,
+tsk_00595,prj_0018,Spécifier logs structurés,done,high,,21.5,2024-12-17T13:58:49,2024-12-21T18:10:53
+tsk_00596,prj_0094,Docum...,in_review,high,17.1,,2024-11-22T02:34:46,
+tsk_00597,prj_0055,Documenter schéma BDD,cancelled,low,24.9,,2025-02-17T13:12:49,
+tsk_00598,prj_0088,Spécifier modal de confirmation,todo,low,8.0,,2025-03-22T22:13:37,
+tsk_00599,prj_0056,Refactor wireframes,todo,medium,5.9,,2025-01-17T01:32:36,
+tsk_00600,prj_0060,Designer page profil,blocked,low,8.4,,2024-11-12T20:18:52,
+tsk_00601,prj_0080,Implémenter composant Header,done,high,0.2,24.3,2025-02-19T15:06:33,2025-03-14T02:19:09
+tsk_00602,prj_0035,Documenter intégration Stripe,in_progress,low,,,2024-10-25T03:35:49,
+tsk_00603,prj_0095,Implémenter modal de confirmation,done,high,1.3,4.5,2025-03-03T21:59:08,2025-03-27T23:03:26
+tsk_00604,prj_0040,Déployer système d'auth,done,medium,,4.1,2024-12-12T15:56:57,2025-01-24T09:06:21
+tsk_00605,prj_0027,Estimer composant Header,in_review,high,24.1,,2024-12-23T18:33:02,
+tsk_00606,prj_0070,Reviewer envoi d'emails,done,medium,1.8,6.0,2025-01-03T07:05:26,2025-01-04T08:19:25
+tsk_00607,prj_0090,Documenter logs structurés,in_progress,medium,5.2,,2025-02-16T00:59:08,
+tsk_00608,prj_0014,Implémenter schéma BDD,in_review,medium,,,2025-01-11T09:55:40,
+tsk_00609,prj_0039,Valider tests unitaires,done,high,1.4,14.3,2024-10-17T00:13:23,2024-10-23T18:31:24
+tsk_00610,prj_0065,Designer wireframes,in_progress,high,2.6,,2025-01-06T19:59:39,
+tsk_00611,prj_0018,Designer page profil,done,medium,17.8,28.9,2024-12-03T15:00:15,2024-12-21T21:41:05
+tsk_00612,prj_0085,Valider intégration Stripe,in_progress,medium,9999,,2025-03-27T16:07:24,
+tsk_00613,prj_0021,Reviewer documentation,todo,low,24.1,,2024-12-20T05:35:35,
+tsk_00614,prj_0023,Corriger formulaire login,done,medium,2.3,13.5,2025-03-17T07:01:29,2025-03-19T01:28:52
+tsk_00615,prj_0042,Reviewer intégration Stripe,done,medium,1.6,13.4,2025-01-18T00:53:35,2025-02-10T21:04:10
+tsk_00616,prj_0068,Implémenter gestion des erreurs,done,low,4.9,24.4,2025-03-14T13:16:40,2025-03-15T08:38:27
+tsk_00617,prj_0010,Optimiser gestion des erreurs,todo,high,8.4,,2025-03-19T08:31:12,
+tsk_00618,prj_0080,Corriger tests unitaires,done,low,,17.3,2025-03-26T05:46:56,2025-03-26T16:06:11
+tsk_00619,prj_0067,,todo,medium,24.1,,2025-02-15T16:34:40,
+tsk_00620,prj_0091,Documenter page profil,todo,high,2.5,,2025-02-04T04:37:15,
+tsk_00621,prj_0008,,done,low,1.0,8.2,2025-03-21T05:01:13,2025-03-26T07:45:48
+tsk_00622,prj_0094,Implémenter pipeline CI,blocked,medium,25.4,,2024-12-17T21:51:12,
+tsk_00623,prj_0005,Valider envoi d'emails,cancelled,critical,15.6,,2025-02-26T08:42:08,
+tsk_00624,prj_0005,Designer documentation,done,medium,,1.1,2025-03-12T23:58:41,2025-03-18T12:39:18
+tsk_00625,prj_0026,Spécifier documentation,done,high,3.8,13.2,2025-03-02T18:33:36,2025-03-08T20:28:19
+tsk_00626,prj_0079,Implémenter pipeline CI,in_progress,medium,25.5,,2025-01-24T09:57:00,
+tsk_00627,prj_0073,Optimiser pipeline CI,cancelled,low,,,2025-01-27T19:00:20,
+tsk_00628,prj_0024,Reviewer pipeline CI,todo,medium,15.7,,2025-01-30T15:13:04,
+tsk_00629,prj_0033,Refactor pipeline CI,in_progress,high,25.1,,2025-03-16T01:18:07,
+tsk_00630,prj_0068,Spécifier système d'auth,in_progress,medium,1.7,,2025-03-22T17:43:32,
+tsk_00631,prj_0018,Optimiser maquettes Figma,cancelled,low,2.2,,2025-03-22T23:10:17,
+tsk_00632,prj_0084,Implémenter dockerfile backend,cancelled,low,3.6,,2025-03-25T21:58:26,
+tsk_00633,prj_0050,Estimer formulaire login,todo,medium,16.3,,2025-01-21T21:38:28,
+tsk_00634,prj_0070,Refactor dockerfile backend,blocked,high,25.1,,2025-01-20T07:01:26,
+tsk_00635,prj_0055,Optimiser logs structurés,done,medium,8.2,14.2,2024-10-07T17:35:20,2024-11-02T16:37:51
+tsk_00636,prj_0049,Tester endpoint /users,done,critical,2.9,3.0,2025-03-27T15:34:04,2025-03-29T07:31:44
+tsk_00637,prj_0005,Documenter gestion des erreurs,in_progress,medium,,,2025-03-24T13:09:10,
+tsk_00638,prj_0073,Tester tests unitaires,in_progress,medium,5.1,,2025-03-28T12:03:06,
+tsk_00639,prj_0072,Corriger dockerfile backend,in_review,medium,3.4,,2025-01-30T11:55:51,
+tsk_00640,prj_0036,Reviewer filtre de recherche,done,low,9.7,7.4,2025-02-01T19:29:14,2025-02-04T05:15:06
+tsk_00641,prj_0075,,todo,high,9.3,,2024-12-24T23:13:21,
+tsk_00642,prj_0077,Estimer système d'auth,in_progress,low,25.2,,2025-01-05T21:21:05,
+tsk_00643,prj_0010,Implémenter migration,in_review,medium,2.7,,2025-03-26T15:58:03,
+tsk_00644,prj_0038,,todo,medium,9.3,,2025-03-30T06:21:52,
+tsk_00645,prj_0095,,done,high,2.4,4.9,2025-02-17T01:46:18,2025-03-24T07:55:32
+tsk_00646,prj_0029,Spécifier footer,done,medium,,16.1,2025-02-12T23:27:18,2025-03-27T14:57:28
+tsk_00647,prj_0061,Documenter modal de confirmation,done,medium,1.6,10.2,2025-03-27T01:19:50,2025-03-28T12:52:11
+tsk_00648,prj_0015,Designer API utilisateurs,in_review,critical,,,2025-01-06T10:40:03,
+tsk_00649,prj_0047,Designer pipeline CI,done,medium,17.0,27.8,2025-03-01T21:03:15,2025-03-07T23:01:02
+tsk_00650,prj_0018,Refactor système d'auth,in_progress,medium,17.7,,2025-02-05T03:53:33,
+tsk_00651,prj_0026,Corriger footer,done,low,,22.4,2025-01-23T00:57:00,2025-02-14T20:22:36
+tsk_00652,prj_0005,Corriger export CSV,todo,low,1.5,,2025-03-06T16:06:18,
+tsk_00653,prj_0072,Refactor intégration Stripe,done,low,5.8,1.8,2025-02-01T18:54:18,2025-03-08T20:18:18
+tsk_00654,prj_0081,Estimer export CSV,done,medium,1.5,27.5,2025-02-24T18:30:12,2025-03-25T09:23:18
+tsk_00655,prj_0048,Spécifier intégration Stripe,in_progress,medium,1.4,,2025-02-24T10:09:44,
+tsk_00656,prj_0068,Documenter migration,done,critical,16.0,1.7,2025-02-20T08:01:57,2025-02-27T06:52:06
+tsk_00657,prj_0067,Corriger API utilisateurs,done,medium,4.0,14.9,2025-02-11T19:30:26,2025-02-25T02:33:49
+tsk_00658,prj_0014,Déployer maquettes Figma,done,low,,18.2,2024-11-27T07:22:55,2024-11-28T15:14:49
+tsk_00659,prj_0070,Implémenter API utilisateurs,done,low,4.2,13.1,2025-02-26T05:00:26,2025-03-25T22:27:46
+tsk_00660,prj_0015,Documenter page profil,in_review,medium,3.5,,2024-12-13T22:16:24,
+tsk_00661,prj_0029,Refactor dockerfile backend,todo,low,16.3,,2025-03-16T10:14:23,
+tsk_00662,prj_0005,Spécifier migration,todo,high,17.1,,2025-03-06T20:40:01,
+tsk_00663,prj_0032,Déployer logs structurés,done,high,2.1,24.5,2025-02-02T23:57:38,2025-02-26T12:27:08
+tsk_00664,prj_0012,Déployer endpoint /users,done,high,3.0,6.7,2025-03-28T19:43:12,2025-03-30T16:13:38
+tsk_00665,prj_0081,Spécifier logs structurés,in_progress,medium,16.7,,2025-03-09T19:05:04,
+tsk_00666,prj_0081,Documenter système d'auth,done,medium,2.2,23.0,2025-02-19T04:25:01,2025-03-27T20:00:37
+tsk_00667,prj_0015,Corriger API utilisateurs,in_review,medium,25.7,,2024-12-24T20:26:07,
+tsk_00668,prj_0077,Documenter wireframes,done,low,2.5,2.3,2025-02-09T07:39:27,2025-03-01T04:11:01
+tsk_00669,prj_0057,Documenter documentation,in_review,high,4.1,,2025-02-06T23:27:46,
+tsk_00670,prj_0022,Valider envoi d'emails,in_progress,medium,,,2025-03-30T21:01:04,
+tsk_00671,prj_0093,Optimiser migration,done,low,,2.4,2024-11-15T02:52:55,2024-12-11T23:03:01
+tsk_00672,prj_0027,Spécifier composant Header,done,critical,9.3,5.3,2025-02-11T23:12:17,2025-03-22T20:46:11
+tsk_00673,prj_0002,Spécifier système d'auth,done,high,25.2,5.1,2024-09-29T12:51:04,2024-10-01T14:07:00
+tsk_00674,prj_0005,Designer gestion des erreurs,done,high,,25.9,2025-02-19T05:41:51,2025-03-04T08:16:07
+tsk_00675,prj_0065,Spécifier envoi d'emails,todo,high,25.0,,2025-02-15T13:29:56,
+tsk_00676,prj_0040,Documenter dockerfile backend,in_review,high,4.2,,2025-02-12T06:33:44,
+tsk_00677,prj_0012,Estimer schéma BDD,cancelled,medium,-2,,2024-11-07T08:17:31,
+tsk_00678,prj_0094,Optimiser système d'auth,cancelled,high,,,2024-12-30T08:16:58,
+tsk_00679,prj_0030,Reviewer schéma BDD,in_progress,medium,1.0,,2025-02-19T19:00:55,
+tsk_00680,prj_0063,Valider documentation,in_progress,low,4.1,,2025-01-13T12:16:11,
+tsk_00681,prj_0040,Optimiser intégration Stripe,done,low,8.7,20.9,2025-02-15T00:28:03,2025-02-28T00:52:44
+tsk_00682,prj_0084,Spécifier maquettes Figma,in_progress,high,,,2025-03-04T17:56:31,
+tsk_00683,prj_0014,Implémenter filtre de recherche,done,medium,-2,13.4,2025-01-03T23:36:55,2025-01-13T13:33:54
+tsk_00684,prj_0064,,done,medium,16.2,13.3,2024-11-14T02:08:47,2024-11-19T19:08:27
+tsk_00685,prj_0042,Tester export CSV,done,medium,2.7,18.6,2025-03-08T07:18:46,2025-03-27T18:59:08
+tsk_00686,prj_0027,Tester filtre de recherche,blocked,high,,,2025-02-05T18:26:38,
+tsk_00687,prj_0054,Implémenter schéma BDD,todo,low,,,2024-11-14T00:33:05,
+tsk_00688,prj_0059,Valider filtre de recherche,todo,medium,2.3,,2025-02-25T08:27:47,
+tsk_00689,prj_0036,Valider schéma BDD,done,high,7.9,17.1,2025-02-04T04:55:06,2025-02-16T13:43:22
+tsk_00690,prj_0094,Corriger export CSV,in_progress,medium,25.6,,2024-11-25T22:27:13,
+tsk_00691,prj_0078,Valider logs structurés,cancelled,high,,,2025-02-28T01:48:43,
+tsk_00692,prj_0030,Tester export CSV,todo,high,0.3,,2025-01-06T00:08:47,
+tsk_00693,prj_0057,Spécifier système d'auth,done,medium,8.3,11.9,2025-02-06T23:56:37,2025-03-16T13:37:31
+tsk_00694,prj_0011,Reviewer dockerfile backend,done,critical,1.4,13.5,2025-03-27T10:27:29,2025-03-30T20:05:05
+tsk_00695,prj_0056,Refactor tests unitaires,in_progress,low,1.5,,2025-03-12T01:14:00,
+tsk_00696,prj_0023,Déployer endpoint /users,todo,medium,9.8,,2025-02-09T00:54:50,
+tsk_00697,prj_0078,Estimer composant Header,todo,medium,9.6,,2025-02-27T20:54:26,
+tsk_00698,prj_0092,Estimer filtre de recherche,cancelled,medium,0.9,,2025-02-21T08:24:21,
+tsk_00699,prj_0079,Tester page profil,done,low,24.9,13.6,2024-12-13T18:13:44,2024-12-16T11:31:46
+tsk_00700,prj_0025,Reviewer migration,done,medium,9999,21.8,2025-03-30T00:19:39,2025-03-30T21:41:38
+tsk_00701,prj_0052,Corriger modal de confirmation,done,medium,9999,8.4,2025-02-12T14:30:49,2025-03-19T23:48:36
+tsk_00702,prj_0026,Implémenter schéma BDD,in_review,medium,15.7,,2025-03-27T06:07:25,
+tsk_00703,prj_0060,Optimiser page profil,todo,low,23.5,,2024-11-24T14:12:50,
+tsk_00704,prj_0082,Déployer schéma BDD,in_review,high,25.3,,2025-02-02T17:52:11,
+tsk_00705,prj_0040,Documenter export CSV,in_progress,medium,0.9,,2024-12-21T18:26:48,
+tsk_00706,prj_0038,Estimer API utilisateurs,done,medium,0.6,15.9,2025-02-23T01:31:59,2025-03-26T05:18:51
+tsk_00707,prj_0075,Optimiser footer,todo,medium,17.9,,2025-01-07T05:44:21,
+tsk_00708,prj_0071,,todo,high,,,2025-01-01T13:42:24,
+tsk_00709,prj_0085,Refactor API utilisateurs,in_review,medium,1.6,,2024-11-16T00:20:10,
+tsk_00710,prj_0002,Reviewer système d'auth,in_review,medium,23.6,,2024-10-23T08:33:38,
+tsk_00711,prj_0079,Optimiser composant Header,done,medium,1.6,11.5,2025-02-10T15:29:40,2025-03-17T18:17:03
+tsk_00712,prj_0030,,todo,medium,9.9,,2025-03-03T10:03:19,
+tsk_00713,prj_0068,Tester export CSV,cancelled,medium,,,2025-01-14T07:23:07,
+tsk_00714,prj_0012,Refactor tests unitaires,done,low,0.5,4.9,2024-11-24T05:50:14,2024-12-26T05:10:18
+tsk_00715,prj_0027,Reviewer maquettes Figma,todo,low,4.9,,2025-02-26T10:10:19,
+tsk_00716,prj_0051,Estimer pipeline CI,blocked,medium,,,2024-12-09T02:20:09,
+tsk_00717,prj_0018,Reviewer footer,done,high,2.7,14.9,2024-12-27T05:26:15,2025-01-13T01:34:01
+tsk_00718,prj_0023,Implémenter envoi d'emails,in_progress,medium,,,2025-03-02T20:00:08,
+tsk_00719,prj_0030,Documenter footer,done,low,24.7,13.1,2024-12-21T18:56:45,2024-12-30T12:30:58
+tsk_00720,prj_0034,Spécifier système d'auth,todo,medium,24.5,,2025-01-28T23:49:54,
+tsk_00721,prj_0002,Designer logs structurés,in_progress,medium,23.6,,2024-10-23T18:30:08,
+tsk_00722,prj_0055,Estimer wireframes,done,low,3.0,25.4,2024-12-24T23:59:20,2025-01-10T06:21:58
+tsk_00723,prj_0069,Implémenter migration,done,low,4.6,6.3,2025-03-14T04:01:27,2025-03-20T10:13:29
+tsk_00724,prj_0060,Estimer API utilisateurs,todo,high,16.2,,2025-01-01T04:13:53,
+tsk_00725,prj_0004,Designer endpoint /users,in_progress,medium,,,2025-02-22T21:25:40,
+tsk_00726,prj_0015,Designer pipeline CI,done,medium,2.4,21.9,2025-01-29T00:11:22,2025-02-04T03:03:13
+tsk_00727,prj_0059,Optimiser wireframes,in_progress,high,9999,,2025-03-25T03:22:17,
+tsk_00728,prj_0093,Spécifier page profil,done,low,,13.0,2025-03-14T20:53:50,2025-03-22T04:49:00
+tsk_00729,prj_0033,Designer système d'auth,done,high,17.5,18.7,2025-03-24T16:37:34,2025-03-28T08:56:23
+tsk_00730,prj_0048,Designer dockerfile backend,in_review,high,8.5,,2025-03-19T16:30:43,
+tsk_00731,prj_0024,Implémenter footer,in_progress,medium,16.3,,2025-01-31T02:00:49,
+tsk_00732,prj_0029,Corriger envoi d'emails,todo,medium,17.0,,2024-12-08T20:14:54,
+tsk_00733,prj_0070,Refactor migration,in_review,medium,4.0,,2025-01-28T07:11:34,
+tsk_00734,prj_0090,Implémenter logs structurés,done,medium,18.0,14.9,2025-01-10T11:17:11,2025-02-10T02:54:07
+tsk_00735,prj_0048,Revie...,in_progress,medium,2.9,,2025-01-26T09:28:03,
+tsk_00736,prj_0054,Spécifier documentation,todo,critical,23.8,,2025-03-07T18:10:42,
+tsk_00737,prj_0051,Documenter filtre de recherche,in_progress,low,8.5,,2024-12-11T08:31:18,
+tsk_00738,prj_0028,Refactor gestion des erreurs,blocked,medium,2.8,,2025-01-27T15:58:24,
+tsk_00739,prj_0069,Estimer schéma BDD,in_progress,medium,1.5,,2025-03-15T00:18:01,
+tsk_00740,prj_0043,Corriger composant Header,in_review,low,1.5,,2025-03-09T13:44:30,
+tsk_00741,prj_0018,Valider intégration Stripe,done,critical,15.7,18.5,2025-02-05T23:16:53,2025-02-21T17:57:26
+tsk_00742,prj_0048,Reviewer composant Header,done,high,0.9,27.4,2024-12-02T18:27:11,2025-01-13T01:08:05
+tsk_00743,prj_0092,Implémenter modal de confirmation,in_progress,medium,2.5,,2025-01-26T00:52:27,
+tsk_00744,prj_0060,Refactor filtre de recherche,done,high,,0.7,2025-02-12T14:31:12,2025-02-15T23:53:31
+tsk_00745,prj_0087,Designer page profil,done,critical,,21.6,2025-02-05T05:26:35,2025-03-20T02:37:42
+tsk_00746,prj_0078,Estimer documentation,cancelled,high,17.4,,2025-03-18T00:43:14,
+tsk_00747,prj_0047,Reviewer tests unitaires,done,medium,23.8,25.5,2025-02-13T10:12:24,2025-02-20T12:17:24
+tsk_00748,prj_0022,Déployer documentation,in_review,medium,16.7,,2025-02-25T22:51:51,
+tsk_00749,prj_0032,Refactor tests unitaires,in_progress,medium,1.8,,2025-02-14T22:51:45,
+tsk_00750,prj_0004,Optimiser schéma BDD,done,medium,1.9,19.2,2024-12-22T10:04:18,2025-01-18T23:25:12
+tsk_00751,prj_0089,,todo,medium,7.5,,2025-03-15T00:16:15,
+tsk_00752,prj_0047,Designer documentation,done,critical,8.4,19.5,2025-03-06T14:56:21,2025-03-23T07:58:37
+tsk_00753,prj_0063,,todo,medium,2.0,,2025-01-24T04:26:04,
+tsk_00754,prj_0020,Corriger gestion des erreurs,done,high,25.5,27.4,2025-01-09T20:12:40,2025-02-06T11:37:10
+tsk_00755,prj_0068,Reviewer formulaire login,in_progress,low,9.9,,2025-03-23T05:44:25,
+tsk_00756,prj_0095,Implémenter tests unitaires,done,critical,24.1,24.0,2025-02-22T19:28:12,2025-03-07T05:48:56
+tsk_00757,prj_0089,Valider dockerfile backend,in_review,low,2.3,,2025-03-29T07:17:15,
+tsk_00758,prj_0017,Déployer intégration Stripe,in_progress,low,,,2025-02-14T19:02:41,
+tsk_00759,prj_0007,Estimer système d'auth,done,low,7.5,16.5,2025-02-04T03:02:03,2025-02-08T23:23:52
+tsk_00760,prj_0056,Reviewer modal de confirmation,done,medium,,14.0,2025-01-18T13:37:05,2025-02-24T05:53:22
+tsk_00761,prj_0053,Spécifier documentation,done,low,16.9,8.3,2024-12-19T22:44:54,2025-01-03T11:51:03
+tsk_00762,prj_0040,Teste...,todo,high,3.9,,2025-03-06T20:38:20,
+tsk_00763,prj_0009,Estimer migration,done,low,,6.2,2025-02-19T12:06:03,2025-02-28T08:54:36
+tsk_00764,prj_0030,Spécifier documentation,in_progress,medium,1.3,,2025-01-05T09:06:27,
+tsk_00765,prj_0025,Valider logs structurés,done,high,2.1,19.8,2025-03-24T17:28:15,2025-03-30T11:28:04
+tsk_00766,prj_0034,Refactor export CSV,blocked,high,2.6,,2025-02-07T17:59:22,
+tsk_00767,prj_0051,Implémenter footer,todo,critical,2.0,,2025-02-26T13:38:31,
+tsk_00768,prj_0026,Refactor endpoint /users,done,medium,8.8,17.0,2025-01-28T14:40:14,2025-02-13T10:07:16
+tsk_00769,prj_0036,Optimiser documentation,todo,low,25.1,,2025-01-17T23:39:21,
+tsk_00770,prj_0089,Valider intégration Stripe,done,medium,1.8,10.6,2025-03-29T00:56:34,2025-03-30T23:31:08
+tsk_00771,prj_0018,Optimiser footer,done,medium,1.3,9.3,2025-03-30T14:54:09,2025-03-30T20:16:15
+tsk_00772,prj_0070,Documenter endpoint /users,in_progress,medium,16.3,,2025-03-22T01:10:47,
+tsk_00773,prj_0047,Refactor tests unitaires,done,low,17.8,20.5,2025-02-22T10:29:51,2025-03-04T02:19:55
+tsk_00774,prj_0018,Estimer formulaire login,done,medium,9.7,11.5,2024-11-02T17:18:46,2024-11-27T14:08:27
+tsk_00775,prj_0042,Refactor gestion des erreurs,done,medium,24.8,29.2,2025-03-25T07:10:43,2025-03-25T20:35:52
+tsk_00776,prj_0012,Déployer page profil,blocked,medium,15.9,,2025-01-14T15:12:13,
+tsk_00777,prj_0043,Estimer wireframes,todo,medium,4.9,,2025-01-01T14:08:13,
+tsk_00778,prj_0001,Déployer migration,done,low,17.2,17.7,2025-03-10T15:49:52,2025-03-16T01:40:26
+tsk_00779,prj_0074,Valider export CSV,in_progress,high,9.0,,2025-03-27T08:15:09,
+tsk_00780,prj_0006,Refactor migration,done,critical,2.4,9.4,2025-01-13T08:39:40,2025-01-23T03:39:37
+tsk_00781,prj_0004,Corri...,done,critical,4.6,22.4,2024-12-06T03:57:27,2025-01-17T06:42:23
+tsk_00782,prj_0026,Corriger page profil,done,medium,,21.9,2025-01-28T00:47:52,2025-02-25T02:34:12
+tsk_00783,prj_0027,Refactor migration,blocked,high,,,2024-12-27T00:37:02,
+tsk_00784,prj_0065,Estim...,in_review,medium,23.8,,2025-02-04T18:44:59,
+tsk_00785,prj_0047,Reviewer schéma BDD,done,medium,3.3,19.5,2025-01-27T01:21:01,2025-02-27T15:09:33
+tsk_00786,prj_0042,Valider endpoint /users,todo,low,1.5,,2025-01-11T23:44:36,
+tsk_00787,prj_0027,Tester footer,in_progress,medium,25.2,,2025-01-29T13:34:48,
+tsk_00788,prj_0047,Déployer schéma BDD,done,low,1.6,8.3,2024-12-19T02:31:57,2025-01-28T22:51:49
+tsk_00789,prj_0061,Designer formulaire login,done,low,0,16.0,2025-01-25T09:02:00,2025-03-01T10:49:59
+tsk_00790,prj_0012,Estimer tests unitaires,cancelled,low,9.5,,2024-12-15T17:18:51,
+tsk_00791,prj_0001,Documenter export CSV,in_review,high,1.2,,2025-02-08T08:12:55,
+tsk_00792,prj_0074,Tester pipeline CI,todo,medium,7.8,,2024-11-05T18:32:34,
+tsk_00793,prj_0029,Refactor tests unitaires,todo,medium,25.7,,2024-12-13T20:41:57,
+tsk_00794,prj_0042,Optimiser formulaire login,in_progress,low,0.5,,2025-02-17T13:24:18,
+tsk_00795,prj_0082,Desig...,done,low,25.9,14.8,2024-11-28T15:25:06,2024-12-21T23:33:48
+tsk_00796,prj_0052,Documenter maquettes Figma,cancelled,medium,2.3,,2025-02-16T01:45:36,
+tsk_00797,prj_0024,Spécifier tests unitaires,in_progress,high,2.0,,2025-01-25T07:56:12,
+tsk_00798,prj_0055,Déployer tests unitaires,cancelled,low,2.3,,2024-09-25T10:04:50,
+tsk_00799,prj_0056,Spécifier filtre de recherche,cancelled,low,25.2,,2025-03-02T11:01:39,
+tsk_00800,prj_0003,Valider export CSV,done,medium,7.9,24.1,2024-11-23T08:53:21,2024-11-25T15:38:33
+tsk_00801,prj_0021,Valider pipeline CI,done,medium,1.2,16.5,2024-11-24T16:27:00,2024-12-02T01:36:08
+tsk_00802,prj_0052,Designer documentation,in_review,medium,-2,,2025-01-31T23:10:04,
+tsk_00803,prj_0091,Optimiser envoi d'emails,done,low,25.9,4.6,2025-02-23T09:38:59,2025-03-15T07:46:18
+tsk_00804,prj_0032,Designer intégration Stripe,done,medium,3.8,7.2,2025-02-27T16:40:15,2025-03-03T02:50:46
+tsk_00805,prj_0095,Estimer export CSV,blocked,low,,,2025-03-04T04:06:04,
+tsk_00806,prj_0016,Valider documentation,done,high,2.2,4.2,2025-01-15T12:07:39,2025-02-24T10:06:25
+tsk_00807,prj_0093,Implémenter composant Header,done,critical,17.7,14.3,2025-01-16T07:23:57,2025-02-15T17:47:19
+tsk_00808,prj_0063,Corriger envoi d'emails,in_progress,medium,5.6,,2025-02-14T13:27:31,
+tsk_00809,prj_0056,Documenter dockerfile backend,todo,low,4.0,,2025-02-17T16:19:13,
+tsk_00810,prj_0011,Déployer intégration Stripe,todo,high,25.6,,2025-02-26T16:11:54,
+tsk_00811,prj_0063,Valider wireframes,done,medium,1.4,18.2,2025-01-07T03:41:46,2025-01-09T04:44:51
+tsk_00812,prj_0016,Valider footer,in_progress,medium,,,2024-12-18T07:56:50,
+tsk_00813,prj_0083,Spécifier formulaire login,done,medium,,20.2,2025-03-05T11:38:01,2025-03-26T10:42:50
+tsk_00814,prj_0073,Corriger schéma BDD,todo,critical,2.4,,2025-02-09T21:28:49,
+tsk_00815,prj_0088,Documenter tests unitaires,in_progress,critical,25.5,,2025-02-09T19:08:34,
+tsk_00816,prj_0027,Refactor composant Header,done,medium,8.8,25.4,2025-03-22T02:24:07,2025-03-24T04:31:02
+tsk_00817,prj_0030,Optimiser page profil,done,low,25.3,19.4,2025-01-25T10:36:10,2025-02-18T13:52:27
+tsk_00818,prj_0045,Tester filtre de recherche,done,high,3.4,9.7,2025-02-26T18:25:09,2025-03-27T00:19:11
+tsk_00819,prj_0069,Déployer page profil,in_review,medium,1.9,,2025-02-22T05:01:34,
+tsk_00820,prj_0044,Designer système d'auth,in_progress,low,8.9,,2025-03-11T22:21:56,
+tsk_00821,prj_0011,Implémenter pipeline CI,cancelled,medium,25.2,,2025-03-13T18:26:05,
+tsk_00822,prj_0029,Déplo...,done,medium,4.5,29.0,2024-12-12T19:54:40,2024-12-24T15:49:08
+tsk_00823,prj_0071,Spécifier intégration Stripe,todo,low,3.3,,2025-02-28T15:46:46,
+tsk_00824,prj_0047,Déployer migration,in_review,medium,26.0,,2025-01-18T00:59:49,
+tsk_00825,prj_0032,Spécifier documentation,done,low,9.6,7.2,2025-03-13T23:17:32,2025-03-28T15:12:03
+tsk_00826,prj_0029,Estimer envoi d'emails,in_progress,high,,,2025-01-24T12:52:52,
+tsk_00827,prj_0022,Implémenter API utilisateurs,done,medium,,20.6,2024-12-21T02:04:48,2024-12-24T04:23:07
+tsk_00828,prj_0093,Optimiser endpoint /users,done,critical,,23.0,2025-01-03T15:08:26,2025-02-06T19:36:49
+tsk_00829,prj_0051,Optimiser logs structurés,done,medium,10.0,26.3,2024-12-10T03:36:57,2025-01-17T21:50:17
+tsk_00830,prj_0076,Implémenter API utilisateurs,done,critical,16.0,18.6,2025-01-10T02:31:47,2025-01-13T13:15:58
+tsk_00831,prj_0077,Estimer système d'auth,done,low,4.5,17.4,2024-12-26T03:22:25,2025-01-14T17:32:58
+tsk_00832,prj_0061,Documenter API utilisateurs,done,low,1.4,15.2,2025-02-04T12:02:20,2025-02-16T17:39:23
+tsk_00833,prj_0083,Spéci...,in_progress,high,1.7,,2024-10-17T04:31:29,
+tsk_00834,prj_0013,Implémenter endpoint /users,todo,critical,3.6,,2025-01-22T01:32:56,
+tsk_00835,prj_0023,Spécifier modal de confirmation,done,medium,17.6,18.2,2025-02-26T07:14:26,2025-03-05T19:26:43
+tsk_00836,prj_0023,Implé...,todo,high,2.0,,2025-03-29T06:12:25,
+tsk_00837,prj_0040,Valider wireframes,todo,medium,9.8,,2025-02-06T00:03:10,
+tsk_00838,prj_0059,Estimer système d'auth,done,medium,2.5,11.3,2025-03-29T03:29:01,2025-03-29T21:24:46
+tsk_00839,prj_0006,Estimer logs structurés,todo,critical,,,2025-02-27T05:11:21,
+tsk_00840,prj_0067,Spécifier intégration Stripe,done,medium,1.6,22.8,2025-01-06T10:36:48,2025-01-25T13:52:19
+tsk_00841,prj_0026,,blocked,medium,,,2025-02-13T23:46:14,
+tsk_00842,prj_0072,Documenter logs structurés,done,medium,,6.0,2025-02-25T08:21:58,2025-02-27T08:52:17
+tsk_00843,prj_0076,Optimiser formulaire login,done,medium,25.6,11.9,2025-02-28T23:22:50,2025-03-15T16:20:17
+tsk_00844,prj_0056,Spécifier API utilisateurs,done,high,16.3,3.4,2025-03-20T10:40:18,2025-03-23T01:08:50
+tsk_00845,prj_0092,Valider endpoint /users,done,medium,0,20.8,2025-01-26T09:46:56,2025-03-11T02:43:54
+tsk_00846,prj_0085,Déployer API utilisateurs,cancelled,critical,9.2,,2025-01-11T01:32:39,
+tsk_00847,prj_0055,,in_progress,high,25.8,,2025-01-13T20:11:03,
+tsk_00848,prj_0063,Designer formulaire login,done,medium,,20.8,2024-11-08T11:49:46,2024-12-10T16:14:14
+tsk_00849,prj_0015,Corriger filtre de recherche,todo,high,17.8,,2024-12-13T00:32:45,
+tsk_00850,prj_0051,Valider dockerfile backend,done,medium,24.7,26.6,2025-01-06T04:21:34,2025-02-15T03:04:52
+tsk_00851,prj_0017,Corriger système d'auth,cancelled,medium,23.7,,2025-02-14T08:57:01,
+tsk_00852,prj_0056,Estimer envoi d'emails,in_progress,high,24.0,,2025-03-08T11:33:00,
+tsk_00853,prj_0041,Refactor dockerfile backend,done,critical,,27.1,2025-01-14T11:53:26,2025-01-24T05:39:50
+tsk_00854,prj_0049,Déployer filtre de recherche,blocked,medium,-2,,2025-03-12T09:27:27,
+tsk_00855,prj_0009,Tester export CSV,done,medium,9.3,20.7,2024-12-09T04:13:46,2024-12-14T13:58:48
+tsk_00856,prj_0093,Corriger logs structurés,in_progress,low,24.9,,2025-01-12T11:29:35,
+tsk_00857,prj_0029,Corriger endpoint /users,done,medium,5.8,19.5,2025-03-23T04:29:16,2025-03-30T02:56:48
+tsk_00858,prj_0031,Reviewer tests unitaires,done,medium,17.3,16.3,2025-03-11T23:17:40,2025-03-22T23:53:55
+tsk_00859,prj_0050,Implémenter footer,done,medium,3.8,12.6,2024-12-06T15:47:52,2024-12-28T23:39:26
+tsk_00860,prj_0081,Designer tests unitaires,in_progress,medium,3.2,,2025-02-15T08:54:51,
+tsk_00861,prj_0018,Optimiser modal de confirmation,done,low,24.5,11.2,2025-02-28T00:42:12,2025-03-30T01:44:47
+tsk_00862,prj_0083,Corriger maquettes Figma,in_progress,low,8.5,,2025-01-12T16:45:29,
+tsk_00863,prj_0026,Reviewer composant Header,in_progress,high,0,,2025-01-30T06:36:20,
+tsk_00864,prj_0050,Optimiser logs structurés,done,medium,2.7,17.5,2025-02-04T21:21:02,2025-02-24T09:34:14
+tsk_00865,prj_0095,Valider envoi d'emails,done,medium,2.3,20.4,2024-12-05T17:54:05,2024-12-07T11:01:50
+tsk_00866,prj_0007,Refactor modal de confirmation,done,medium,9.8,25.3,2025-02-06T13:59:19,2025-02-21T12:19:26
+tsk_00867,prj_0058,Documenter système d'auth,in_progress,low,1.3,,2025-02-18T17:44:35,
+tsk_00868,prj_0080,Estimer dockerfile backend,todo,medium,2.8,,2025-02-06T15:49:22,
+tsk_00869,prj_0013,Estimer composant Header,todo,high,3.8,,2025-03-20T01:43:54,
+tsk_00870,prj_0075,Estimer logs structurés,todo,high,0.4,,2025-02-12T09:37:54,
+tsk_00871,prj_0080,Corriger logs structurés,done,high,10.0,21.5,2025-01-27T00:29:37,2025-02-10T05:06:19
+tsk_00872,prj_0064,Tester API utilisateurs,done,medium,-2,29.5,2024-09-14T23:37:03,2024-09-28T14:07:39
+tsk_00873,prj_0022,Documenter tests unitaires,done,high,0.8,22.6,2024-12-26T21:24:17,2025-01-09T03:16:56
+tsk_00874,prj_0005,Implé...,done,critical,17.2,6.4,2025-02-05T11:15:36,2025-02-23T22:46:26
+tsk_00875,prj_0090,Designer footer,in_progress,high,1.7,,2025-01-30T09:16:14,
+tsk_00876,prj_0035,Corriger logs structurés,blocked,high,0,,2024-10-15T22:17:53,
+tsk_00877,prj_0014,Tester intégration Stripe,todo,medium,0,,2024-11-29T11:58:50,
+tsk_00878,prj_0095,Tester intégration Stripe,done,medium,7.8,19.1,2025-01-15T15:16:27,2025-02-07T00:06:07
+tsk_00879,prj_0091,Corriger filtre de recherche,todo,high,,,2025-01-13T21:52:14,
+tsk_00880,prj_0088,Designer migration,in_progress,high,5.0,,2025-01-30T00:33:17,
+tsk_00881,prj_0024,,in_progress,medium,2.7,,2025-03-07T20:54:16,
+tsk_00882,prj_0074,Corriger modal de confirmation,done,high,8.5,5.3,2024-11-04T10:11:34,2024-11-15T11:30:02
+tsk_00883,prj_0082,Refactor pipeline CI,in_progress,medium,23.9,,2025-01-16T10:30:36,
+tsk_00884,prj_0008,Implémenter envoi d'emails,done,high,9999,23.1,2024-12-17T09:20:16,2025-01-19T02:38:43
+tsk_00885,prj_0087,Refactor logs structurés,in_progress,high,2.6,,2024-12-05T10:55:11,
+tsk_00886,prj_0062,Refactor maquettes Figma,done,high,4.3,5.5,2025-03-22T07:01:31,2025-03-29T10:04:05
+tsk_00887,prj_0052,Tester export CSV,done,medium,25.1,26.3,2025-02-17T04:36:10,2025-02-18T09:07:25
+tsk_00888,prj_0052,Reviewer filtre de recherche,todo,high,-2,,2025-02-07T16:26:50,
+tsk_00889,prj_0020,Designer filtre de recherche,in_progress,low,5.0,,2025-01-08T09:36:21,
+tsk_00890,prj_0064,Estimer logs structurés,in_review,high,,,2025-02-23T21:24:50,
+tsk_00891,prj_0042,Déployer wireframes,in_review,medium,-2,,2025-03-17T03:10:49,
+tsk_00892,prj_0081,Valider footer,in_progress,medium,3.5,,2025-01-27T12:04:18,
+tsk_00893,prj_0017,Implémenter tests unitaires,done,medium,17.8,20.8,2025-01-30T22:33:07,2025-02-15T18:36:11
+tsk_00894,prj_0061,Refactor modal de confirmation,done,medium,9.0,19.2,2025-02-18T06:58:26,2025-03-28T05:35:53
+tsk_00895,prj_0032,Refactor wireframes,done,high,,18.9,2025-03-09T03:30:43,2025-03-12T17:56:06
+tsk_00896,prj_0063,Optimiser dockerfile backend,done,high,25.4,23.8,2024-12-19T03:04:09,2024-12-28T12:08:31
+tsk_00897,prj_0061,Refactor envoi d'emails,in_progress,low,3.0,,2025-02-14T23:52:29,
+tsk_00898,prj_0069,Valider envoi d'emails,done,medium,4.6,15.9,2025-02-24T08:38:23,2025-03-05T19:45:53
+tsk_00899,prj_0002,Implémenter endpoint /users,in_progress,low,,,2024-11-19T10:20:07,
+tsk_00900,prj_0060,Tester envoi d'emails,in_review,medium,2.3,,2024-12-06T03:17:02,
+tsk_00901,prj_0059,Implémenter système d'auth,todo,low,25.3,,2025-02-20T20:38:27,
+tsk_00902,prj_0071,Designer filtre de recherche,done,medium,2.2,19.5,2024-11-15T06:59:06,2024-11-16T23:13:12
+tsk_00903,prj_0008,Tester export CSV,done,critical,1.7,7.4,2024-12-30T19:17:30,2025-02-03T10:59:29
+tsk_00904,prj_0044,Implémenter wireframes,todo,medium,2.0,,2025-03-22T12:22:51,
+tsk_00905,prj_0058,Documenter pipeline CI,todo,high,25.2,,2025-01-19T01:20:49,
+tsk_00906,prj_0062,Tester export CSV,todo,high,1.3,,2025-03-06T08:49:15,
+tsk_00907,prj_0038,Designer maquettes Figma,todo,high,,,2025-03-17T16:10:01,
+tsk_00908,prj_0030,Corriger intégration Stripe,done,medium,9999,12.2,2025-03-18T03:12:30,2025-03-22T02:50:58
+tsk_00909,prj_0080,Designer filtre de recherche,in_progress,medium,2.5,,2025-01-25T04:56:56,
+tsk_00910,prj_0084,Reviewer logs structurés,in_review,medium,0,,2025-03-09T13:37:02,
+tsk_00911,prj_0027,Documenter logs structurés,done,high,,11.1,2025-01-11T12:26:21,2025-01-26T05:53:29
+tsk_00912,prj_0081,Documenter modal de confirmation,done,high,16.5,25.0,2025-02-03T09:59:51,2025-02-13T22:08:57
+tsk_00913,prj_0042,Tester documentation,cancelled,medium,0.7,,2025-02-21T00:58:22,
+tsk_00914,prj_0014,Implémenter dockerfile backend,done,medium,2.0,22.0,2024-10-13T08:57:43,2024-10-31T21:20:58
+tsk_00915,prj_0025,Documenter footer,done,medium,25.8,27.0,2025-03-25T09:09:22,2025-03-25T14:15:08
+tsk_00916,prj_0016,Tester endpoint /users,done,critical,1.6,26.2,2024-09-28T10:56:50,2024-10-20T13:20:44
+tsk_00917,prj_0073,Déployer page profil,todo,medium,,,2025-03-10T22:10:16,
+tsk_00918,prj_0056,Implémenter intégration Stripe,in_review,low,16.2,,2025-03-29T08:50:24,
+tsk_00919,prj_0062,Documenter modal de confirmation,done,low,,29.9,2025-03-14T03:35:18,2025-03-14T04:43:24
+tsk_00920,prj_0073,Déployer formulaire login,done,high,17.8,14.0,2025-03-06T14:45:26,2025-03-24T10:41:21
+tsk_00921,prj_0093,Reviewer API utilisateurs,done,medium,25.2,14.3,2025-02-26T00:25:28,2025-03-16T01:57:50
+tsk_00922,prj_0064,Valider dockerfile backend,in_progress,medium,24.8,,2025-02-14T04:06:47,
+tsk_00923,prj_0088,Reviewer export CSV,done,medium,25.5,22.5,2025-01-23T08:14:24,2025-03-04T17:36:19
+tsk_00924,prj_0089,Corriger wireframes,todo,medium,9.2,,2025-03-21T12:16:26,
+tsk_00925,prj_0022,Estimer système d'auth,done,high,4.0,16.7,2025-01-29T19:53:53,2025-02-16T22:50:59
+tsk_00926,prj_0045,Déployer gestion des erreurs,done,critical,9999,26.9,2025-03-12T13:17:25,2025-03-29T09:32:28
+tsk_00927,prj_0014,Documenter pipeline CI,todo,low,24.0,,2025-01-17T11:30:47,
+tsk_00928,prj_0003,Reviewer page profil,in_progress,low,,,2024-10-21T19:54:41,
+tsk_00929,prj_0046,Refactor composant Header,todo,medium,17.0,,2025-03-09T15:04:27,
+tsk_00930,prj_0006,Refactor endpoint /users,cancelled,medium,23.7,,2025-03-25T01:04:13,
+tsk_00931,prj_0089,Reviewer documentation,done,medium,,22.9,2025-03-26T03:24:29,2025-03-29T02:23:52
+tsk_00932,prj_0033,Optimiser gestion des erreurs,todo,low,3.6,,2025-03-16T01:24:19,
+tsk_00933,prj_0040,,done,high,9999,18.0,2025-03-28T17:18:32,2025-03-29T02:39:27
+tsk_00934,prj_0057,Optimiser intégration Stripe,done,medium,8.7,21.9,2025-01-03T09:41:25,2025-02-04T03:18:31
+tsk_00935,prj_0058,Valider migration,done,low,5.4,2.8,2025-02-01T02:21:23,2025-03-13T17:58:05
+tsk_00936,prj_0084,Tester pipeline CI,done,low,0.3,7.2,2025-02-27T00:12:40,2025-03-22T23:00:24
+tsk_00937,prj_0018,Valider endpoint /users,done,critical,3.1,13.2,2024-11-05T05:00:18,2024-12-09T03:18:25
+tsk_00938,prj_0014,Spécifier footer,in_review,medium,4.5,,2025-01-02T14:37:56,
+tsk_00939,prj_0032,Valider filtre de recherche,todo,low,2.7,,2025-02-03T01:28:53,
+tsk_00940,prj_0085,Implémenter pipeline CI,done,low,,21.2,2024-11-15T15:48:16,2024-12-21T21:42:20
+tsk_00941,prj_0008,,done,low,1.0,9.9,2025-03-14T06:26:01,2025-03-17T14:16:40
+tsk_00942,prj_0061,Designer maquettes Figma,in_review,low,2.6,,2025-03-09T11:45:04,
+tsk_00943,prj_0019,Corriger intégration Stripe,in_review,critical,2.6,,2025-01-30T03:57:48,
+tsk_00944,prj_0053,Refac...,done,low,25.7,21.9,2024-09-28T23:25:54,2024-10-31T13:58:03
+tsk_00945,prj_0017,Designer gestion des erreurs,done,high,5.0,18.2,2025-02-10T14:24:01,2025-02-22T07:34:56
+tsk_00946,prj_0054,Teste...,done,high,2.3,12.1,2024-10-23T02:26:15,2024-11-05T13:37:10
+tsk_00947,prj_0069,Estimer wireframes,blocked,high,9.8,,2025-03-08T16:38:24,
+tsk_00948,prj_0078,Estimer migration,done,medium,16.2,16.2,2025-03-15T17:05:27,2025-03-24T00:33:32
+tsk_00949,prj_0035,Refactor pipeline CI,done,low,2.2,6.2,2025-01-03T19:00:35,2025-01-18T15:55:50
+tsk_00950,prj_0055,Tester schéma BDD,done,high,8.8,16.5,2024-11-27T16:46:49,2025-01-01T07:02:38
+tsk_00951,prj_0016,Reviewer migration,done,low,8.6,11.6,2025-01-07T20:30:55,2025-01-31T23:30:38
+tsk_00952,prj_0044,Corriger composant Header,in_progress,low,,,2025-02-21T04:04:29,
+tsk_00953,prj_0025,Spécifier intégration Stripe,blocked,medium,5.1,,2025-03-21T07:04:57,
+tsk_00954,prj_0063,Refactor système d'auth,todo,medium,2.1,,2025-01-13T20:56:55,
+tsk_00955,prj_0036,,done,medium,,17.2,2025-01-18T01:07:01,2025-02-19T02:25:07
+tsk_00956,prj_0044,Déployer pipeline CI,done,medium,1.4,27.9,2025-03-16T09:00:30,2025-03-22T20:23:35
+tsk_00957,prj_0041,,in_progress,high,9.9,,2025-03-25T06:20:04,
+tsk_00958,prj_0035,Designer pipeline CI,todo,low,1.8,,2025-03-21T10:04:24,
+tsk_00959,prj_0031,Valider composant Header,in_progress,medium,4.6,,2025-03-10T19:59:09,
+tsk_00960,prj_0095,Implémenter maquettes Figma,done,high,1.6,15.0,2025-01-24T01:15:23,2025-02-25T17:43:14
+tsk_00961,prj_0065,Déployer API utilisateurs,in_review,medium,2.5,,2025-03-26T10:46:04,
+tsk_00962,prj_0027,Déployer schéma BDD,in_progress,medium,17.8,,2025-01-14T23:19:36,
+tsk_00963,prj_0032,Implémenter composant Header,done,medium,1.1,15.0,2025-03-24T09:05:26,2025-03-24T15:03:35
+tsk_00964,prj_0045,Documenter documentation,in_progress,high,9.5,,2025-02-05T17:01:54,
+tsk_00965,prj_0005,Corriger filtre de recherche,in_progress,high,,,2025-03-01T19:39:10,
+tsk_00966,prj_0011,Documenter export CSV,blocked,medium,1.9,,2025-03-23T13:06:12,
+tsk_00967,prj_0009,Valider gestion des erreurs,done,medium,5.7,28.3,2024-12-03T18:06:29,2025-01-14T20:00:41
+tsk_00968,prj_0031,Optimiser page profil,done,low,9.4,23.6,2025-01-06T08:06:09,2025-02-15T00:18:50
+tsk_00969,prj_0093,Déployer endpoint /users,todo,critical,8.8,,2024-12-15T18:18:45,
+tsk_00970,prj_0008,Tester export CSV,todo,low,4.1,,2025-02-19T16:00:55,
+tsk_00971,prj_0023,Valider formulaire login,done,low,24.5,9.0,2025-02-18T16:04:32,2025-02-18T16:44:36
+tsk_00972,prj_0070,Reviewer wireframes,done,medium,3.9,25.2,2025-01-31T04:26:26,2025-03-07T01:23:08
+tsk_00973,prj_0064,Valider API utilisateurs,done,low,2.7,12.7,2024-10-27T19:32:31,2024-12-10T16:58:14
+tsk_00974,prj_0003,Tester tests unitaires,in_review,medium,2.5,,2024-11-26T15:37:04,
+tsk_00975,prj_0019,Documenter documentation,blocked,high,1.5,,2025-01-25T03:41:21,
+tsk_00976,prj_0007,Corriger schéma BDD,blocked,high,24.6,,2025-01-20T20:32:06,
+tsk_00977,prj_0077,Estimer formulaire login,in_progress,medium,1.3,,2025-01-17T09:29:46,
+tsk_00978,prj_0065,,todo,low,1.1,,2024-12-29T03:02:57,
+tsk_00979,prj_0043,Refactor schéma BDD,done,medium,24.8,4.1,2025-03-13T00:38:26,2025-03-27T05:47:22
+tsk_00980,prj_0086,Designer migration,todo,critical,2.4,,2025-03-30T23:03:05,
+tsk_00981,prj_0026,,done,medium,25.7,6.2,2025-01-06T04:46:38,2025-01-12T15:39:57
+tsk_00982,prj_0055,Corriger filtre de recherche,cancelled,low,5.8,,2024-12-23T15:21:21,
+tsk_00983,prj_0022,Refactor envoi d'emails,todo,medium,8.9,,2025-03-22T14:48:35,
+tsk_00984,prj_0095,Tester logs structurés,done,medium,1.1,20.6,2025-01-13T14:10:40,2025-02-07T20:04:40
+tsk_00985,prj_0003,Spécifier schéma BDD,done,medium,1.8,2.0,2025-01-08T00:59:00,2025-01-27T16:30:12
+tsk_00986,prj_0019,Déployer tests unitaires,in_progress,high,5.4,,2025-03-18T10:48:08,
+tsk_00987,prj_0054,Tester envoi d'emails,in_progress,low,,,2025-01-28T05:43:11,
+tsk_00988,prj_0041,,in_review,high,1.7,,2025-01-15T18:31:16,
+tsk_00989,prj_0063,Designer footer,cancelled,medium,2.0,,2025-03-19T10:48:28,
+tsk_00990,prj_0076,Corriger endpoint /users,done,low,15.9,3.2,2025-01-22T05:17:02,2025-03-06T17:52:36
+tsk_00991,prj_0007,Documenter API utilisateurs,in_review,low,0.1,,2024-12-04T14:46:26,
+tsk_00992,prj_0040,Corriger formulaire login,todo,critical,5.6,,2025-02-13T12:27:30,
+tsk_00993,prj_0063,Spécifier page profil,in_progress,medium,,,2024-10-11T03:56:48,
+tsk_00994,prj_0078,Optimiser wireframes,in_progress,medium,-2,,2025-03-27T23:55:10,
+tsk_00995,prj_0086,Refactor wireframes,done,high,24.3,12.8,2025-03-22T15:09:26,2025-03-27T11:59:03
+tsk_00996,prj_0042,Tester formulaire login,in_progress,low,,,2025-01-28T00:38:08,
+tsk_00997,prj_0014,Documenter migration,todo,high,2.3,,2025-01-08T11:49:12,
+tsk_00998,prj_0086,Estim...,blocked,low,0.1,,2025-03-26T00:33:40,
+tsk_00999,prj_0033,Reviewer composant Header,todo,medium,17.9,,2025-03-08T13:46:39,
+tsk_01000,prj_0055,Optim...,cancelled,high,3.7,,2025-01-15T19:14:44,
+tsk_01001,prj_0043,Spécifier envoi d'emails,todo,low,1.9,,2025-01-08T21:13:50,
+tsk_01002,prj_0081,Refac...,done,high,1.3,23.3,2025-02-16T03:03:26,2025-03-11T13:33:29
+tsk_01003,prj_0085,Spécifier intégration Stripe,in_progress,medium,23.6,,2025-03-19T17:29:23,
+tsk_01004,prj_0093,,done,medium,8.9,14.5,2025-03-05T18:36:36,2025-03-08T19:46:31
+tsk_01005,prj_0041,Reviewer formulaire login,in_progress,medium,1.3,,2025-03-08T14:48:34,
+tsk_01006,prj_0006,Designer endpoint /users,cancelled,medium,25.7,,2025-01-31T16:57:28,
+tsk_01007,prj_0054,Reviewer schéma BDD,done,critical,3.4,29.7,2024-10-13T09:27:52,2024-11-06T12:05:12
+tsk_01008,prj_0031,Spécifier gestion des erreurs,done,medium,0.3,10.2,2025-02-11T10:33:48,2025-02-15T07:23:37
+tsk_01009,prj_0094,Documenter footer,todo,medium,25.8,,2024-12-04T01:01:51,
+tsk_01010,prj_0040,Corriger export CSV,done,medium,,28.6,2025-03-26T17:16:43,2025-03-26T17:45:47
+tsk_01011,prj_0035,Corriger wireframes,todo,medium,17.0,,2024-11-22T01:57:16,
+tsk_01012,prj_0011,Designer modal de confirmation,done,medium,23.7,27.4,2025-03-15T08:12:36,2025-03-15T18:49:41
+tsk_01013,prj_0009,Optimiser maquettes Figma,todo,low,3.6,,2024-11-06T18:06:08,
+tsk_01014,prj_0056,Designer modal de confirmation,done,high,16.1,23.3,2025-01-17T19:04:57,2025-02-10T06:18:40
+tsk_01015,prj_0085,Refactor gestion des erreurs,done,medium,,13.9,2025-03-15T14:38:06,2025-03-16T11:49:39
+tsk_01016,prj_0046,Reviewer migration,cancelled,critical,0.3,,2025-01-31T03:54:36,
+tsk_01017,prj_0013,Valider export CSV,done,high,16.3,4.0,2025-03-04T10:30:59,2025-03-20T23:27:52
+tsk_01018,prj_0040,Corriger formulaire login,done,medium,2.3,21.0,2025-03-25T16:52:03,2025-03-26T12:48:28
+tsk_01019,prj_0053,Estimer schéma BDD,cancelled,medium,,,2024-10-04T16:40:17,
+tsk_01020,prj_0037,Tester wireframes,todo,low,3.4,,2025-03-09T08:45:12,
+tsk_01021,prj_0041,Corriger pipeline CI,todo,low,23.7,,2025-01-22T06:13:56,
+tsk_01022,prj_0092,Spécifier schéma BDD,blocked,high,,,2025-02-28T22:27:20,
+tsk_01023,prj_0052,Designer page profil,blocked,medium,,,2025-03-17T05:16:17,
+tsk_01024,prj_0009,Corriger documentation,blocked,medium,2.0,,2024-10-11T08:30:33,
+tsk_01025,prj_0072,Tester gestion des erreurs,in_progress,medium,,,2025-03-27T10:43:29,
+tsk_01026,prj_0003,Tester logs structurés,in_progress,high,,,2025-01-15T02:49:00,
+tsk_01027,prj_0067,Déployer documentation,done,high,2.4,18.6,2025-02-10T20:28:36,2025-02-21T02:19:05
+tsk_01028,prj_0052,Documenter pipeline CI,in_review,medium,8.7,,2025-03-01T12:52:31,
+tsk_01029,prj_0015,Optimiser export CSV,done,high,0.6,4.0,2025-02-07T09:17:10,2025-03-07T13:16:22
+tsk_01030,prj_0032,Tester modal de confirmation,done,medium,1.0,19.7,2025-01-25T05:31:19,2025-01-25T08:48:17
+tsk_01031,prj_0044,Reviewer système d'auth,in_review,low,16.2,,2025-02-24T01:58:20,
+tsk_01032,prj_0085,Designer API utilisateurs,done,low,0.6,7.7,2024-11-21T21:17:48,2024-12-24T00:56:10
+tsk_01033,prj_0056,Implémenter tests unitaires,todo,high,,,2025-02-21T17:58:26,
+tsk_01034,prj_0037,Implémenter documentation,in_progress,low,16.1,,2025-02-28T06:49:02,
+tsk_01035,prj_0026,Documenter filtre de recherche,done,critical,3.0,1.0,2025-02-10T14:56:37,2025-02-17T02:28:00
+tsk_01036,prj_0071,Documenter API utilisateurs,done,low,3.6,25.9,2025-02-17T07:40:18,2025-03-02T12:21:20
+tsk_01037,prj_0073,Déployer logs structurés,in_progress,medium,2.1,,2025-02-02T17:56:12,
+tsk_01038,prj_0068,Optimiser maquettes Figma,todo,low,16.3,,2024-12-26T08:47:22,
+tsk_01039,prj_0055,Déployer gestion des erreurs,done,medium,8.0,17.2,2024-12-22T02:15:28,2025-01-20T07:08:25
+tsk_01040,prj_0032,Estimer pipeline CI,todo,medium,15.7,,2025-02-21T05:39:38,
+tsk_01041,prj_0073,Déployer tests unitaires,in_progress,high,,,2025-02-05T15:33:15,
+tsk_01042,prj_0088,Optimiser modal de confirmation,in_review,low,3.8,,2025-03-01T15:42:18,
+tsk_01043,prj_0036,Déployer page profil,done,medium,17.1,3.3,2025-03-11T01:03:24,2025-03-13T22:15:01
+tsk_01044,prj_0031,Tester logs structurés,in_review,medium,2.5,,2025-01-08T22:59:27,
+tsk_01045,prj_0043,Valid...,todo,medium,24.6,,2025-01-04T05:12:34,
+tsk_01046,prj_0090,Revie...,todo,low,1.1,,2025-01-09T21:57:36,
+tsk_01047,prj_0006,Tester schéma BDD,todo,low,1.8,,2025-01-23T11:18:57,
+tsk_01048,prj_0093,Documenter logs structurés,in_progress,high,3.5,,2024-12-20T15:56:15,
+tsk_01049,prj_0048,Designer système d'auth,done,medium,,5.0,2024-12-05T04:17:16,2024-12-08T17:35:13
+tsk_01050,prj_0030,Spécifier logs structurés,in_progress,medium,10.0,,2024-12-27T05:56:40,
+tsk_01051,prj_0058,Reviewer intégration Stripe,done,medium,3.0,18.5,2025-01-18T21:28:17,2025-01-27T06:01:23
+tsk_01052,prj_0094,Designer schéma BDD,done,low,2.8,3.2,2025-03-18T22:07:14,2025-03-30T04:12:03
+tsk_01053,prj_0030,Estimer composant Header,blocked,low,7.9,,2025-03-08T13:56:13,
+tsk_01054,prj_0030,Valider maquettes Figma,in_progress,low,7.7,,2024-12-19T12:38:23,
+tsk_01055,prj_0034,Implémenter footer,done,high,7.9,24.2,2025-01-11T13:58:52,2025-01-18T08:45:28
+tsk_01056,prj_0057,Corriger migration,in_review,medium,1.9,,2025-01-03T15:07:58,
+tsk_01057,prj_0004,Optimiser endpoint /users,done,high,1.1,2.9,2025-03-18T14:36:43,2025-03-20T13:50:04
+tsk_01058,prj_0069,Valider endpoint /users,todo,medium,25.8,,2025-03-13T00:13:12,
+tsk_01059,prj_0083,Corriger maquettes Figma,done,medium,23.7,16.4,2025-01-06T01:57:35,2025-02-03T01:29:48
+tsk_01060,prj_0023,Refactor composant Header,done,high,-2,1.3,2025-03-08T01:24:40,2025-03-19T09:38:25
+tsk_01061,prj_0032,Refactor wireframes,in_progress,medium,3.9,,2025-02-26T09:34:50,
+tsk_01062,prj_0035,Implémenter API utilisateurs,cancelled,medium,9.3,,2024-12-11T01:29:45,
+tsk_01063,prj_0081,Designer envoi d'emails,todo,low,1.9,,2025-02-26T17:08:34,
+tsk_01064,prj_0082,Documenter formulaire login,todo,low,9.8,,2025-03-04T02:56:34,
+tsk_01065,prj_0095,Reviewer filtre de recherche,in_progress,high,1.4,,2024-11-11T08:38:26,
+tsk_01066,prj_0025,Déployer export CSV,done,medium,9.1,18.8,2025-03-27T22:24:50,2025-03-30T08:40:48
+tsk_01067,prj_0086,Déployer footer,in_review,low,4.0,,2025-03-26T03:26:43,
+tsk_01068,prj_0040,Designer schéma BDD,todo,high,3.4,,2025-01-29T07:35:31,
+tsk_01069,prj_0006,Reviewer API utilisateurs,in_review,low,15.6,,2025-01-24T20:51:31,
+tsk_01070,prj_0011,Documenter schéma BDD,in_progress,medium,1.9,,2025-03-20T20:31:56,
+tsk_01071,prj_0094,Spécifier wireframes,in_progress,medium,5.0,,2024-11-05T01:34:40,
+tsk_01072,prj_0090,Documenter logs structurés,done,medium,25.6,7.5,2024-12-30T22:30:07,2025-01-14T01:58:47
+tsk_01073,prj_0025,Optimiser système d'auth,in_progress,medium,,,2025-03-27T21:11:07,
+tsk_01074,prj_0014,Spécifier tests unitaires,todo,medium,1.1,,2024-10-30T19:23:57,
+tsk_01075,prj_0012,Tester composant Header,done,medium,2.3,26.5,2025-01-25T16:36:08,2025-01-27T14:17:11
+tsk_01076,prj_0079,Designer système d'auth,done,critical,0.0,23.5,2025-02-20T01:14:41,2025-03-11T19:39:51
+tsk_01077,prj_0024,Implémenter intégration Stripe,done,critical,0.6,16.7,2025-01-16T06:51:15,2025-01-21T17:21:38
+tsk_01078,prj_0049,Documenter schéma BDD,in_review,high,2.2,,2025-03-21T04:03:06,
+tsk_01079,prj_0088,Refactor export CSV,in_review,medium,24.8,,2025-01-28T03:24:36,
+tsk_01080,prj_0074,Déployer composant Header,todo,medium,,,2024-11-23T08:31:55,
+tsk_01081,prj_0018,Optimiser filtre de recherche,cancelled,low,4.2,,2025-03-06T11:29:22,
+tsk_01082,prj_0044,Implémenter schéma BDD,todo,medium,-2,,2025-03-06T08:53:42,
+tsk_01083,prj_0081,Estimer composant Header,done,medium,1.6,1.9,2025-01-14T04:01:38,2025-02-19T06:34:01
+tsk_01084,prj_0003,Implémenter wireframes,blocked,high,25.7,,2024-10-23T23:27:35,
+tsk_01085,prj_0004,Refactor modal de confirmation,todo,medium,1.6,,2025-01-23T12:15:04,
+tsk_01086,prj_0056,Corriger documentation,done,medium,,19.5,2025-02-26T03:58:52,2025-03-25T10:01:32
+tsk_01087,prj_0027,Implémenter système d'auth,done,medium,2.2,23.9,2025-03-15T12:01:02,2025-03-15T14:54:21
+tsk_01088,prj_0062,Déployer gestion des erreurs,todo,low,,,2025-03-29T23:18:01,
+tsk_01089,prj_0086,Valider formulaire login,in_review,medium,2.2,,2025-03-27T16:11:02,
+tsk_01090,prj_0024,Documenter intégration Stripe,done,medium,25.1,21.3,2024-12-09T19:44:02,2025-01-07T20:16:48
+tsk_01091,prj_0049,Valider logs structurés,done,medium,24.4,3.1,2025-03-19T08:25:50,2025-03-24T21:18:32
+tsk_01092,prj_0050,,cancelled,low,9.5,,2025-02-18T08:42:14,
+tsk_01093,prj_0025,Déployer schéma BDD,done,low,5.1,12.4,2025-03-19T08:39:40,2025-03-24T13:52:16
+tsk_01094,prj_0003,Corriger tests unitaires,in_review,medium,,,2025-02-01T03:01:45,
+tsk_01095,prj_0057,Optimiser pipeline CI,done,medium,7.8,20.0,2025-01-13T13:55:37,2025-02-15T02:42:15
+tsk_01096,prj_0072,Documenter endpoint /users,todo,high,2.8,,2025-03-23T20:17:14,
+tsk_01097,prj_0073,Tester composant Header,in_review,low,1.7,,2025-03-23T13:45:01,
+tsk_01098,prj_0071,Reviewer page profil,done,medium,17.7,14.7,2025-01-23T14:34:45,2025-02-19T21:07:00
+tsk_01099,prj_0025,Corriger dockerfile backend,in_progress,medium,9.5,,2025-03-27T22:31:14,
+tsk_01100,prj_0040,Implémenter filtre de recherche,in_progress,high,,,2025-03-20T06:08:38,
+tsk_01101,prj_0066,Designer page profil,done,high,,15.4,2025-03-22T07:52:34,2025-03-27T00:39:09
+tsk_01102,prj_0086,Implémenter formulaire login,done,medium,7.7,18.6,2025-03-23T08:56:24,2025-03-24T01:14:49
+tsk_01103,prj_0095,Tester gestion des erreurs,todo,medium,15.9,,2025-01-11T19:16:11,
+tsk_01104,prj_0094,Implémenter documentation,in_progress,medium,5.7,,2024-12-25T10:27:01,
+tsk_01105,prj_0093,,done,medium,24.7,3.2,2025-01-28T07:36:15,2025-03-08T02:07:07
+tsk_01106,prj_0050,Valider page profil,cancelled,medium,8.2,,2024-10-26T23:23:00,
+tsk_01107,prj_0025,Tester migration,in_progress,low,3.8,,2025-03-19T22:14:37,
+tsk_01108,prj_0070,Tester logs structurés,in_review,low,,,2024-11-29T03:00:25,
+tsk_01109,prj_0015,Spécifier logs structurés,done,low,1.6,17.4,2025-01-02T03:19:22,2025-01-28T15:35:25
+tsk_01110,prj_0086,Optimiser filtre de recherche,in_progress,medium,,,2025-03-25T21:10:20,
+tsk_01111,prj_0051,Corriger footer,done,critical,4.7,13.8,2025-01-09T18:12:01,2025-01-21T05:45:05
+tsk_01112,prj_0014,Estimer logs structurés,blocked,high,,,2024-11-09T20:24:41,
+tsk_01113,prj_0021,Valider maquettes Figma,todo,medium,3.9,,2025-03-09T08:01:11,
+tsk_01114,prj_0070,Optimiser logs structurés,done,medium,2.7,26.1,2025-01-18T19:17:36,2025-02-08T11:38:35
+tsk_01115,prj_0066,Designer endpoint /users,done,critical,,28.8,2025-03-09T20:24:46,2025-03-20T18:20:56
+tsk_01116,prj_0090,Designer logs structurés,done,medium,2.8,21.2,2025-02-20T02:41:27,2025-03-15T07:58:31
+tsk_01117,prj_0067,Implémenter composant Header,done,low,15.9,5.5,2025-01-17T05:41:05,2025-02-27T01:08:55
+tsk_01118,prj_0051,Estimer système d'auth,todo,medium,17.4,,2025-02-06T17:30:46,
+tsk_01119,prj_0023,Valider composant Header,cancelled,low,9.4,,2025-02-15T01:34:22,
+tsk_01120,prj_0035,Documenter maquettes Figma,in_review,medium,,,2024-12-13T22:13:50,
+tsk_01121,prj_0005,Optimiser pipeline CI,done,critical,15.8,21.6,2025-02-24T21:50:02,2025-03-25T22:48:50
+tsk_01122,prj_0078,Spécifier gestion des erreurs,done,medium,25.4,13.8,2025-03-03T00:16:49,2025-03-19T20:18:27
+tsk_01123,prj_0005,Tester pipeline CI,in_review,medium,25.9,,2025-03-28T08:41:42,
+tsk_01124,prj_0024,Designer page profil,blocked,medium,5.0,,2024-12-11T20:24:34,
+tsk_01125,prj_0064,Valider footer,done,high,,25.2,2025-02-05T02:27:45,2025-02-12T13:47:12
+tsk_01126,prj_0067,Reviewer maquettes Figma,done,high,1.6,19.5,2025-01-26T20:52:53,2025-02-15T05:16:35
+tsk_01127,prj_0035,Designer composant Header,done,high,,17.3,2024-09-25T04:29:46,2024-10-17T08:30:53
+tsk_01128,prj_0016,Optimiser migration,in_progress,medium,5.0,,2024-11-20T21:01:31,
+tsk_01129,prj_0026,Documenter filtre de recherche,in_progress,high,,,2025-01-15T08:34:48,
+tsk_01130,prj_0069,Déployer modal de confirmation,done,high,1.7,28.1,2025-03-03T01:52:26,2025-03-30T20:59:41
+tsk_01131,prj_0042,Estimer filtre de recherche,done,medium,2.7,29.1,2025-01-25T16:50:19,2025-02-02T20:11:57
+tsk_01132,prj_0029,Refactor système d'auth,done,high,2.4,3.6,2024-12-31T20:29:59,2025-01-25T08:15:46
+tsk_01133,prj_0063,Spéci...,in_progress,medium,16.2,,2024-12-30T01:11:36,
+tsk_01134,prj_0034,Valider système d'auth,todo,medium,23.8,,2024-12-21T15:16:28,
+tsk_01135,prj_0062,Optimiser migration,todo,low,,,2025-03-27T19:37:06,
+tsk_01136,prj_0047,Documenter tests unitaires,in_review,low,1.4,,2025-01-07T16:16:04,
+tsk_01137,prj_0028,Spécifier système d'auth,in_review,high,9999,,2025-01-27T22:02:56,
+tsk_01138,prj_0035,Corriger schéma BDD,done,medium,9.9,23.4,2024-11-10T17:00:29,2024-11-12T10:00:35
+tsk_01139,prj_0016,Teste...,done,medium,25.4,4.3,2025-03-19T07:32:01,2025-03-23T16:40:42
+tsk_01140,prj_0052,Spécifier footer,done,critical,4.8,23.3,2025-01-18T23:36:29,2025-03-01T22:16:52
+tsk_01141,prj_0036,Optimiser migration,done,low,8.6,20.2,2025-02-05T14:37:07,2025-03-20T23:14:17
+tsk_01142,prj_0047,Documenter filtre de recherche,done,high,6.0,27.4,2025-01-28T11:34:59,2025-02-27T07:23:26
+tsk_01143,prj_0004,Implémenter formulaire login,blocked,low,0.7,,2024-12-05T22:25:35,
+tsk_01144,prj_0031,Corriger migration,done,high,17.1,10.1,2025-01-17T09:36:58,2025-01-17T16:06:19
+tsk_01145,prj_0072,Documenter schéma BDD,todo,low,16.7,,2025-03-22T00:20:49,
+tsk_01146,prj_0064,Estimer schéma BDD,in_review,high,,,2024-12-04T00:53:18,
+tsk_01147,prj_0047,Refactor schéma BDD,cancelled,high,2.3,,2025-03-07T22:16:05,
+tsk_01148,prj_0014,Tester modal de confirmation,todo,high,7.7,,2025-03-05T10:35:03,
+tsk_01149,prj_0049,Designer dockerfile backend,done,medium,4.8,10.7,2025-03-05T08:32:26,2025-03-27T20:11:29
+tsk_01150,prj_0012,Refactor documentation,in_review,high,2.7,,2025-02-01T08:22:33,
+tsk_01151,prj_0049,Refactor export CSV,done,critical,2.3,22.4,2025-03-12T11:23:19,2025-03-28T17:33:58
+tsk_01152,prj_0051,Estimer système d'auth,done,low,16.0,20.8,2024-10-08T04:39:46,2024-10-30T09:18:02
+tsk_01153,prj_0073,Implémenter migration,done,low,2.9,17.2,2025-03-27T23:30:52,2025-03-30T21:04:10
+tsk_01154,prj_0094,Valider page profil,done,medium,3.3,4.7,2025-01-05T20:11:37,2025-02-01T13:45:27
+tsk_01155,prj_0032,Refactor maquettes Figma,done,medium,4.0,14.9,2025-03-17T18:56:14,2025-03-20T18:05:54
+tsk_01156,prj_0051,Refactor dockerfile backend,in_progress,low,17.3,,2025-01-08T03:17:55,
+tsk_01157,prj_0024,Valid...,done,high,17.8,13.5,2025-03-03T12:35:19,2025-03-11T23:41:54
+tsk_01158,prj_0060,Déployer documentation,blocked,high,,,2025-02-17T19:20:51,
+tsk_01159,prj_0072,Reviewer système d'auth,in_progress,low,1.4,,2025-02-28T17:33:01,
+tsk_01160,prj_0023,Spécifier documentation,done,medium,4.4,14.2,2025-02-11T15:47:34,2025-03-26T14:41:20
+tsk_01161,prj_0027,Déployer gestion des erreurs,done,medium,23.6,25.2,2025-02-13T22:15:05,2025-03-24T16:47:42
+tsk_01162,prj_0003,Designer gestion des erreurs,cancelled,low,3.7,,2024-12-08T19:10:03,
+tsk_01163,prj_0021,Corriger endpoint /users,done,medium,3.2,23.5,2024-12-16T00:40:59,2024-12-24T03:48:41
+tsk_01164,prj_0012,Optimiser wireframes,todo,medium,-2,,2024-11-22T23:37:30,
+tsk_01165,prj_0061,Corriger envoi d'emails,in_progress,medium,,,2025-01-30T01:52:19,
+tsk_01166,prj_0020,Reviewer tests unitaires,todo,low,,,2024-12-16T06:32:49,
+tsk_01167,prj_0015,Corriger système d'auth,done,medium,0,1.7,2025-03-18T06:42:58,2025-03-22T15:59:08
+tsk_01168,prj_0093,Estimer pipeline CI,done,critical,4.3,6.8,2025-01-16T14:40:39,2025-02-21T00:49:02
+tsk_01169,prj_0069,Reviewer schéma BDD,done,medium,2.0,23.7,2025-02-06T05:42:56,2025-03-15T08:15:34
+tsk_01170,prj_0088,Refactor endpoint /users,done,low,25.6,4.9,2025-02-14T17:21:41,2025-02-21T06:13:17
+tsk_01171,prj_0025,Designer page profil,cancelled,medium,,,2025-03-24T00:16:42,
+tsk_01172,prj_0028,,done,medium,1.6,7.3,2025-03-26T10:23:34,2025-03-27T00:32:38
+tsk_01173,prj_0046,,in_progress,medium,23.9,,2025-03-23T20:53:47,
+tsk_01174,prj_0019,Refactor envoi d'emails,blocked,medium,9.0,,2025-03-11T08:19:24,
+tsk_01175,prj_0057,Desig...,done,low,0.9,4.3,2025-03-07T11:41:51,2025-03-13T00:38:03
+tsk_01176,prj_0034,Reviewer endpoint /users,done,medium,,1.5,2024-12-08T21:31:04,2024-12-22T18:05:52
+tsk_01177,prj_0003,Estimer intégration Stripe,in_progress,high,3.1,,2025-02-12T10:23:39,
+tsk_01178,prj_0048,Refactor API utilisateurs,done,high,24.1,7.9,2025-02-22T08:13:38,2025-03-06T06:57:05
+tsk_01179,prj_0056,Corriger wireframes,todo,medium,4.9,,2025-01-08T00:06:52,
+tsk_01180,prj_0013,Corriger documentation,in_review,high,25.3,,2025-02-18T07:53:23,
+tsk_01181,prj_0047,Optimiser système d'auth,todo,medium,1.0,,2025-02-22T19:26:57,
+tsk_01182,prj_0014,Refactor page profil,todo,high,2.7,,2024-11-30T04:29:15,
+tsk_01183,prj_0026,Implémenter endpoint /users,todo,high,2.6,,2025-03-06T21:29:36,
+tsk_01184,prj_0091,Déployer système d'auth,done,medium,2.6,24.2,2025-02-11T03:24:49,2025-03-15T17:14:39
+tsk_01185,prj_0057,Designer footer,in_progress,medium,23.8,,2025-03-27T05:01:14,
+tsk_01186,prj_0061,Designer footer,todo,critical,23.7,,2025-01-23T21:30:59,
+tsk_01187,prj_0015,,in_review,medium,1.9,,2024-11-30T11:01:05,
+tsk_01188,prj_0071,Optimiser gestion des erreurs,done,medium,23.9,7.9,2024-11-23T12:57:12,2024-12-08T20:00:34
+tsk_01189,prj_0033,Valider schéma BDD,done,low,5.1,27.9,2025-03-19T07:15:37,2025-03-25T07:59:40
+tsk_01190,prj_0083,Reviewer système d'auth,todo,medium,5.8,,2024-10-10T19:12:07,
+tsk_01191,prj_0013,Implémenter documentation,in_progress,medium,2.6,,2025-01-20T02:46:29,
+tsk_01192,prj_0027,Valider intégration Stripe,done,medium,,24.3,2025-03-13T17:35:22,2025-03-24T13:26:34
+tsk_01193,prj_0034,Revie...,done,high,23.9,2.0,2024-12-10T04:00:59,2025-01-01T20:25:25
+tsk_01194,prj_0012,Revie...,todo,low,2.1,,2024-12-13T22:42:51,
+tsk_01195,prj_0070,Valider intégration Stripe,in_progress,medium,2.7,,2024-11-30T00:09:12,
+tsk_01196,prj_0011,Spécifier wireframes,cancelled,high,25.6,,2025-03-19T14:58:04,
+tsk_01197,prj_0010,Documenter maquettes Figma,blocked,high,2.8,,2025-03-24T08:28:10,
+tsk_01198,prj_0095,,done,medium,,2.3,2024-12-25T15:58:18,2025-01-03T01:02:10
+tsk_01199,prj_0070,Reviewer page profil,in_review,medium,3.0,,2024-11-22T20:20:43,
+tsk_01200,prj_0012,Tester wireframes,done,low,9.8,8.5,2025-02-20T15:51:25,2025-03-21T07:45:27
+tsk_01201,prj_0020,Reviewer documentation,done,medium,23.7,17.9,2025-02-14T18:34:35,2025-02-16T20:49:55
+tsk_01202,prj_0075,Estimer maquettes Figma,todo,medium,16.9,,2025-01-14T14:05:46,
+tsk_01203,prj_0029,Estimer intégration Stripe,done,medium,9.8,19.4,2024-12-29T21:48:43,2025-01-31T10:27:06
+tsk_01204,prj_0090,Designer maquettes Figma,in_progress,medium,-2,,2025-02-25T01:37:42,
+tsk_01205,prj_0066,Tester maquettes Figma,todo,medium,9.4,,2025-03-16T09:54:20,
+tsk_01206,prj_0081,Implémenter wireframes,in_progress,medium,4.8,,2025-02-20T14:01:12,
+tsk_01207,prj_0065,Tester dockerfile backend,done,high,1.6,16.1,2025-01-10T04:01:16,2025-02-15T17:12:27
+tsk_01208,prj_0009,Corriger intégration Stripe,in_progress,low,9.1,,2024-10-09T08:39:54,
+tsk_01209,prj_0021,Déployer documentation,done,low,2.9,6.0,2024-12-14T23:08:35,2024-12-31T13:17:10
+tsk_01210,prj_0013,Implémenter filtre de recherche,in_progress,high,1.8,,2025-02-13T14:22:11,
+tsk_01211,prj_0013,Déployer schéma BDD,in_progress,low,5.4,,2025-02-16T08:20:08,
+tsk_01212,prj_0062,Documenter envoi d'emails,done,low,2.2,1.7,2025-03-07T11:32:47,2025-03-22T18:49:53
+tsk_01213,prj_0060,Estimer dockerfile backend,todo,medium,,,2025-02-22T11:54:30,
+tsk_01214,prj_0029,Reviewer composant Header,done,high,17.9,20.1,2024-12-28T13:50:50,2025-01-27T12:05:04
+tsk_01215,prj_0051,Valider schéma BDD,in_progress,medium,3.5,,2025-03-07T14:05:46,
+tsk_01216,prj_0007,Valider logs structurés,todo,low,2.2,,2024-12-25T16:41:39,
+tsk_01217,prj_0049,Corriger footer,in_progress,low,24.9,,2025-03-07T02:55:08,
+tsk_01218,prj_0051,Optimiser gestion des erreurs,in_review,low,0.9,,2024-12-07T00:28:01,
+tsk_01219,prj_0001,Valider schéma BDD,todo,medium,0.7,,2025-01-13T21:03:38,
+tsk_01220,prj_0049,Optimiser maquettes Figma,done,medium,2.1,2.0,2025-03-23T04:02:41,2025-03-28T03:35:59
+tsk_01221,prj_0040,,in_review,medium,24.3,,2025-02-10T12:42:59,
+tsk_01222,prj_0029,Implémenter footer,done,high,2.6,8.1,2024-12-02T12:36:50,2024-12-20T11:08:49
+tsk_01223,prj_0024,Corriger composant Header,in_progress,medium,1.7,,2025-02-26T01:40:01,
+tsk_01224,prj_0087,Tester export CSV,todo,low,5.2,,2025-02-08T22:41:01,
+tsk_01225,prj_0061,Valider page profil,in_review,high,0.2,,2025-02-21T05:04:37,
+tsk_01226,prj_0065,Desig...,done,medium,,29.4,2025-01-14T16:22:10,2025-02-27T14:06:54
+tsk_01227,prj_0061,Optimiser documentation,done,medium,2.6,2.8,2025-03-20T05:18:54,2025-03-30T20:03:58
+tsk_01228,prj_0002,Optimiser footer,done,medium,,24.5,2025-03-22T07:26:09,2025-03-30T01:26:23
+tsk_01229,prj_0094,Spécifier dockerfile backend,blocked,low,3.2,,2024-11-05T10:37:50,
+tsk_01230,prj_0094,Estimer maquettes Figma,done,medium,1.8,11.4,2024-12-28T20:02:43,2025-01-06T00:42:56
+tsk_01231,prj_0086,Refactor dockerfile backend,done,high,4.3,8.0,2025-03-24T07:47:31,2025-03-29T12:48:58
+tsk_01232,prj_0019,Tester modal de confirmation,done,low,17.9,8.9,2025-02-11T16:07:29,2025-03-05T09:26:27
+tsk_01233,prj_0088,Estimer tests unitaires,done,critical,15.9,7.7,2025-03-08T15:59:40,2025-03-13T16:09:40
+tsk_01234,prj_0022,Spécifier composant Header,todo,high,1.6,,2024-12-22T18:06:43,
+tsk_01235,prj_0008,Déployer formulaire login,done,medium,1.3,1.5,2024-12-18T06:15:22,2024-12-27T16:42:14
+tsk_01236,prj_0070,Déployer migration,done,medium,17.4,1.6,2025-02-19T10:28:47,2025-02-20T00:14:43
+tsk_01237,prj_0066,Estimer wireframes,done,medium,17.9,10.7,2025-03-04T14:28:31,2025-03-25T05:37:05
+tsk_01238,prj_0034,Déployer maquettes Figma,in_review,high,5.3,,2024-12-28T22:52:48,
+tsk_01239,prj_0071,Optimiser logs structurés,todo,medium,,,2024-12-01T03:40:41,
+tsk_01240,prj_0069,Documenter maquettes Figma,cancelled,medium,8.8,,2025-03-21T06:10:36,
+tsk_01241,prj_0020,Refactor documentation,done,medium,2.4,3.6,2025-03-30T21:35:43,2025-03-30T23:46:36
+tsk_01242,prj_0005,Spécifier composant Header,done,critical,8.6,27.2,2025-02-01T11:28:16,2025-02-07T21:29:47
+tsk_01243,prj_0067,Tester système d'auth,in_progress,high,23.9,,2025-02-03T12:05:23,
+tsk_01244,prj_0073,Spécifier formulaire login,cancelled,medium,2.0,,2025-02-12T17:52:36,
+tsk_01245,prj_0002,Implémenter page profil,in_progress,high,1.3,,2024-10-28T11:25:29,
+tsk_01246,prj_0081,Reviewer documentation,done,medium,23.7,3.0,2025-03-11T01:18:04,2025-03-24T08:23:00
+tsk_01247,prj_0008,Refactor gestion des erreurs,done,medium,,15.6,2025-01-19T21:00:27,2025-02-17T11:58:45
+tsk_01248,prj_0062,Spécifier gestion des erreurs,in_review,high,3.6,,2025-03-17T17:24:51,
+tsk_01249,prj_0013,Implémenter tests unitaires,todo,high,24.2,,2025-01-09T02:08:10,
+tsk_01250,prj_0043,Corri...,done,medium,4.6,1.9,2025-03-27T23:27:11,2025-03-30T01:37:36
+tsk_01251,prj_0012,Refactor schéma BDD,todo,medium,3.0,,2024-10-09T12:34:16,
+tsk_01252,prj_0001,Designer envoi d'emails,in_review,medium,1.3,,2025-03-28T12:45:09,
+tsk_01253,prj_0002,Designer footer,done,high,3.9,11.6,2024-12-02T20:23:54,2024-12-09T16:28:24
+tsk_01254,prj_0078,Spécifier footer,done,medium,17.1,17.2,2025-03-08T21:42:45,2025-03-24T07:47:21
+tsk_01255,prj_0079,Valider footer,in_progress,medium,,,2024-11-28T02:52:01,
+tsk_01256,prj_0059,Tester endpoint /users,todo,medium,2.6,,2025-03-01T19:41:46,
+tsk_01257,prj_0081,Teste...,done,high,,16.8,2025-03-03T18:47:42,2025-03-07T14:26:23
+tsk_01258,prj_0074,Estimer API utilisateurs,blocked,critical,4.2,,2024-12-09T05:19:01,
+tsk_01259,prj_0012,Designer envoi d'emails,done,medium,1.7,20.4,2025-02-02T11:26:17,2025-02-28T18:41:35
+tsk_01260,prj_0092,Documenter filtre de recherche,in_review,low,1.1,,2025-03-05T03:18:53,
+tsk_01261,prj_0091,Optimiser API utilisateurs,cancelled,high,2.4,,2025-03-27T01:00:53,
+tsk_01262,prj_0006,Implémenter intégration Stripe,in_review,medium,16.9,,2025-02-19T13:45:14,
+tsk_01263,prj_0094,Optimiser migration,todo,medium,1.2,,2024-10-24T13:45:35,
+tsk_01264,prj_0061,Valider migration,done,high,,0.6,2025-02-08T07:11:08,2025-02-21T21:24:27
+tsk_01265,prj_0067,Optimiser tests unitaires,todo,medium,9.8,,2025-03-30T02:46:59,
+tsk_01266,prj_0048,Refactor maquettes Figma,done,low,7.9,3.2,2024-11-29T13:41:08,2024-12-02T10:25:39
+tsk_01267,prj_0060,Refactor filtre de recherche,cancelled,medium,,,2024-11-28T16:17:32,
+tsk_01268,prj_0047,Estimer formulaire login,blocked,high,,,2025-01-11T00:33:04,
+tsk_01269,prj_0060,Revie...,done,medium,2.2,8.1,2024-11-21T05:40:29,2024-12-14T17:25:13
+tsk_01270,prj_0074,Optimiser schéma BDD,in_progress,high,5.0,,2025-02-28T03:06:40,
+tsk_01271,prj_0074,Tester envoi d'emails,done,medium,9.5,3.9,2024-11-09T02:00:29,2024-12-16T06:27:08
+tsk_01272,prj_0066,Documenter maquettes Figma,cancelled,low,2.3,,2025-03-08T02:30:34,
+tsk_01273,prj_0020,Designer pipeline CI,done,medium,16.4,9.3,2025-01-24T02:39:00,2025-03-08T10:22:24
+tsk_01274,prj_0033,Refactor export CSV,done,high,4.0,29.4,2025-03-15T02:26:00,2025-03-21T17:28:20
+tsk_01275,prj_0071,Documenter maquettes Figma,cancelled,critical,1.5,,2024-12-22T21:03:33,
+tsk_01276,prj_0081,Implémenter migration,in_review,low,1.0,,2025-02-10T00:41:39,
+tsk_01277,prj_0058,Designer filtre de recherche,in_progress,low,9.8,,2025-03-04T19:07:19,
+tsk_01278,prj_0042,Documenter endpoint /users,todo,medium,2.5,,2025-01-17T23:40:46,
+tsk_01279,prj_0060,Reviewer endpoint /users,blocked,low,3.6,,2025-02-14T00:31:09,
+tsk_01280,prj_0090,Optimiser envoi d'emails,todo,low,17.9,,2025-01-11T03:54:37,
+tsk_01281,prj_0088,Reviewer export CSV,cancelled,high,3.7,,2025-01-24T14:11:00,
+tsk_01282,prj_0008,Optimiser formulaire login,todo,medium,2.8,,2024-12-07T06:02:03,
+tsk_01283,prj_0045,Refactor formulaire login,in_review,high,5.3,,2025-02-11T17:50:30,
+tsk_01284,prj_0017,Refactor intégration Stripe,done,low,2.5,7.3,2025-02-09T01:53:10,2025-03-25T10:08:19
+tsk_01285,prj_0037,Optimiser endpoint /users,done,critical,1.6,0.6,2025-03-26T08:16:55,2025-03-27T01:32:32
+tsk_01286,prj_0065,Corriger page profil,done,high,9.0,28.7,2025-03-25T15:49:56,2025-03-26T05:29:31
+tsk_01287,prj_0023,Refactor logs structurés,in_progress,high,1.0,,2025-03-14T20:58:55,
+tsk_01288,prj_0063,Implémenter composant Header,blocked,low,1.4,,2025-01-08T20:21:06,
+tsk_01289,prj_0092,Optimiser pipeline CI,in_review,low,2.2,,2025-02-18T06:49:34,
+tsk_01290,prj_0073,Refac...,in_progress,medium,25.6,,2025-02-20T09:41:38,
+tsk_01291,prj_0021,Reviewer API utilisateurs,in_progress,low,1.8,,2025-01-09T03:08:16,
+tsk_01292,prj_0051,Documenter filtre de recherche,in_progress,medium,23.9,,2024-11-27T21:27:45,
+tsk_01293,prj_0029,Implémenter formulaire login,in_progress,low,0.9,,2024-12-24T22:32:46,
+tsk_01294,prj_0001,,done,medium,2.0,3.1,2025-03-11T23:19:41,2025-03-14T19:16:50
+tsk_01295,prj_0001,Estimer migration,done,medium,9.7,23.8,2025-02-05T10:40:51,2025-03-04T11:01:52
+tsk_01296,prj_0012,Designer schéma BDD,done,medium,23.5,7.6,2024-10-28T09:23:54,2024-12-08T07:45:21
+tsk_01297,prj_0089,Tester page profil,in_review,medium,0.5,,2025-03-15T07:47:34,
+tsk_01298,prj_0057,Tester pipeline CI,todo,medium,0.7,,2025-01-07T19:33:40,
+tsk_01299,prj_0078,Spécifier système d'auth,done,low,1.9,0.6,2025-03-21T20:08:32,2025-03-30T14:40:11
+tsk_01300,prj_0065,Spécifier maquettes Figma,in_progress,medium,17.9,,2025-02-19T16:04:02,
+tsk_01301,prj_0022,Optimiser formulaire login,in_review,medium,25.5,,2025-01-04T02:00:09,
+tsk_01302,prj_0078,Designer envoi d'emails,in_progress,medium,24.8,,2025-03-28T06:32:33,
+tsk_01303,prj_0043,Reviewer système d'auth,done,high,,5.3,2025-03-28T20:18:13,2025-03-30T07:01:15
+tsk_01304,prj_0071,Reviewer pipeline CI,done,medium,3.1,7.9,2024-12-21T20:27:44,2024-12-24T17:23:17
+tsk_01305,prj_0094,Optimiser système d'auth,blocked,high,16.0,,2024-11-09T11:25:56,
+tsk_01306,prj_0002,Implé...,todo,medium,17.2,,2025-01-31T05:43:31,
+tsk_01307,prj_0029,Refactor export CSV,todo,medium,25.4,,2024-11-20T15:55:40,
+tsk_01308,prj_0065,,in_review,high,17.5,,2024-12-15T01:36:07,
+tsk_01309,prj_0030,Valider système d'auth,in_review,medium,15.9,,2025-02-18T09:51:26,
+tsk_01310,prj_0077,Reviewer page profil,in_review,high,2.0,,2024-12-08T17:25:31,
+tsk_01311,prj_0068,Documenter pipeline CI,todo,high,4.5,,2025-01-16T05:18:26,
+tsk_01312,prj_0020,Corriger footer,todo,high,3.9,,2025-03-06T23:51:27,
+tsk_01313,prj_0054,Implémenter composant Header,cancelled,medium,24.5,,2025-03-22T14:40:06,
+tsk_01314,prj_0047,Documenter schéma BDD,in_progress,medium,16.3,,2024-12-09T14:25:22,
+tsk_01315,prj_0025,Documenter gestion des erreurs,done,medium,23.8,4.3,2025-03-20T13:33:11,2025-03-22T20:49:42
+tsk_01316,prj_0038,Reviewer export CSV,in_progress,high,2.2,,2025-02-12T03:23:54,
+tsk_01317,prj_0020,Reviewer formulaire login,done,high,3.9,28.5,2024-12-06T11:46:48,2025-01-04T07:58:41
+tsk_01318,prj_0031,Corriger logs structurés,in_progress,high,3.5,,2025-03-15T23:56:07,
+tsk_01319,prj_0018,Estimer filtre de recherche,cancelled,critical,1.2,,2025-02-27T10:03:33,
+tsk_01320,prj_0026,Corriger API utilisateurs,done,low,24.7,1.3,2024-12-25T20:21:23,2025-01-14T12:59:37
+tsk_01321,prj_0094,Documenter documentation,blocked,medium,26.0,,2024-12-29T17:10:45,
+tsk_01322,prj_0093,Déployer footer,in_progress,low,17.0,,2025-03-14T11:10:22,
+tsk_01323,prj_0065,Déployer dockerfile backend,cancelled,low,9999,,2025-02-09T03:22:15,
+tsk_01324,prj_0002,Valider schéma BDD,in_progress,high,1.3,,2025-01-11T17:38:32,
+tsk_01325,prj_0048,Estimer filtre de recherche,in_review,medium,,,2025-03-20T03:36:22,
+tsk_01326,prj_0036,Valider système d'auth,in_progress,high,17.9,,2025-01-20T21:16:05,
+tsk_01327,prj_0084,Designer système d'auth,in_progress,high,1.1,,2025-02-28T19:58:32,
+tsk_01328,prj_0053,,done,medium,,20.7,2024-11-30T05:53:14,2024-12-31T14:05:06
+tsk_01329,prj_0068,Corriger page profil,in_progress,low,,,2025-03-15T20:13:16,
+tsk_01330,prj_0072,Reviewer dockerfile backend,in_progress,low,4.1,,2025-02-05T14:45:07,
+tsk_01331,prj_0088,Corriger documentation,done,medium,5.5,28.0,2025-03-11T13:11:35,2025-03-27T06:44:29
+tsk_01332,prj_0095,Estimer export CSV,in_progress,medium,3.5,,2024-12-09T01:16:49,
+tsk_01333,prj_0036,Reviewer API utilisateurs,done,low,16.8,2.4,2025-01-13T15:03:23,2025-02-08T16:43:05
+tsk_01334,prj_0006,Reviewer filtre de recherche,todo,low,25.9,,2024-12-26T16:46:15,
+tsk_01335,prj_0016,Valider système d'auth,todo,medium,15.7,,2025-02-28T21:07:37,
+tsk_01336,prj_0022,Valider API utilisateurs,todo,low,15.6,,2024-12-23T14:30:40,
+tsk_01337,prj_0083,Estimer pipeline CI,done,medium,2.8,10.9,2024-11-26T22:26:14,2024-12-26T19:23:43
+tsk_01338,prj_0019,Estimer pipeline CI,todo,medium,0.7,,2025-02-08T23:16:06,
+tsk_01339,prj_0061,Déployer API utilisateurs,done,high,-2,3.1,2025-03-30T03:52:40,2025-03-30T19:25:04
+tsk_01340,prj_0012,Implémenter wireframes,todo,critical,9.5,,2025-03-20T09:17:58,
+tsk_01341,prj_0026,Corriger export CSV,todo,low,8.1,,2025-03-03T02:41:26,
+tsk_01342,prj_0072,Optimiser page profil,done,critical,3.4,27.7,2025-03-16T03:38:30,2025-03-26T16:53:49
+tsk_01343,prj_0062,Tester export CSV,in_progress,high,0.9,,2025-03-14T00:47:55,
+tsk_01344,prj_0021,Valider schéma BDD,done,medium,17.5,29.7,2025-03-23T12:15:48,2025-03-30T07:26:14
+tsk_01345,prj_0088,Refactor composant Header,done,low,2.3,29.8,2025-03-09T16:34:00,2025-03-24T16:32:18
+tsk_01346,prj_0032,Déployer page profil,done,medium,2.1,8.5,2025-03-23T09:40:58,2025-03-24T01:49:32
+tsk_01347,prj_0001,Spécifier schéma BDD,done,low,24.5,4.9,2025-02-25T05:58:53,2025-03-12T23:25:14
+tsk_01348,prj_0052,Reviewer composant Header,todo,high,0.8,,2025-03-08T08:45:07,
+tsk_01349,prj_0036,Documenter intégration Stripe,in_review,medium,1.1,,2025-03-25T09:18:14,
+tsk_01350,prj_0093,Reviewer migration,todo,medium,9.3,,2025-01-01T23:53:25,
+tsk_01351,prj_0076,Estimer API utilisateurs,done,medium,,0.5,2024-12-21T02:48:04,2025-01-29T02:51:45
+tsk_01352,prj_0033,Implémenter page profil,in_review,low,,,2025-02-25T20:29:23,
+tsk_01353,prj_0094,Déployer intégration Stripe,todo,medium,4.8,,2025-02-20T09:11:37,
+tsk_01354,prj_0083,Spécifier documentation,in_review,medium,2.0,,2025-03-10T18:56:12,
+tsk_01355,prj_0024,Implémenter tests unitaires,in_review,medium,5.1,,2025-01-01T08:41:53,
+tsk_01356,prj_0054,Déployer gestion des erreurs,in_progress,medium,1.5,,2024-12-17T15:40:50,
+tsk_01357,prj_0081,Implémenter wireframes,in_review,medium,0.4,,2025-03-27T20:38:46,
+tsk_01358,prj_0021,Implémenter API utilisateurs,done,medium,3.5,17.1,2024-11-28T17:54:47,2024-12-12T11:23:07
+tsk_01359,prj_0007,Estimer composant Header,todo,critical,2.9,,2024-12-04T10:35:43,
+tsk_01360,prj_0076,Corriger footer,blocked,high,0.6,,2025-02-05T10:50:45,
+tsk_01361,prj_0043,,todo,low,8.6,,2024-12-28T16:55:53,
+tsk_01362,prj_0024,Reviewer intégration Stripe,in_review,low,0.6,,2025-03-06T22:30:01,
+tsk_01363,prj_0048,Refactor API utilisateurs,in_review,low,4.2,,2025-03-23T14:47:00,
+tsk_01364,prj_0011,Valider maquettes Figma,done,high,4.1,12.1,2025-03-13T06:59:26,2025-03-28T03:20:44
+tsk_01365,prj_0043,Documenter pipeline CI,in_progress,high,,,2025-03-08T16:16:04,
+tsk_01366,prj_0040,Valider pipeline CI,in_review,critical,2.9,,2025-01-03T23:14:33,
+tsk_01367,prj_0037,Desig...,done,medium,,4.8,2025-03-04T10:41:06,2025-03-12T18:18:26
+tsk_01368,prj_0043,Estimer modal de confirmation,in_review,medium,9.0,,2025-02-12T02:14:03,
+tsk_01369,prj_0035,Implémenter intégration Stripe,in_progress,low,23.6,,2024-10-22T07:38:59,
+tsk_01370,prj_0042,Déployer schéma BDD,done,medium,23.8,10.4,2025-02-05T20:14:29,2025-02-23T19:57:23
+tsk_01371,prj_0032,Designer schéma BDD,todo,medium,2.1,,2025-01-21T16:41:44,
+tsk_01372,prj_0019,Déployer tests unitaires,todo,high,4.0,,2025-02-27T02:32:00,
+tsk_01373,prj_0075,Implémenter maquettes Figma,done,high,3.3,27.7,2024-12-28T20:39:00,2025-01-01T16:33:12
+tsk_01374,prj_0071,Designer composant Header,todo,medium,2.2,,2025-01-07T06:41:42,
+tsk_01375,prj_0038,Revie...,todo,medium,2.0,,2025-02-15T16:56:13,
+tsk_01376,prj_0053,Déployer logs structurés,done,low,25.6,22.4,2024-11-25T13:07:18,2024-12-20T00:49:50
+tsk_01377,prj_0004,Reviewer migration,done,high,0.4,25.9,2024-11-15T20:17:15,2024-12-13T11:18:53
+tsk_01378,prj_0084,Estimer schéma BDD,done,critical,1.8,9.4,2025-02-18T13:34:38,2025-02-20T09:18:51
+tsk_01379,prj_0047,Valider dockerfile backend,todo,high,25.4,,2024-12-06T23:26:53,
+tsk_01380,prj_0021,,in_progress,medium,,,2024-12-13T21:02:30,
+tsk_01381,prj_0043,Déployer endpoint /users,done,low,1.7,12.5,2025-02-02T11:00:28,2025-02-14T18:31:06
+tsk_01382,prj_0055,Estimer footer,in_progress,high,2.1,,2025-03-11T18:10:33,
+tsk_01383,prj_0008,Implémenter page profil,in_progress,medium,24.1,,2025-01-07T21:35:59,
+tsk_01384,prj_0063,Optimiser export CSV,in_progress,low,25.0,,2024-10-23T09:57:43,
+tsk_01385,prj_0095,Tester logs structurés,todo,high,25.7,,2024-11-13T13:49:58,
+tsk_01386,prj_0053,Optimiser système d'auth,done,medium,1.6,20.9,2024-12-15T08:46:02,2025-01-15T05:50:00
+tsk_01387,prj_0077,Refactor gestion des erreurs,blocked,low,16.7,,2024-12-26T19:51:08,
+tsk_01388,prj_0019,Tester export CSV,done,critical,8.2,23.6,2025-02-25T12:34:04,2025-03-25T22:03:51
+tsk_01389,prj_0033,Déployer documentation,done,low,,23.2,2025-03-14T06:45:40,2025-03-28T04:47:34
+tsk_01390,prj_0024,Implémenter système d'auth,todo,low,,,2024-12-26T02:59:57,
+tsk_01391,prj_0090,Optimiser envoi d'emails,cancelled,medium,23.6,,2025-01-27T14:53:34,
+tsk_01392,prj_0063,Déployer envoi d'emails,done,high,3.3,18.7,2024-11-15T20:33:41,2024-12-15T22:14:43
+tsk_01393,prj_0015,Estimer composant Header,todo,low,0.9,,2025-02-24T13:28:41,
+tsk_01394,prj_0038,Designer logs structurés,todo,medium,25.9,,2025-02-12T09:54:44,
+tsk_01395,prj_0025,Déployer schéma BDD,done,high,9.0,9.5,2025-03-15T03:31:21,2025-03-15T14:18:43
+tsk_01396,prj_0043,Tester endpoint /users,in_progress,low,1.7,,2024-12-26T15:20:21,
+tsk_01397,prj_0041,Documenter envoi d'emails,done,medium,9.4,19.2,2025-01-28T15:24:59,2025-02-18T09:04:08
+tsk_01398,prj_0054,Estimer documentation,in_progress,medium,1.0,,2024-11-24T11:57:23,
+tsk_01399,prj_0052,Valid...,done,low,1.8,17.4,2025-02-06T02:11:06,2025-02-23T23:58:03
+tsk_01400,prj_0042,Valider migration,in_review,low,1.7,,2025-03-23T05:00:15,
+tsk_01401,prj_0093,Valider schéma BDD,done,low,,13.2,2024-12-10T22:56:51,2024-12-13T00:44:58
+tsk_01402,prj_0085,Reviewer maquettes Figma,done,low,0.1,3.7,2024-12-14T06:43:36,2025-01-18T10:04:28
+tsk_01403,prj_0074,Tester page profil,done,low,0.9,5.0,2025-01-10T10:24:55,2025-02-20T17:19:26
+tsk_01404,prj_0038,Optimiser API utilisateurs,done,high,0.3,12.8,2025-03-19T12:45:13,2025-03-26T03:02:31
+tsk_01405,prj_0075,Spécifier formulaire login,done,medium,-2,4.4,2024-11-14T15:44:25,2024-12-21T01:38:34
+tsk_01406,prj_0023,Reviewer wireframes,blocked,medium,5.1,,2025-03-28T18:53:59,
+tsk_01407,prj_0037,Corriger envoi d'emails,done,high,,19.9,2025-03-12T20:06:20,2025-03-20T00:39:04
+tsk_01408,prj_0019,Déplo...,done,low,8.0,2.4,2025-03-06T21:45:21,2025-03-23T15:48:47
+tsk_01409,prj_0015,Valider système d'auth,done,critical,9.9,5.0,2025-01-14T06:44:59,2025-02-04T22:58:32
+tsk_01410,prj_0036,Tester wireframes,done,low,1.8,2.2,2025-03-04T11:24:58,2025-03-05T10:36:14
+tsk_01411,prj_0022,Déployer filtre de recherche,todo,medium,0.8,,2024-12-17T04:56:48,
+tsk_01412,prj_0006,,done,medium,25.0,16.8,2025-02-21T01:31:53,2025-03-10T07:27:37
+tsk_01413,prj_0085,Optimiser footer,todo,medium,0.9,,2024-09-28T20:46:47,
+tsk_01414,prj_0072,Designer logs structurés,done,medium,8.3,24.5,2025-01-29T10:13:16,2025-02-08T20:07:12
+tsk_01415,prj_0015,Designer filtre de recherche,cancelled,high,23.8,,2025-03-23T04:28:35,
+tsk_01416,prj_0010,Tester modal de confirmation,todo,medium,24.8,,2025-03-15T16:38:59,
+tsk_01417,prj_0029,Valider page profil,done,medium,4.7,22.2,2025-01-02T00:28:25,2025-02-08T02:53:37
+tsk_01418,prj_0013,Optimiser API utilisateurs,todo,high,7.8,,2025-03-09T20:59:31,
+tsk_01419,prj_0084,Tester tests unitaires,in_progress,low,,,2025-03-07T17:23:20,
+tsk_01420,prj_0065,Valider maquettes Figma,in_progress,medium,2.3,,2024-12-18T09:26:33,
+tsk_01421,prj_0003,Designer composant Header,done,low,2.9,16.2,2025-03-03T20:40:35,2025-03-23T05:50:26
+tsk_01422,prj_0013,Valider wireframes,in_progress,low,8.2,,2025-01-19T03:18:02,
+tsk_01423,prj_0056,Optimiser schéma BDD,done,high,25.0,1.2,2025-03-09T17:44:04,2025-03-24T11:49:15
+tsk_01424,prj_0055,Valider composant Header,todo,medium,3.2,,2025-01-11T19:28:13,
+tsk_01425,prj_0064,Valider schéma BDD,done,medium,1.8,6.2,2024-12-16T18:50:08,2025-01-10T11:55:55
+tsk_01426,prj_0060,Reviewer migration,in_progress,medium,4.2,,2024-12-24T13:37:47,
+tsk_01427,prj_0075,Implémenter envoi d'emails,todo,medium,3.9,,2025-02-04T23:34:43,
+tsk_01428,prj_0016,Estimer formulaire login,todo,low,24.9,,2024-09-28T20:33:39,
+tsk_01429,prj_0035,Déployer endpoint /users,in_progress,low,23.6,,2024-12-20T16:48:56,
+tsk_01430,prj_0062,Déployer envoi d'emails,done,medium,6.0,25.7,2025-03-19T02:55:10,2025-03-29T05:40:01
+tsk_01431,prj_0031,Refactor endpoint /users,todo,critical,25.2,,2025-01-06T02:00:50,
+tsk_01432,prj_0014,Refactor gestion des erreurs,done,high,,11.9,2025-02-05T07:25:49,2025-02-22T15:52:25
+tsk_01433,prj_0034,Spécifier logs structurés,todo,medium,9.4,,2025-02-25T21:02:22,
+tsk_01434,prj_0093,Tester footer,done,medium,15.8,3.8,2024-11-14T19:22:09,2024-11-16T07:45:17
+tsk_01435,prj_0030,Documenter export CSV,blocked,medium,3.9,,2025-01-16T16:11:05,
+tsk_01436,prj_0072,Documenter formulaire login,done,medium,5.7,3.9,2025-02-17T06:24:51,2025-02-23T09:16:06
+tsk_01437,prj_0018,,blocked,high,17.1,,2024-12-10T19:50:19,
+tsk_01438,prj_0057,Estimer composant Header,todo,medium,2.0,,2025-03-14T16:47:57,
+tsk_01439,prj_0042,,todo,high,2.3,,2025-01-24T03:50:13,
+tsk_01440,prj_0045,Valid...,todo,high,2.9,,2025-02-03T16:35:07,
+tsk_01441,prj_0009,Tester gestion des erreurs,in_progress,high,16.9,,2025-03-07T03:35:54,
+tsk_01442,prj_0032,Reviewer migration,in_progress,medium,17.6,,2025-03-21T15:51:54,
+tsk_01443,prj_0018,Corriger wireframes,done,low,,13.7,2025-02-25T23:44:47,2025-03-02T01:39:08
+tsk_01444,prj_0007,Documenter envoi d'emails,done,low,1.4,8.4,2025-03-16T22:47:55,2025-03-24T09:47:18
+tsk_01445,prj_0019,Optimiser schéma BDD,in_review,medium,3.3,,2025-02-21T10:53:53,
+tsk_01446,prj_0074,Valid...,todo,medium,0.6,,2024-12-26T21:01:41,
+tsk_01447,prj_0016,Corriger modal de confirmation,in_review,high,5.8,,2024-12-10T05:41:40,
+tsk_01448,prj_0066,Spécifier page profil,done,high,,14.5,2025-03-24T06:41:47,2025-03-30T20:56:43
+tsk_01449,prj_0072,Refactor filtre de recherche,todo,medium,2.8,,2025-02-20T13:28:00,
+tsk_01450,prj_0094,Spécifier formulaire login,done,high,3.7,11.0,2024-11-27T20:59:09,2024-12-03T02:05:33
+tsk_01451,prj_0064,Designer filtre de recherche,done,medium,2.0,29.6,2024-10-12T19:36:02,2024-10-15T23:41:08
+tsk_01452,prj_0074,Designer dockerfile backend,done,medium,0,17.8,2024-11-17T13:15:51,2024-12-17T03:29:22
+tsk_01453,prj_0015,Estimer pipeline CI,done,medium,1.8,25.1,2024-11-30T00:03:03,2024-12-11T08:37:31
+tsk_01454,prj_0070,Documenter filtre de recherche,in_review,medium,8.2,,2025-03-09T04:28:47,
+tsk_01455,prj_0086,Spécifier API utilisateurs,done,medium,2.9,19.2,2025-03-29T19:00:56,2025-03-30T06:58:45
+tsk_01456,prj_0095,Tester page profil,done,low,17.6,16.4,2024-12-01T23:31:21,2025-01-06T11:20:54
+tsk_01457,prj_0018,Valider tests unitaires,done,low,3.8,10.2,2024-12-07T16:24:12,2025-01-21T15:32:23
+tsk_01458,prj_0013,Designer documentation,in_progress,critical,0.2,,2025-03-23T09:30:10,
+tsk_01459,prj_0093,Spécifier migration,done,low,5.6,23.4,2024-12-23T06:43:55,2024-12-28T19:38:28
+tsk_01460,prj_0011,Implémenter endpoint /users,blocked,medium,16.9,,2025-03-11T09:39:20,
+tsk_01461,prj_0022,Refactor migration,in_review,medium,2.6,,2025-01-06T06:03:27,
+tsk_01462,prj_0048,,done,medium,16.3,14.2,2024-12-15T17:20:51,2025-01-19T18:26:10
+tsk_01463,prj_0017,Corriger système d'auth,in_review,high,,,2025-03-01T10:22:49,
+tsk_01464,prj_0032,Estimer schéma BDD,todo,medium,3.6,,2025-03-13T10:09:24,
+tsk_01465,prj_0008,Corriger wireframes,in_progress,medium,2.0,,2025-03-18T07:56:27,
+tsk_01466,prj_0060,Optimiser wireframes,in_review,high,0.5,,2024-12-17T14:06:03,
+tsk_01467,prj_0045,,done,low,25.9,16.6,2025-03-11T04:24:38,2025-03-19T06:54:00
+tsk_01468,prj_0012,Reviewer pipeline CI,done,medium,1.4,24.7,2024-12-05T09:32:53,2024-12-24T03:04:38
+tsk_01469,prj_0015,Reviewer envoi d'emails,in_progress,low,4.0,,2024-12-10T07:13:29,
+tsk_01470,prj_0004,Reviewer composant Header,done,medium,2.1,9.2,2024-12-10T06:16:16,2024-12-22T08:48:46
+tsk_01471,prj_0091,Corriger envoi d'emails,in_review,low,1.3,,2025-03-07T18:02:53,
+tsk_01472,prj_0082,Refac...,in_review,medium,1.7,,2025-01-19T04:44:01,
+tsk_01473,prj_0028,Déployer footer,in_progress,medium,3.2,,2024-11-09T01:39:58,
+tsk_01474,prj_0059,Valider migration,done,medium,4.2,12.6,2025-02-04T11:31:59,2025-03-04T09:51:28
+tsk_01475,prj_0085,Spécifier dockerfile backend,done,low,2.1,8.5,2024-09-06T00:13:15,2024-10-13T03:48:51
+tsk_01476,prj_0031,Optimiser tests unitaires,done,medium,5.5,8.3,2025-03-26T08:48:17,2025-03-29T02:51:08
+tsk_01477,prj_0072,Documenter formulaire login,done,high,4.0,15.4,2025-01-20T23:31:03,2025-02-18T15:40:18
+tsk_01478,prj_0061,Spécifier pipeline CI,done,medium,0.6,22.9,2025-03-06T01:59:24,2025-03-19T20:49:58
+tsk_01479,prj_0002,Refactor modal de confirmation,todo,high,9999,,2025-01-18T00:26:01,
+tsk_01480,prj_0017,Tester formulaire login,todo,medium,2.7,,2025-02-02T11:54:23,
+tsk_01481,prj_0079,Estim...,done,medium,,8.7,2024-11-20T18:43:02,2024-12-27T13:48:24
+tsk_01482,prj_0091,Optimiser dockerfile backend,done,medium,15.7,11.5,2025-03-08T10:47:13,2025-03-15T00:29:39
+tsk_01483,prj_0080,Reviewer export CSV,done,medium,2.4,1.3,2025-02-13T18:01:16,2025-03-08T08:30:11
+tsk_01484,prj_0033,Refactor page profil,in_review,low,0.7,,2025-03-17T13:03:30,
+tsk_01485,prj_0089,Corriger système d'auth,done,low,16.5,6.2,2025-03-27T13:31:22,2025-03-27T18:41:05
+tsk_01486,prj_0007,Estimer gestion des erreurs,todo,medium,9999,,2025-03-06T10:11:59,
+tsk_01487,prj_0043,Designer export CSV,done,medium,-2,28.8,2025-03-11T04:11:05,2025-03-21T02:36:06
+tsk_01488,prj_0061,Estimer pipeline CI,in_progress,low,-2,,2025-03-21T18:50:35,
+tsk_01489,prj_0028,Implémenter gestion des erreurs,in_review,low,,,2025-03-06T22:47:11,
+tsk_01490,prj_0070,Estimer page profil,done,high,25.8,4.0,2025-01-26T16:12:37,2025-02-04T16:29:38
+tsk_01491,prj_0036,Estimer système d'auth,in_review,low,23.5,,2025-03-20T19:09:02,
+tsk_01492,prj_0033,Tester pipeline CI,in_progress,low,1.4,,2025-03-04T12:52:56,
+tsk_01493,prj_0012,Tester modal de confirmation,in_review,low,,,2025-01-29T00:09:52,
+tsk_01494,prj_0094,Documenter tests unitaires,done,medium,,11.6,2025-02-20T21:42:50,2025-03-01T15:46:20
+tsk_01495,prj_0087,Refactor système d'auth,in_review,medium,9.5,,2024-12-23T18:51:18,
+tsk_01496,prj_0093,Tester dockerfile backend,todo,critical,1.0,,2025-02-27T05:09:58,
+tsk_01497,prj_0017,Refactor maquettes Figma,todo,medium,6.0,,2025-01-05T07:51:22,
+tsk_01498,prj_0090,Designer dockerfile backend,done,high,1.7,27.3,2025-01-21T16:28:23,2025-03-05T08:21:31
+tsk_01499,prj_0008,Estim...,done,medium,2.4,7.3,2024-12-07T01:49:15,2025-01-12T10:42:13
+tsk_01500,prj_0015,Valider export CSV,todo,medium,,,2025-03-11T16:29:47,
+tsk_01501,prj_0074,Déployer composant Header,done,medium,2.9,25.1,2025-02-18T18:20:26,2025-02-24T23:18:19
+tsk_01502,prj_0066,Implémenter wireframes,in_progress,critical,2.6,,2025-03-22T11:08:10,
+tsk_01503,prj_0019,Déployer documentation,todo,critical,1.5,,2025-01-24T12:11:40,
+tsk_01504,prj_0027,Spécifier wireframes,todo,low,4.1,,2025-01-14T22:44:49,
+tsk_01505,prj_0015,Valider intégration Stripe,todo,medium,,,2025-03-19T12:18:19,
+tsk_01506,prj_0001,Corriger composant Header,done,high,,24.7,2025-01-11T08:27:18,2025-01-18T17:51:36
+tsk_01507,prj_0064,Valider logs structurés,blocked,high,7.6,,2024-11-26T01:24:16,
+tsk_01508,prj_0002,Spécifier page profil,done,medium,0.1,13.0,2025-01-05T17:35:37,2025-02-01T07:36:33
+tsk_01509,prj_0077,Déployer footer,done,medium,,28.6,2025-03-15T18:47:27,2025-03-21T17:07:00
+tsk_01510,prj_0013,Reviewer envoi d'emails,done,medium,,10.2,2025-02-25T12:28:31,2025-03-10T02:23:34
+tsk_01511,prj_0074,Déployer gestion des erreurs,in_progress,critical,,,2025-03-03T22:40:43,
+tsk_01512,prj_0047,Desig...,in_progress,low,9.0,,2025-01-06T08:53:30,
+tsk_01513,prj_0037,Designer footer,done,medium,,2.2,2025-03-21T16:58:37,2025-03-22T20:47:26
+tsk_01514,prj_0083,Spécifier page profil,done,high,24.2,19.8,2024-09-21T17:40:51,2024-09-28T10:11:51
+tsk_01515,prj_0001,Implémenter wireframes,cancelled,medium,1.7,,2025-01-23T14:24:14,
+tsk_01516,prj_0046,,in_review,low,2.5,,2025-02-17T04:55:45,
+tsk_01517,prj_0072,Spécifier système d'auth,done,medium,7.5,5.7,2025-01-22T21:21:16,2025-02-22T09:25:32
+tsk_01518,prj_0086,Estimer envoi d'emails,todo,low,0,,2025-03-28T07:55:27,
+tsk_01519,prj_0017,Corriger endpoint /users,in_progress,low,1.9,,2025-02-18T13:55:16,
+tsk_01520,prj_0081,Implémenter gestion des erreurs,todo,low,9999,,2025-02-22T13:59:10,
+tsk_01521,prj_0055,Optimiser dockerfile backend,done,low,6.0,19.8,2025-03-03T13:48:26,2025-03-18T09:41:44
+tsk_01522,prj_0082,Corriger envoi d'emails,in_review,critical,25.1,,2025-01-19T05:49:05,
+tsk_01523,prj_0027,Déployer API utilisateurs,done,low,3.4,30.0,2025-02-01T16:20:46,2025-02-25T12:35:58
+tsk_01524,prj_0087,,done,medium,3.8,25.5,2024-12-12T19:56:48,2024-12-31T20:38:30
+tsk_01525,prj_0052,Corriger envoi d'emails,done,medium,3.5,25.6,2025-01-17T23:57:52,2025-02-06T20:12:56
+tsk_01526,prj_0038,Tester intégration Stripe,in_review,low,,,2025-03-15T20:04:29,
+tsk_01527,prj_0053,Valider documentation,done,medium,1.6,7.4,2024-10-18T01:49:23,2024-10-24T04:06:14
+tsk_01528,prj_0093,Spécifier export CSV,done,high,17.4,23.8,2025-01-31T10:26:05,2025-02-16T18:13:38
+tsk_01529,prj_0021,Implémenter composant Header,in_progress,high,23.8,,2025-01-13T13:07:39,
+tsk_01530,prj_0086,Corriger wireframes,done,medium,17.0,20.2,2025-03-30T15:32:32,2025-03-30T23:20:39
+tsk_01531,prj_0037,Tester page profil,done,medium,25.4,16.3,2025-03-17T17:57:02,2025-03-27T22:29:14
+tsk_01532,prj_0045,Tester page profil,done,critical,16.0,6.3,2025-01-11T10:10:31,2025-01-26T12:31:08
+tsk_01533,prj_0004,Valider wireframes,done,low,,15.2,2024-12-02T12:07:05,2024-12-14T03:24:32
+tsk_01534,prj_0094,Implémenter modal de confirmation,done,medium,9.0,3.6,2025-02-16T13:02:52,2025-02-26T07:58:50
+tsk_01535,prj_0007,Implémenter modal de confirmation,todo,medium,25.2,,2024-12-19T18:43:17,
+tsk_01536,prj_0013,Spécifier footer,done,high,3.2,26.6,2025-03-03T22:58:17,2025-03-22T18:58:12
+tsk_01537,prj_0079,Valider gestion des erreurs,done,medium,1.6,24.7,2024-11-23T21:38:52,2024-12-16T13:20:43
+tsk_01538,prj_0010,Refactor wireframes,cancelled,medium,9.2,,2025-03-16T02:03:51,
+tsk_01539,prj_0057,Estimer envoi d'emails,done,medium,9.2,3.8,2025-02-16T10:23:27,2025-03-11T03:35:24
+tsk_01540,prj_0015,Tester modal de confirmation,in_review,high,2.7,,2025-03-20T04:04:16,
+tsk_01541,prj_0016,Implémenter tests unitaires,done,high,,27.0,2024-12-02T13:04:22,2024-12-07T16:37:15
+tsk_01542,prj_0037,Spécifier API utilisateurs,todo,high,0,,2025-03-20T00:13:42,
+tsk_01543,prj_0084,Tester modal de confirmation,done,medium,,29.1,2025-03-06T19:14:03,2025-03-10T17:45:46
+tsk_01544,prj_0075,Reviewer composant Header,done,medium,5.2,12.3,2024-10-31T17:40:10,2024-11-13T08:06:14
+tsk_01545,prj_0046,Déployer intégration Stripe,in_review,medium,0.7,,2025-02-04T22:29:19,
+tsk_01546,prj_0008,Tester composant Header,done,high,25.1,6.9,2024-12-27T14:44:16,2024-12-28T01:58:35
+tsk_01547,prj_0034,Optimiser système d'auth,in_progress,low,24.2,,2024-12-08T11:55:41,
+tsk_01548,prj_0009,Corriger footer,todo,medium,0.6,,2024-11-29T07:37:11,
+tsk_01549,prj_0013,Optimiser API utilisateurs,blocked,medium,5.3,,2025-02-10T11:05:18,
+tsk_01550,prj_0032,Refactor pipeline CI,done,critical,3.8,10.1,2025-02-12T03:29:40,2025-02-12T07:09:11
+tsk_01551,prj_0054,Spécifier intégration Stripe,done,low,17.4,9.9,2024-11-29T15:00:49,2024-12-05T13:28:46
+tsk_01552,prj_0015,Estimer documentation,done,low,0.9,18.0,2024-12-17T04:55:02,2024-12-28T13:47:30
+tsk_01553,prj_0034,Implémenter logs structurés,in_progress,critical,1.2,,2024-12-08T03:39:01,
+tsk_01554,prj_0038,Refactor dockerfile backend,done,high,,1.6,2025-03-12T03:07:29,2025-03-15T13:27:53
+tsk_01555,prj_0014,Spécifier tests unitaires,in_review,low,10.0,,2024-10-18T15:00:15,
+tsk_01556,prj_0030,Corriger documentation,done,low,23.7,1.0,2025-02-26T09:47:20,2025-03-24T03:22:21
+tsk_01557,prj_0039,Reviewer filtre de recherche,done,high,8.5,10.3,2025-01-16T02:43:12,2025-01-24T11:59:52
+tsk_01558,prj_0019,Documenter formulaire login,todo,medium,,,2025-03-08T08:07:30,
+tsk_01559,prj_0058,Tester documentation,done,medium,4.7,6.6,2025-03-07T23:37:00,2025-03-25T03:07:42
+tsk_01560,prj_0089,Spécifier footer,in_progress,low,17.2,,2025-03-15T05:59:08,
+tsk_01561,prj_0034,Designer intégration Stripe,blocked,medium,24.1,,2025-02-16T11:50:53,
+tsk_01562,prj_0001,Valider export CSV,done,medium,4.6,3.0,2025-02-11T18:45:18,2025-03-19T19:29:05
+tsk_01563,prj_0033,Reviewer migration,todo,low,4.7,,2025-03-27T08:36:35,
+tsk_01564,prj_0044,,in_progress,medium,2.6,,2025-03-02T18:40:14,
+tsk_01565,prj_0062,Tester tests unitaires,done,high,1.9,5.7,2025-03-14T12:09:45,2025-03-18T18:43:37
+tsk_01566,prj_0060,Valider système d'auth,done,medium,8.4,2.2,2025-01-18T12:17:46,2025-01-26T11:48:52
+tsk_01567,prj_0037,Spéci...,done,medium,0.5,28.2,2025-03-06T11:22:25,2025-03-15T00:06:14
+tsk_01568,prj_0023,,todo,low,2.2,,2025-02-26T04:12:27,
+tsk_01569,prj_0035,Spécifier endpoint /users,done,low,,26.7,2025-03-24T23:48:37,2025-03-30T08:29:05
+tsk_01570,prj_0028,Implémenter migration,in_review,low,1.5,,2024-11-23T01:44:05,
+tsk_01571,prj_0059,Valider pipeline CI,in_progress,medium,24.6,,2025-02-11T00:46:27,
+tsk_01572,prj_0031,Valider formulaire login,todo,low,3.0,,2025-02-27T13:47:32,
+tsk_01573,prj_0079,Déployer envoi d'emails,in_progress,medium,1.9,,2025-02-28T19:41:01,
+tsk_01574,prj_0012,Designer pipeline CI,done,low,5.3,17.1,2024-10-26T06:28:36,2024-12-02T18:23:33
+tsk_01575,prj_0058,Estimer filtre de recherche,done,high,8.4,17.8,2025-02-10T23:26:08,2025-02-20T22:45:15
+tsk_01576,prj_0058,Designer schéma BDD,todo,high,5.6,,2025-03-14T18:55:22,
+tsk_01577,prj_0003,Optimiser système d'auth,todo,low,0,,2024-11-17T17:35:43,
+tsk_01578,prj_0010,Déplo...,done,critical,2.7,16.5,2025-03-20T02:23:58,2025-03-23T05:51:09
+tsk_01579,prj_0045,Tester pipeline CI,in_progress,low,24.3,,2025-01-29T16:39:41,
+tsk_01580,prj_0008,Refactor schéma BDD,done,high,24.9,1.5,2024-12-27T05:47:57,2025-02-08T19:25:05
+tsk_01581,prj_0072,Déployer pipeline CI,done,low,0.5,7.8,2025-02-06T00:02:22,2025-03-19T06:07:49
+tsk_01582,prj_0069,Spécifier gestion des erreurs,in_progress,high,1.7,,2025-02-07T12:34:28,
+tsk_01583,prj_0075,Valider composant Header,in_review,medium,0.3,,2024-11-04T12:27:23,
+tsk_01584,prj_0032,Estimer schéma BDD,in_review,low,,,2025-03-09T21:44:44,
+tsk_01585,prj_0002,Documenter gestion des erreurs,todo,high,23.7,,2024-12-06T01:58:36,
+tsk_01586,prj_0017,Déployer système d'auth,in_review,low,25.9,,2025-01-12T14:43:06,
+tsk_01587,prj_0061,Reviewer composant Header,todo,high,8.6,,2025-02-21T23:27:06,
+tsk_01588,prj_0058,Valider intégration Stripe,done,low,0.5,27.1,2025-03-23T03:00:14,2025-03-29T14:15:53
+tsk_01589,prj_0091,Refac...,todo,medium,,,2025-01-10T17:23:38,
+tsk_01590,prj_0027,Documenter pipeline CI,todo,medium,8.7,,2024-12-30T18:10:08,
+tsk_01591,prj_0018,Refactor dockerfile backend,in_review,critical,,,2024-11-30T05:51:33,
+tsk_01592,prj_0070,Reviewer migration,done,medium,3.4,17.9,2024-12-29T15:13:17,2025-01-03T22:45:11
+tsk_01593,prj_0062,Designer intégration Stripe,todo,medium,10.0,,2025-03-28T05:23:33,
+tsk_01594,prj_0056,Implémenter filtre de recherche,todo,high,1.6,,2025-02-11T03:18:16,
+tsk_01595,prj_0067,Refactor wireframes,done,high,17.5,5.6,2025-02-22T13:09:53,2025-03-20T20:02:29
+tsk_01596,prj_0018,Spécifier dockerfile backend,done,low,25.5,23.5,2024-12-28T03:05:43,2025-01-25T12:05:18
+tsk_01597,prj_0041,Designer filtre de recherche,in_progress,high,0,,2025-03-22T19:31:37,
+tsk_01598,prj_0069,Reviewer composant Header,in_progress,high,4.0,,2025-02-22T17:42:32,
+tsk_01599,prj_0033,Tester filtre de recherche,done,low,0,17.3,2025-02-26T09:56:59,2025-03-12T08:52:50
+tsk_01600,prj_0078,Optim...,done,medium,3.6,12.3,2025-03-20T16:53:21,2025-03-25T16:17:02
+tsk_01601,prj_0007,Corriger documentation,in_progress,low,,,2025-03-26T23:21:46,
+tsk_01602,prj_0030,Corriger intégration Stripe,todo,high,0.9,,2025-03-24T07:19:58,
+tsk_01603,prj_0060,Designer endpoint /users,todo,medium,,,2024-11-25T15:46:19,
+tsk_01604,prj_0068,Refactor composant Header,in_review,medium,23.6,,2025-01-08T23:28:06,
+tsk_01605,prj_0056,Spéci...,in_review,low,1.0,,2025-01-20T08:12:08,
+tsk_01606,prj_0055,Tester pipeline CI,in_review,medium,3.8,,2024-10-20T13:17:37,
+tsk_01607,prj_0083,Designer schéma BDD,in_progress,low,,,2024-12-25T02:04:34,
+tsk_01608,prj_0045,Optimiser modal de confirmation,done,medium,5.7,26.9,2025-02-14T22:14:04,2025-03-18T21:26:01
+tsk_01609,prj_0005,Documenter envoi d'emails,done,low,4.3,24.7,2025-03-05T18:07:53,2025-03-07T22:33:48
+tsk_01610,prj_0044,Corriger documentation,done,medium,2.9,9.3,2025-02-18T22:11:09,2025-02-27T07:05:16
+tsk_01611,prj_0057,Estimer filtre de recherche,in_progress,medium,9.6,,2025-01-26T13:33:31,
+tsk_01612,prj_0074,Implémenter filtre de recherche,in_review,high,5.6,,2024-11-17T06:37:38,
+tsk_01613,prj_0018,Optimiser tests unitaires,done,low,,21.3,2024-12-30T17:58:01,2025-02-04T09:04:17
+tsk_01614,prj_0002,Spécifier migration,todo,medium,1.0,,2025-03-27T09:58:13,
+tsk_01615,prj_0036,Implémenter formulaire login,in_progress,medium,3.6,,2025-01-30T09:02:06,
+tsk_01616,prj_0063,Corriger schéma BDD,done,medium,16.4,8.2,2025-03-03T15:25:50,2025-03-29T00:14:44
+tsk_01617,prj_0070,Refactor footer,done,critical,4.9,4.4,2025-02-09T09:41:04,2025-03-04T02:11:28
+tsk_01618,prj_0009,Corriger wireframes,done,high,5.8,17.4,2025-01-25T13:02:35,2025-02-24T02:29:47
+tsk_01619,prj_0022,Refactor formulaire login,todo,medium,3.9,,2025-01-07T03:38:12,
+tsk_01620,prj_0047,Refactor formulaire login,done,medium,1.0,27.5,2025-02-15T20:18:43,2025-02-28T19:24:00
+tsk_01621,prj_0083,Designer documentation,done,low,,16.7,2025-03-05T09:38:38,2025-03-11T05:44:12
+tsk_01622,prj_0095,Estimer intégration Stripe,in_review,high,4.8,,2024-12-16T00:13:24,
+tsk_01623,prj_0065,Refactor logs structurés,in_progress,medium,8.5,,2025-02-18T13:51:51,
+tsk_01624,prj_0039,Optimiser envoi d'emails,done,medium,,29.6,2025-02-19T09:11:16,2025-03-14T18:15:59
+tsk_01625,prj_0041,Implémenter logs structurés,cancelled,medium,,,2025-03-28T19:18:46,
+tsk_01626,prj_0016,Spécifier footer,todo,medium,16.6,,2025-03-12T12:38:29,
+tsk_01627,prj_0053,Corriger composant Header,in_progress,high,1.2,,2025-02-04T13:19:53,
+tsk_01628,prj_0075,Valider page profil,todo,high,1.4,,2025-02-14T05:38:40,
+tsk_01629,prj_0054,Déployer pipeline CI,in_progress,high,-2,,2025-02-23T14:51:01,
+tsk_01630,prj_0040,Tester endpoint /users,todo,medium,2.9,,2025-01-31T08:49:36,
+tsk_01631,prj_0012,Documenter logs structurés,done,critical,4.6,3.8,2025-02-03T04:15:02,2025-02-04T02:42:38
+tsk_01632,prj_0049,Spécifier tests unitaires,todo,medium,2.1,,2025-03-13T16:22:22,
+tsk_01633,prj_0066,Implémenter export CSV,done,low,9.7,14.2,2025-03-14T17:45:34,2025-03-16T13:39:03
+tsk_01634,prj_0001,Documenter logs structurés,done,critical,0.3,19.5,2025-02-15T14:49:25,2025-03-30T11:37:33
+tsk_01635,prj_0084,Optimiser logs structurés,done,medium,0.3,10.2,2025-03-06T09:13:30,2025-03-10T21:45:24
+tsk_01636,prj_0007,Documenter formulaire login,cancelled,medium,,,2025-03-30T12:56:53,
+tsk_01637,prj_0081,Corriger tests unitaires,todo,medium,7.9,,2025-03-05T11:26:38,
+tsk_01638,prj_0038,Implémenter logs structurés,done,medium,8.0,15.5,2025-02-26T22:15:30,2025-03-23T23:50:17
+tsk_01639,prj_0083,Desig...,done,low,5.6,20.7,2025-03-15T20:19:27,2025-03-30T05:23:06
+tsk_01640,prj_0022,Spécifier formulaire login,in_review,low,1.6,,2025-03-18T11:51:01,
+tsk_01641,prj_0023,Documenter dockerfile backend,todo,high,2.1,,2025-03-20T21:41:50,
+tsk_01642,prj_0043,Implémenter page profil,done,high,2.1,24.4,2025-02-14T04:08:16,2025-02-28T12:06:41
+tsk_01643,prj_0048,Corriger export CSV,in_review,low,2.9,,2025-01-09T02:18:37,
+tsk_01644,prj_0052,Déployer envoi d'emails,done,high,1.8,4.4,2025-03-24T01:49:09,2025-03-24T02:02:35
+tsk_01645,prj_0089,Optimiser footer,todo,medium,24.4,,2025-03-19T09:00:13,
+tsk_01646,prj_0036,Designer dockerfile backend,todo,low,25.3,,2025-03-14T14:27:30,
+tsk_01647,prj_0058,Optimiser composant Header,in_progress,medium,1.0,,2025-02-21T00:05:45,
+tsk_01648,prj_0060,Designer schéma BDD,done,critical,17.8,17.2,2025-03-04T19:40:48,2025-03-19T21:20:10
+tsk_01649,prj_0018,Valider wireframes,todo,medium,1.0,,2025-03-04T22:05:00,
+tsk_01650,prj_0051,Valider intégration Stripe,cancelled,critical,9.8,,2024-10-15T19:06:54,
+tsk_01651,prj_0077,Optimiser envoi d'emails,done,medium,25.9,6.9,2025-03-28T22:50:41,2025-03-29T16:53:59
+tsk_01652,prj_0072,Valider filtre de recherche,in_review,medium,,,2025-02-28T07:49:01,
+tsk_01653,prj_0016,Spécifier dockerfile backend,in_progress,low,,,2024-12-21T14:39:29,
+tsk_01654,prj_0026,,cancelled,medium,1.6,,2025-01-24T22:04:45,
+tsk_01655,prj_0085,Valider page profil,blocked,low,2.2,,2025-03-04T17:59:02,
+tsk_01656,prj_0094,Implémenter modal de confirmation,todo,medium,24.9,,2025-02-01T10:18:03,
+tsk_01657,prj_0017,Reviewer migration,done,medium,3.8,22.4,2024-12-29T06:41:37,2025-01-06T00:50:16
+tsk_01658,prj_0043,Implémenter wireframes,cancelled,medium,6.0,,2025-02-23T19:12:25,
+tsk_01659,prj_0055,Valider composant Header,done,medium,1.6,23.4,2024-10-25T06:45:21,2024-12-04T10:36:39
+tsk_01660,prj_0048,Corriger documentation,done,high,8.6,13.7,2025-02-14T11:25:05,2025-02-14T14:39:17
+tsk_01661,prj_0043,Reviewer gestion des erreurs,done,high,1.8,9.6,2025-03-30T11:16:39,2025-03-30T11:23:59
+tsk_01662,prj_0021,Déployer documentation,in_progress,low,-2,,2025-01-05T23:42:09,
+tsk_01663,prj_0063,Estimer API utilisateurs,todo,low,2.9,,2024-12-25T13:41:37,
+tsk_01664,prj_0019,Valider envoi d'emails,done,high,-2,14.8,2025-02-24T22:41:51,2025-03-21T23:27:26
+tsk_01665,prj_0094,Documenter dockerfile backend,done,high,5.4,0.5,2024-11-19T14:33:33,2024-12-19T04:01:06
+tsk_01666,prj_0069,Refactor page profil,done,high,,12.7,2025-03-17T07:46:49,2025-03-28T17:49:44
+tsk_01667,prj_0078,Optimiser maquettes Figma,done,medium,24.8,14.8,2025-02-18T01:52:07,2025-02-22T10:31:34
+tsk_01668,prj_0045,Documenter formulaire login,in_progress,medium,2.4,,2025-01-07T13:30:57,
+tsk_01669,prj_0095,Refactor tests unitaires,done,high,2.3,12.1,2024-11-25T17:53:16,2024-12-25T19:15:18
+tsk_01670,prj_0007,Documenter endpoint /users,done,low,1.3,0.9,2025-03-09T17:27:09,2025-03-29T04:09:42
+tsk_01671,prj_0003,Optimiser maquettes Figma,in_progress,critical,8.5,,2025-03-12T14:09:14,
+tsk_01672,prj_0021,Refactor maquettes Figma,done,low,-2,19.0,2025-03-28T15:02:20,2025-03-29T11:19:59
+tsk_01673,prj_0069,Tester envoi d'emails,todo,medium,5.3,,2025-03-29T09:53:28,
+tsk_01674,prj_0027,Designer export CSV,done,medium,9.8,29.6,2025-01-12T05:07:41,2025-02-10T13:53:21
+tsk_01675,prj_0007,Valider maquettes Figma,done,medium,9.2,5.5,2025-02-26T02:19:28,2025-03-27T01:23:29
+tsk_01676,prj_0012,Reviewer schéma BDD,done,high,3.8,20.6,2025-01-08T05:04:06,2025-01-17T21:43:35
+tsk_01677,prj_0043,Implémenter migration,in_progress,medium,9.1,,2025-02-15T15:32:26,
+tsk_01678,prj_0005,Reviewer filtre de recherche,cancelled,high,1.2,,2025-02-21T10:50:58,
+tsk_01679,prj_0035,Optimiser formulaire login,done,medium,1.1,23.3,2025-02-01T16:34:30,2025-03-06T15:33:51
+tsk_01680,prj_0009,Valider intégration Stripe,in_review,low,5.5,,2024-12-26T01:40:21,
+tsk_01681,prj_0053,,done,low,,29.3,2024-10-27T04:05:22,2024-11-07T10:29:34
+tsk_01682,prj_0050,Tester API utilisateurs,done,medium,0.8,0.7,2024-11-01T00:26:47,2024-11-22T18:53:55
+tsk_01683,prj_0007,Déployer footer,in_progress,medium,,,2025-02-18T14:17:13,
+tsk_01684,prj_0068,Designer dockerfile backend,done,medium,7.8,4.1,2025-03-22T04:01:35,2025-03-29T07:13:34
+tsk_01685,prj_0022,,done,low,5.4,10.5,2024-12-28T04:35:17,2025-01-09T22:10:50
+tsk_01686,prj_0073,Corriger intégration Stripe,done,medium,0.3,1.7,2025-03-09T17:39:49,2025-03-19T06:16:00
+tsk_01687,prj_0060,Documenter logs structurés,blocked,critical,0.6,,2025-01-14T04:57:14,
+tsk_01688,prj_0037,Optimiser schéma BDD,done,medium,,4.2,2025-03-29T17:24:16,2025-03-29T20:42:06
+tsk_01689,prj_0072,Refactor gestion des erreurs,done,medium,3.9,25.2,2025-01-21T01:44:55,2025-03-05T02:22:49
+tsk_01690,prj_0022,Estimer formulaire login,todo,medium,,,2025-02-26T19:58:34,
+tsk_01691,prj_0053,Documenter maquettes Figma,done,high,3.5,13.7,2024-10-15T15:03:50,2024-10-30T00:18:59
+tsk_01692,prj_0026,Spéci...,done,low,2.2,28.7,2025-02-25T17:04:12,2025-03-15T21:20:46
+tsk_01693,prj_0082,Refactor footer,in_review,high,1.1,,2024-12-09T12:38:24,
+tsk_01694,prj_0010,Estimer intégration Stripe,in_progress,medium,2.0,,2025-03-16T03:54:09,
+tsk_01695,prj_0088,Estimer intégration Stripe,in_progress,critical,,,2025-03-27T04:43:53,
+tsk_01696,prj_0095,Reviewer intégration Stripe,done,critical,1.6,28.1,2024-11-25T22:04:25,2025-01-01T00:25:25
+tsk_01697,prj_0050,Refactor envoi d'emails,done,low,9999,14.1,2024-11-10T14:35:15,2024-12-07T18:31:45
+tsk_01698,prj_0060,Optimiser documentation,done,critical,9999,16.5,2024-11-17T00:31:34,2024-11-21T07:52:17
+tsk_01699,prj_0013,Refactor footer,todo,low,17.0,,2025-03-01T10:18:45,
+tsk_01700,prj_0062,,done,low,24.5,27.7,2025-03-14T15:14:33,2025-03-28T05:51:25
+tsk_01701,prj_0059,Tester dockerfile backend,done,medium,9.7,18.8,2025-03-01T17:23:01,2025-03-13T05:13:32
+tsk_01702,prj_0084,Tester endpoint /users,todo,low,8.0,,2025-02-23T12:27:51,
+tsk_01703,prj_0023,Documenter documentation,in_progress,low,2.0,,2025-03-30T03:01:54,
+tsk_01704,prj_0062,Refactor dockerfile backend,done,high,9.2,2.2,2025-03-20T09:32:08,2025-03-25T02:50:28
+tsk_01705,prj_0080,Corri...,in_progress,critical,1.0,,2025-01-04T15:00:23,
+tsk_01706,prj_0020,Reviewer export CSV,done,medium,16.8,14.3,2024-12-22T14:05:25,2025-01-14T06:41:48
+tsk_01707,prj_0005,Estimer endpoint /users,in_review,medium,1.4,,2025-03-03T11:13:23,
+tsk_01708,prj_0005,Spécifier schéma BDD,done,low,0.3,19.4,2025-02-25T07:33:56,2025-02-27T03:21:54
+tsk_01709,prj_0064,Designer documentation,todo,medium,1.4,,2024-12-22T17:48:04,
+tsk_01710,prj_0001,Implémenter pipeline CI,done,low,25.9,20.0,2025-02-19T19:48:08,2025-03-16T12:04:50
+tsk_01711,prj_0034,Estimer dockerfile backend,done,medium,9.2,6.7,2025-01-27T00:41:52,2025-02-24T11:40:04
+tsk_01712,prj_0074,Spécifier dockerfile backend,done,medium,1.5,8.1,2025-02-07T13:58:14,2025-02-11T08:07:57
+tsk_01713,prj_0080,Documenter envoi d'emails,in_progress,medium,,,2025-03-25T04:07:23,
+tsk_01714,prj_0054,Tester export CSV,done,medium,,26.8,2025-03-09T17:25:19,2025-03-15T23:17:12
+tsk_01715,prj_0013,Spécifier gestion des erreurs,done,medium,1.1,10.2,2025-01-20T22:36:05,2025-01-26T00:09:14
+tsk_01716,prj_0001,Designer filtre de recherche,todo,medium,3.8,,2025-03-18T01:11:19,
+tsk_01717,prj_0039,Tester migration,done,critical,,21.0,2024-11-12T21:52:23,2024-12-07T09:05:38
+tsk_01718,prj_0066,Tester modal de confirmation,done,high,24.2,14.8,2025-03-25T13:51:56,2025-03-29T12:22:23
+tsk_01719,prj_0050,Optimiser modal de confirmation,todo,medium,5.4,,2025-01-27T02:32:02,
+tsk_01720,prj_0074,Docum...,done,high,2.9,10.1,2025-01-23T01:27:25,2025-02-25T01:04:17
+tsk_01721,prj_0050,Implémenter envoi d'emails,done,medium,,12.2,2024-11-24T03:36:38,2024-12-03T22:10:39
+tsk_01722,prj_0070,,done,low,16.8,10.0,2024-11-25T06:44:49,2024-12-15T14:33:41
+tsk_01723,prj_0036,Designer migration,done,critical,,15.1,2025-02-08T16:56:11,2025-03-23T20:04:33
+tsk_01724,prj_0023,Implémenter formulaire login,in_review,medium,24.8,,2025-03-04T17:41:33,
+tsk_01725,prj_0017,Designer composant Header,done,medium,1.9,5.7,2025-01-23T07:52:22,2025-01-30T19:11:11
+tsk_01726,prj_0076,Tester modal de confirmation,in_review,medium,9.4,,2025-03-08T19:24:48,
+tsk_01727,prj_0041,Corri...,in_review,low,8.2,,2025-03-30T22:01:21,
+tsk_01728,prj_0035,Designer formulaire login,blocked,medium,9999,,2024-11-12T08:07:17,
+tsk_01729,prj_0095,Documenter page profil,in_progress,critical,,,2025-02-22T05:13:58,
+tsk_01730,prj_0056,Valider documentation,todo,medium,2.6,,2025-03-10T16:19:35,
+tsk_01731,prj_0044,Refactor composant Header,done,low,,9.9,2025-02-21T11:40:01,2025-03-07T23:49:20
+tsk_01732,prj_0027,Optimiser documentation,done,medium,1.9,17.4,2025-02-10T09:10:30,2025-02-11T01:40:24
+tsk_01733,prj_0087,Reviewer maquettes Figma,done,medium,2.1,0.5,2024-11-21T23:31:26,2024-12-12T23:04:09
+tsk_01734,prj_0006,Spécifier envoi d'emails,cancelled,medium,23.5,,2025-02-02T22:23:58,
+tsk_01735,prj_0025,Valider tests unitaires,todo,low,8.4,,2025-03-22T16:30:06,
+tsk_01736,prj_0015,Designer dockerfile backend,in_progress,medium,8.8,,2025-03-28T01:55:02,
+tsk_01737,prj_0093,Reviewer wireframes,done,medium,,28.2,2024-12-06T02:17:08,2025-01-14T05:19:16
+tsk_01738,prj_0054,Teste...,in_progress,high,5.3,,2024-11-10T03:06:04,
+tsk_01739,prj_0036,Documenter wireframes,in_review,high,4.5,,2025-01-23T16:55:49,
+tsk_01740,prj_0076,Reviewer page profil,done,medium,8.8,27.7,2024-12-21T12:39:52,2025-01-16T05:43:45
+tsk_01741,prj_0038,Refactor intégration Stripe,done,high,0.8,25.2,2025-02-12T02:59:12,2025-03-12T22:43:13
+tsk_01742,prj_0093,Estimer envoi d'emails,in_progress,medium,1.7,,2024-12-09T01:28:25,
+tsk_01743,prj_0074,Designer migration,todo,high,3.6,,2024-10-09T15:37:08,
+tsk_01744,prj_0071,Valider migration,done,critical,8.8,13.6,2025-01-03T19:50:59,2025-02-11T05:30:12
+tsk_01745,prj_0070,Estimer modal de confirmation,done,low,8.3,2.4,2025-02-26T18:23:13,2025-03-27T01:50:50
+tsk_01746,prj_0066,Tester composant Header,done,medium,2.2,16.7,2025-03-30T18:55:22,2025-03-30T21:19:18
+tsk_01747,prj_0003,Déployer intégration Stripe,in_review,low,,,2025-02-25T20:28:24,
+tsk_01748,prj_0081,Refactor page profil,done,low,9.1,5.1,2025-03-29T10:49:57,2025-03-29T18:05:50
+tsk_01749,prj_0084,,done,low,2.2,11.9,2025-02-19T09:39:55,2025-03-10T21:47:04
+tsk_01750,prj_0007,Tester intégration Stripe,done,low,24.6,7.1,2025-03-02T12:00:59,2025-03-13T17:06:48
+tsk_01751,prj_0039,Déployer migration,blocked,critical,24.8,,2025-02-05T08:24:24,
+tsk_01752,prj_0094,Refac...,cancelled,low,1.9,,2024-11-27T15:40:27,
+tsk_01753,prj_0085,Reviewer formulaire login,todo,medium,1.8,,2024-11-28T06:49:19,
+tsk_01754,prj_0012,Optimiser pipeline CI,in_review,medium,-2,,2025-01-05T02:15:08,
+tsk_01755,prj_0066,Documenter page profil,in_progress,critical,,,2025-03-27T08:03:03,
+tsk_01756,prj_0090,Reviewer migration,done,critical,,29.7,2025-01-03T21:44:32,2025-01-29T21:56:27
+tsk_01757,prj_0081,,in_review,critical,5.0,,2025-03-25T22:14:57,
+tsk_01758,prj_0069,Reviewer schéma BDD,done,low,4.9,13.1,2025-02-10T02:59:13,2025-02-27T11:06:32
+tsk_01759,prj_0038,Designer footer,blocked,critical,,,2025-01-31T06:50:31,
+tsk_01760,prj_0028,Estimer wireframes,done,medium,2.0,17.7,2024-12-03T14:55:09,2024-12-20T20:36:08
+tsk_01761,prj_0091,Corriger wireframes,todo,medium,1.9,,2025-03-06T10:21:47,
+tsk_01762,prj_0012,Reviewer schéma BDD,done,critical,16.4,7.2,2024-11-28T13:04:43,2024-12-09T13:16:59
+tsk_01763,prj_0071,Déployer intégration Stripe,done,medium,24.7,27.4,2025-01-16T17:15:24,2025-02-08T08:50:34
+tsk_01764,prj_0033,Optimiser gestion des erreurs,todo,low,4.2,,2025-03-08T12:51:55,
+tsk_01765,prj_0079,Refactor endpoint /users,in_review,medium,,,2024-12-06T07:47:51,
+tsk_01766,prj_0086,Reviewer schéma BDD,in_review,medium,3.2,,2025-03-20T23:05:59,
+tsk_01767,prj_0050,Documenter maquettes Figma,done,high,25.3,9.0,2025-03-02T10:55:09,2025-03-24T06:54:50
+tsk_01768,prj_0017,,in_review,medium,16.4,,2025-02-16T02:24:05,
+tsk_01769,prj_0004,Optimiser filtre de recherche,done,medium,6.0,11.6,2025-03-01T04:22:25,2025-03-21T08:36:05
+tsk_01770,prj_0053,Refactor composant Header,cancelled,low,2.5,,2025-02-21T22:27:42,
+tsk_01771,prj_0017,,done,critical,8.1,29.7,2025-01-08T00:47:59,2025-02-20T16:57:40
+tsk_01772,prj_0054,Corriger documentation,in_progress,high,3.5,,2025-01-13T00:34:44,
+tsk_01773,prj_0016,Déployer pipeline CI,in_progress,medium,2.6,,2025-01-01T05:00:28,
+tsk_01774,prj_0040,Implémenter système d'auth,done,medium,25.4,4.3,2025-01-07T14:51:28,2025-02-13T02:32:40
+tsk_01775,prj_0095,Refactor API utilisateurs,in_review,medium,5.6,,2025-03-15T05:20:58,
+tsk_01776,prj_0034,Déployer maquettes Figma,in_progress,low,1.8,,2024-11-26T02:19:22,
+tsk_01777,prj_0027,Documenter maquettes Figma,done,critical,-2,27.4,2025-01-25T07:03:36,2025-02-20T04:34:06
+tsk_01778,prj_0031,Documenter composant Header,todo,critical,9.6,,2025-01-27T07:59:10,
+tsk_01779,prj_0020,Valider tests unitaires,todo,medium,2.7,,2025-01-25T05:41:40,
+tsk_01780,prj_0002,Déployer tests unitaires,todo,medium,,,2024-11-17T17:57:33,
+tsk_01781,prj_0025,Spécifier formulaire login,done,high,7.7,14.7,2025-03-16T08:48:04,2025-03-29T08:59:36
+tsk_01782,prj_0012,Estimer maquettes Figma,todo,low,9999,,2025-03-26T09:24:02,
+tsk_01783,prj_0010,Reviewer composant Header,in_review,low,5.6,,2025-03-24T09:44:10,
+tsk_01784,prj_0053,Valider logs structurés,todo,medium,1.9,,2024-09-06T16:40:21,
+tsk_01785,prj_0026,Déployer formulaire login,in_review,low,17.9,,2024-12-21T11:30:45,
+tsk_01786,prj_0090,Tester filtre de recherche,done,high,,23.8,2024-12-26T19:05:22,2025-01-09T20:07:13
+tsk_01787,prj_0053,Documenter migration,todo,medium,,,2025-03-11T08:53:16,
+tsk_01788,prj_0052,Optimiser wireframes,done,low,,8.7,2025-02-13T09:14:22,2025-02-20T00:25:30
+tsk_01789,prj_0041,Tester logs structurés,done,medium,,19.8,2025-02-01T18:46:35,2025-02-08T13:41:58
+tsk_01790,prj_0085,Déployer dockerfile backend,done,low,1.8,3.5,2024-09-22T14:48:13,2024-10-20T13:44:52
+tsk_01791,prj_0015,Documenter migration,todo,high,2.0,,2025-01-01T07:46:41,
+tsk_01792,prj_0052,Estimer footer,done,medium,15.6,15.6,2025-02-01T03:36:21,2025-03-01T11:36:25
+tsk_01793,prj_0075,Reviewer logs structurés,in_progress,high,8.9,,2025-01-01T14:15:23,
+tsk_01794,prj_0081,Déployer API utilisateurs,todo,medium,6.0,,2025-02-16T02:34:52,
+tsk_01795,prj_0052,Corriger dockerfile backend,done,medium,1.5,11.4,2025-02-08T04:36:07,2025-02-15T20:20:34
+tsk_01796,prj_0054,Refactor pipeline CI,in_progress,medium,5.4,,2024-12-30T02:16:43,
+tsk_01797,prj_0035,Déployer migration,in_review,medium,2.4,,2025-02-13T12:22:23,
+tsk_01798,prj_0074,Tester schéma BDD,done,high,1.8,29.7,2025-01-13T17:41:42,2025-02-19T09:18:30
+tsk_01799,prj_0061,Reviewer footer,todo,medium,2.0,,2025-01-29T23:53:15,
+tsk_01800,prj_0085,Optimiser footer,in_review,medium,16.8,,2024-12-24T22:12:32,
+tsk_01801,prj_0038,Valider envoi d'emails,in_review,medium,0.9,,2025-03-24T18:55:14,
+tsk_01802,prj_0029,Designer wireframes,blocked,low,,,2025-03-06T00:40:30,
+tsk_01803,prj_0032,Tester composant Header,done,low,,25.0,2025-01-22T22:53:47,2025-03-01T13:51:17
+tsk_01804,prj_0013,,done,medium,0.3,4.6,2025-02-01T07:02:51,2025-03-16T19:14:23
+tsk_01805,prj_0016,Documenter tests unitaires,in_review,low,10.0,,2025-01-05T12:43:13,
+tsk_01806,prj_0082,Refactor composant Header,in_review,high,17.8,,2024-12-23T22:49:03,
+tsk_01807,prj_0076,Designer intégration Stripe,done,low,,29.8,2025-03-12T11:53:54,2025-03-14T10:27:26
+tsk_01808,prj_0083,Documenter intégration Stripe,done,medium,,29.7,2025-02-23T03:23:25,2025-03-17T01:25:24
+tsk_01809,prj_0088,Valid...,in_progress,medium,3.5,,2025-03-01T20:40:55,
+tsk_01810,prj_0074,Déployer intégration Stripe,todo,high,,,2024-10-04T00:07:25,
+tsk_01811,prj_0011,Documenter modal de confirmation,in_progress,medium,2.9,,2025-03-07T11:57:56,
+tsk_01812,prj_0036,Valider maquettes Figma,done,medium,0.6,28.7,2025-02-28T09:48:35,2025-03-03T10:08:02
+tsk_01813,prj_0033,Documenter intégration Stripe,todo,medium,2.1,,2025-03-16T02:11:05,
+tsk_01814,prj_0084,Spécifier maquettes Figma,done,low,1.9,27.8,2025-02-25T13:04:03,2025-03-17T18:54:01
+tsk_01815,prj_0010,Tester système d'auth,done,low,8.2,15.3,2025-03-26T03:42:34,2025-03-27T17:15:24
+tsk_01816,prj_0020,Designer formulaire login,in_progress,low,7.7,,2024-11-28T10:23:05,
+tsk_01817,prj_0070,Estimer système d'auth,todo,medium,2.5,,2025-01-26T23:07:15,
+tsk_01818,prj_0013,Implémenter export CSV,done,critical,15.7,5.3,2025-03-03T07:17:45,2025-03-03T12:18:54
+tsk_01819,prj_0012,Reviewer schéma BDD,todo,medium,8.0,,2024-10-18T08:10:31,
+tsk_01820,prj_0056,Designer schéma BDD,done,medium,16.7,7.5,2025-02-22T23:55:37,2025-02-26T11:31:08
+tsk_01821,prj_0079,Valider schéma BDD,done,medium,0.7,10.8,2024-12-05T14:31:38,2024-12-11T09:08:16
+tsk_01822,prj_0043,Reviewer footer,in_progress,medium,,,2025-01-15T15:28:25,
+tsk_01823,prj_0071,Refactor filtre de recherche,done,medium,,26.9,2024-12-29T12:38:10,2025-01-13T16:00:42
+tsk_01824,prj_0082,Corriger tests unitaires,in_progress,high,2.6,,2025-01-31T13:27:44,
+tsk_01825,prj_0078,,done,critical,4.6,17.9,2025-02-28T07:44:28,2025-03-05T11:12:05
+tsk_01826,prj_0085,Spécifier schéma BDD,in_progress,medium,1.1,,2025-02-07T16:36:53,
+tsk_01827,prj_0050,Desig...,todo,medium,0,,2025-01-04T04:51:02,
+tsk_01828,prj_0085,Reviewer dockerfile backend,todo,high,17.9,,2024-09-21T05:57:39,
+tsk_01829,prj_0054,Optimiser wireframes,todo,low,9999,,2025-03-26T10:31:46,
+tsk_01830,prj_0053,Documenter système d'auth,done,low,0.3,14.4,2025-02-11T17:03:17,2025-02-12T02:02:05
+tsk_01831,prj_0085,Tester filtre de recherche,todo,low,,,2024-11-06T06:30:05,
+tsk_01832,prj_0036,Déployer API utilisateurs,in_progress,low,0,,2025-02-22T08:19:18,
+tsk_01833,prj_0005,Corriger pipeline CI,in_progress,medium,3.2,,2025-03-18T14:18:28,
+tsk_01834,prj_0041,Estimer export CSV,in_progress,high,2.0,,2025-01-29T02:32:21,
+tsk_01835,prj_0056,Reviewer API utilisateurs,todo,high,,,2025-02-04T19:47:33,
+tsk_01836,prj_0060,,in_progress,low,25.3,,2025-02-17T06:15:21,
+tsk_01837,prj_0043,Tester wireframes,in_progress,medium,8.5,,2025-01-18T01:14:17,
+tsk_01838,prj_0059,Spécifier formulaire login,done,medium,0,16.9,2025-02-21T03:48:16,2025-03-25T21:13:41
+tsk_01839,prj_0045,Optimiser endpoint /users,cancelled,medium,15.9,,2025-03-29T23:25:54,
+tsk_01840,prj_0029,Estimer dockerfile backend,done,high,,18.1,2025-03-03T11:21:24,2025-03-23T00:18:00
+tsk_01841,prj_0043,Estimer API utilisateurs,in_progress,medium,2.0,,2025-02-17T03:30:30,
+tsk_01842,prj_0095,Designer intégration Stripe,done,medium,3.5,26.9,2024-11-10T12:33:33,2024-11-27T23:09:28
+tsk_01843,prj_0009,Déployer pipeline CI,in_review,medium,-2,,2024-09-23T13:12:42,
+tsk_01844,prj_0041,Déployer footer,in_review,low,1.4,,2025-01-24T05:14:33,
+tsk_01845,prj_0082,Optimiser composant Header,done,low,25.6,25.5,2024-11-25T23:57:08,2024-12-25T17:59:49
+tsk_01846,prj_0024,Spécifier schéma BDD,done,high,1.9,27.1,2025-02-07T12:01:14,2025-02-14T08:06:33
+tsk_01847,prj_0036,Corriger migration,in_review,low,8.3,,2025-01-15T09:09:55,
+tsk_01848,prj_0059,Implémenter composant Header,done,medium,0.6,0.9,2025-02-20T13:42:38,2025-03-10T23:04:19
+tsk_01849,prj_0028,Refactor logs structurés,done,medium,23.8,25.5,2024-12-20T11:57:08,2024-12-31T06:52:54
+tsk_01850,prj_0050,Tester envoi d'emails,todo,low,1.1,,2024-11-30T16:01:16,

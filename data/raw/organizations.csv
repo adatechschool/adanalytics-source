@@ -1,0 +1,19 @@
+org_id,name,created_at,plan,active
+org_001,Promo Goldwasser,2024-10-23T21:48:20,free,True
+org_002,Promo Curie,2024-09-28T00:13:52,pro,True
+org_003,Cohorte 2024-1,2024-09-16T12:01:59,pro,True
+org_004,Promo Ada,2024-09-16T02:17:36,free,True
+org_005,Admin Ada,2024-09-10T22:10:01,free,True
+org_006,Promo Lovelace,2024-10-04T09:28:29,pro,True
+org_007,Cohorte Beta,2024-10-15T14:32:15,pro,False
+org_008,Promo Hopper,2024-10-07T18:02:56,free,True
+org_009,Test interne,2024-10-06T02:40:14,pro,True
+org_010,Cohorte Alpha,2024-09-05T10:46:42,pro,True
+org_011,Promo Yalow,2024-09-08T17:55:43,enterprise,False
+org_012,Promo Tester,2024-10-07T21:45:29,free,True
+org_013,Promo Bell,2024-10-06T10:07:14,free,True
+org_014,Promo Noether,2024-09-26T22:06:12,pro,True
+org_015,Cohorte 2024-2,2024-09-07T22:22:47,pro,True
+org_016,Promo Joliot,2024-09-24T18:27:02,free,True
+org_017,Equipe Pédagogique,2024-10-25T01:47:13,free,True
+org_018,Squad Carrière,2024-09-06T10:20:41,free,True
